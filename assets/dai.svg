@@ -1,0 +1,21 @@
+<svg width="41px" height="41px" viewBox="0 0 41 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <desc>Dai Icon.</desc>
+   <defs></defs>
+   <g id="dai-container" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+       <g id="dai" transform="translate(-503.000000, -555.000000)">
+           <g id="Group-2" transform="translate(390.000000, 203.000000)">
+               <g id="Group-3" transform="translate(0.000000, 0.375000)">
+                   <g id="Group-4" transform="translate(96.000000, 339.000000)">
+                       <g id="Group" transform="translate(17.000000, 13.000000)">
+                           <circle id="Oval-3-Copy" fill="#F8A607" cx="20.2269123" cy="20.3005173" r="20"></circle>
+                           <rect id="Rectangle-14" fill="#FEBE44" transform="translate(20.052870, 19.617748) rotate(-315.000000) translate(-20.052870, -19.617748) " x="12.6791904" y="12.244068" width="14.7473595" height="14.7473595"></rect>
+                           <polygon id="Rectangle-14" fill="#FFCE45" transform="translate(20.052870, 19.617748) rotate(-315.000000) translate(-20.052870, -19.617748) " points="22.5714784 22.1363559 27.4265499 12.244068 27.4265499 26.9914275 12.6791904 26.9914275"></polygon>
+                           <polygon id="Rectangle-14" fill-opacity="0.0782382246" fill="#000000" transform="translate(20.052870, 19.617748) rotate(-315.000000) translate(-20.052870, -19.617748) " points="12.6791904 12.244068 27.4265499 12.244068 27.4265499 26.9914275 20.0528702 19.6177477"></polygon>
+                           <polygon id="Path-4" fill="#FFFFFF" points="13.1698099 18.9610332 17.9303273 18.9610332 20.0114609 16.4600791 22.1385391 19.0210697 26.9359305 19.0210697 19.8951745 11.3988813"></polygon>
+                       </g>
+                   </g>
+               </g>
+           </g>
+       </g>
+   </g>
+</svg>

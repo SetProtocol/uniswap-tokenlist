@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>LINK</title>
+    <desc>Created with Sketch.</desc>
+    <g id="LINK" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#E0DCF4" stroke-width="0.5" fill="#FFFFFF" fill-rule="nonzero" cx="12.0465058" cy="12.0416498" r="11.7034942"></circle>
+        <g id="chainlink-icon-logo-blue" transform="translate(4.319303, 2.948667)" fill="#2A5ADA" fill-rule="nonzero">
+            <path d="M7.68069651,0.359957053 L6.11455895,1.26048615 L1.84683408,3.72715282 L0.280696514,4.62768192 L0.280696514,13.1631317 L1.84683408,14.0636608 L6.15371239,16.5303274 L7.71984995,17.4308565 L9.28598752,16.5303274 L13.5145589,14.0636608 L15.0806965,13.1631317 L15.0806965,4.62768192 L13.5145589,3.72715282 L9.24683408,1.26048615 L7.68069651,0.359957053 Z M3.41297165,11.3620735 L3.41297165,6.42874012 L7.68069651,3.96207345 L11.9484214,6.42874012 L11.9484214,11.3620735 L7.68069651,13.8287401 L3.41297165,11.3620735 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

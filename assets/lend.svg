@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>LEND</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#0DC0CD" offset="0%"></stop>
+            <stop stop-color="#009FCF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="LEND" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="eth">
+            <circle id="Oval" fill="url(#linearGradient-1)" cx="12" cy="12" r="12"></circle>
+            <g id="Group" transform="translate(12.060640, 11.832884) rotate(-315.000000) translate(-12.060640, -11.832884) translate(8.560640, 3.332884)" fill="#FFFFFF" fill-rule="nonzero">
+                <polygon id="Path-84" points="1.77993266 0 1.77993266 4.89398959 6.67474748 4.89481482 6.67474748 6.67474748 -4.35992383e-13 6.67474748 -4.35992383e-13 0"></polygon>
+                <polygon id="Path-84-Copy" transform="translate(3.337374, 13.305126) rotate(-180.000000) translate(-3.337374, -13.305126) " points="1.77993266 9.96775238 1.77974531 14.8625097 6.67474748 14.8625672 6.67474748 16.6424999 -4.36095604e-13 16.6424999 -4.36095604e-13 9.96775238"></polygon>
+                <polygon id="Line" points="6.67474748 7.4312836 6.67474748 9.21121626 -4.35992383e-13 9.21121626 -4.35992383e-13 7.4312836"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
