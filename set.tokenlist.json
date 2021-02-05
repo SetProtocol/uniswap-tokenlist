@@ -6,7 +6,7 @@
     "tokensets",
     "defi"
   ],
-  "timestamp": "2020-10-19T12:32:17.000+00:00",
+  "timestamp": "2021-05-19T04:32:17.000+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -151,6 +151,14 @@
       "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/link.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1788430620960F9a70e3DC14202a3A35ddE1A316",
+      "name": "OpenAlexa Token",
+      "symbol": "OAP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/oap.png"
     }
   ],
   "version": {
