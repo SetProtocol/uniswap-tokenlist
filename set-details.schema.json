@@ -145,12 +145,23 @@
     },
     "setDetails": {
       "$ref": "#/definitions/SetDetails"
+    },
+    "signature": {
+      "type": "string",
+      "description": "Signature of the new version number (i.e. '1.0.1') using manager account",
+      "minLength": 132,
+      "maxLength": 132,
+      "pattern": "0x[0-9a-fA-F]+$",
+      "examples": [
+        "0x21fbf0696d5e0aa2ef41a2b4ffb623bcaf070461d61cf7251c74161f82fec3a4370854bc0a34b3ab487c1bc021cd318c734c51ae29374f2beb0e6f2dd49b4bf41c"
+      ]
     }
   },
   "required": [
     "name",
     "timestamp",
     "version",
-    "setDetails"
+    "setDetails",
+    "signature"
   ]
 }
