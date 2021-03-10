@@ -1,0 +1,148 @@
+// 20210310004324
+// https://github.com/SetProtocol/uniswap-tokenlist/blob/main/set-details.schema.json
+
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/SetProtocol/uniswap-tokenlist/blob/main/set-details.schema.json",
+  "title": "Set Details Description",
+  "description": "Schema for details of Sets compatible with the TokenSets Interface",
+  "definitions": {
+    "Version": {
+      "type": "object",
+      "description": "The version of the details, used in change detection",
+      "examples": [
+        {
+          "major": 1,
+          "minor": 0,
+          "patch": 0
+        }
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "major": {
+          "type": "integer",
+          "description": "The major version of the details. Must be incremented when manager name is changed.",
+          "minimum": 0,
+          "examples": [
+            1,
+            2
+          ]
+        },
+        "minor": {
+          "type": "integer",
+          "description": "The minor version of the details. Must be incremented for any changes to Set or Manager icon.",
+          "minimum": 0,
+          "examples": [
+            0,
+            1
+          ]
+        },
+        "patch": {
+          "type": "integer",
+          "description": "The patch version of the details. Must be incremented for any changes to descriptions.",
+          "minimum": 0,
+          "examples": [
+            0,
+            1
+          ]
+        }
+      },
+      "required": [
+        "major",
+        "minor",
+        "patch"
+      ]
+    },
+    "SetDetails": {
+      "type": "object",
+      "description": "Metadata for a given Set details",
+      "additionalProperties": false,
+      "properties": {
+        "managerName": {
+          "type": "string",
+          "description": "The name of the manager",
+          "minLength": 1,
+          "maxLength": 40,
+          "pattern": "^[ \\w.'+\\-%/À-ÖØ-öø-ÿ\\:]+$",
+          "examples": [
+            "Crypto Manager"
+          ]
+        },
+        "managerDescription": {
+          "type": "string",
+          "description": "The description of the manager",
+          "minLength": 1,
+          "maxLength": 1000,
+          "pattern": "^[ \\w.'+\\-%/À-ÖØ-öø-ÿ\\:]+$",
+          "examples": [
+            "Crypto Manager"
+          ]
+        },
+        "managerIcon": {
+          "type": "string",
+          "description": "A URI to the Manager logo asset; suggest SVG or PNG of size 64x64",
+          "format": "uri",
+          "examples": [
+            "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM"
+          ]
+        },
+        "setDescription": {
+          "type": "string",
+          "description": "The description of the Set",
+          "minLength": 1,
+          "maxLength": 5000,
+          "pattern": "^[ \\w.'+\\-%/À-ÖØ-öø-ÿ\\:]+$",
+          "examples": [
+            "Crypto Manager"
+          ]
+        },
+        "setIcon": {
+          "type": "string",
+          "description": "A URI to the Set logo asset; suggest SVG or PNG of size 64x64",
+          "format": "uri",
+          "examples": [
+            "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM"
+          ]
+        }
+      },
+      "required": [
+        "managerName",
+        "managerDescription",
+        "managerIcon",
+        "setDescription",
+        "setIcon"
+      ]
+    }
+  },
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "The name of the Set Details",
+      "minLength": 1,
+      "maxLength": 20,
+      "pattern": "^[\\w ]+$",
+      "examples": [
+        "My Set Details"
+      ]
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "The timestamp of this details version; i.e. when this immutable version of the details was created"
+    },
+    "version": {
+      "$ref": "#/definitions/Version"
+    },
+    "setDetails": {
+      "$ref": "#/definitions/SetDetails"
+    }
+  },
+  "required": [
+    "name",
+    "timestamp",
+    "version",
+    "setDetails"
+  ]
+}
