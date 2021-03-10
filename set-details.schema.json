@@ -1,5 +1,7 @@
 // 20210310004324
 // https://github.com/SetProtocol/uniswap-tokenlist/blob/main/set-details.schema.json
+// You can paste the below JSON into a schema validator such as https://www.jsonschemavalidator.net/ to
+// see if your JSON data is following the correct format
 
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
@@ -20,7 +22,8 @@
       "additionalProperties": false,
       "properties": {
         "major": {
-          "type": "integer",
+          "type": "number",
+          "multipleOf": 1.0,
           "description": "The major version of the details. Must be incremented when manager name is changed.",
           "minimum": 0,
           "examples": [
@@ -29,7 +32,8 @@
           ]
         },
         "minor": {
-          "type": "integer",
+          "type": "number",
+          "multipleOf": 1.0,
           "description": "The minor version of the details. Must be incremented for any changes to Set or Manager icon.",
           "minimum": 0,
           "examples": [
@@ -38,7 +42,8 @@
           ]
         },
         "patch": {
-          "type": "integer",
+          "type": "number",
+          "multipleOf": 1.0,
           "description": "The patch version of the details. Must be incremented for any changes to descriptions.",
           "minimum": 0,
           "examples": [
@@ -75,7 +80,7 @@
           "maxLength": 1000,
           "pattern": "^[ \\w.'+\\-%/À-ÖØ-öø-ÿ\\:]+$",
           "examples": [
-            "Crypto Manager"
+            "This is the description of the manager"
           ]
         },
         "managerIcon": {
@@ -93,7 +98,7 @@
           "maxLength": 5000,
           "pattern": "^[ \\w.'+\\-%/À-ÖØ-öø-ÿ\\:]+$",
           "examples": [
-            "Crypto Manager"
+            "This is the description of the Set"
           ]
         },
         "setIcon": {
@@ -130,7 +135,10 @@
     "timestamp": {
       "type": "string",
       "format": "date-time",
-      "description": "The timestamp of this details version; i.e. when this immutable version of the details was created"
+      "description": "The timestamp of this details version; i.e. when this immutable version of the details was created",
+      "examples": [
+        "2012-04-23T18:25:43.511Z"
+      ]
     },
     "version": {
       "$ref": "#/definitions/Version"
