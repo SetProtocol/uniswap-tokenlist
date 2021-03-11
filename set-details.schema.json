@@ -4,60 +4,20 @@
   "title": "Set Details Description",
   "description": "Schema for details of Sets compatible with the TokenSets Interface",
   "definitions": {
-    "Version": {
-      "type": "object",
-      "description": "The version of the details, used in change detection",
-      "examples": [
-        {
-          "major": 1,
-          "minor": 0,
-          "patch": 0
-        }
-      ],
-      "additionalProperties": false,
-      "properties": {
-        "major": {
-          "type": "number",
-          "multipleOf": 1.0,
-          "description": "The major version of the details. Must be incremented when manager name is changed.",
-          "minimum": 0,
-          "examples": [
-            1,
-            2
-          ]
-        },
-        "minor": {
-          "type": "number",
-          "multipleOf": 1.0,
-          "description": "The minor version of the details. Must be incremented for any changes to Set or Manager icon.",
-          "minimum": 0,
-          "examples": [
-            0,
-            1
-          ]
-        },
-        "patch": {
-          "type": "number",
-          "multipleOf": 1.0,
-          "description": "The patch version of the details. Must be incremented for any changes to descriptions.",
-          "minimum": 0,
-          "examples": [
-            0,
-            1
-          ]
-        }
-      },
-      "required": [
-        "major",
-        "minor",
-        "patch"
-      ]
-    },
     "SetDetails": {
       "type": "object",
       "description": "Metadata for a given Set details",
       "additionalProperties": false,
       "properties": {
+        "chainId": {
+          "type": "integer",
+          "description": "The chain ID of the Ethereum network where this token is deployed",
+          "minimum": 1,
+          "examples": [
+            1,
+            42
+          ]
+        },
         "managerName": {
           "type": "string",
           "description": "The name of the manager",
@@ -103,14 +63,47 @@
           "examples": [
             "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM"
           ]
+        },
+        "setDecimals": {
+          "type": "integer",
+          "description": "The number of decimals for the token balance",
+          "minimum": 0,
+          "maximum": 255,
+          "examples": [
+            18
+          ]
+        },
+        "setName": {
+          "type": "string",
+          "description": "The name of the token",
+          "minLength": 1,
+          "maxLength": 40,
+          "pattern": "^[ \\w.'+\\-%/À-ÖØ-öø-ÿ\\:]+$",
+          "examples": [
+            "USD Coin"
+          ]
+        },
+        "setSymbol": {
+          "type": "string",
+          "description": "The symbol for the token; must be alphanumeric",
+          "pattern": "^[a-zA-Z0-9+\\-%/\\$]+$",
+          "minLength": 1,
+          "maxLength": 20,
+          "examples": [
+            "USDC"
+          ]
         }
       },
       "required": [
+        "chainId",
         "managerName",
         "managerDescription",
         "managerIcon",
         "setDescription",
-        "setIcon"
+        "setIcon",
+        "setDecimals",
+        "setName",
+        "setSymbol"
       ]
     }
   },
@@ -127,16 +120,15 @@
         "My Set Details"
       ]
     },
-    "timestamp": {
-      "type": "string",
-      "format": "date-time",
-      "description": "The timestamp of this details version; i.e. when this immutable version of the details was created",
-      "examples": [
-        "2012-04-23T18:25:43.511Z"
-      ]
-    },
     "version": {
-      "$ref": "#/definitions/Version"
+      "type": "number",
+      "multipleOf": 1.0,
+      "description": "The version of the details. Must be incremented when making changes.",
+      "minimum": 1,
+      "examples": [
+        1,
+        2
+      ]
     },
     "setDetails": {
       "$ref": "#/definitions/SetDetails"
@@ -144,7 +136,6 @@
   },
   "required": [
     "name",
-    "timestamp",
     "version",
     "setDetails"
   ]

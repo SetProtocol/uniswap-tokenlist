@@ -1,16 +1,15 @@
 {
   "name": "DeFi Pulse Index",
-  "timestamp": "2020-10-19T12:32:17.000+00:00",
   "setDetails": {
-      "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/dpi.svg",
-      "setDescription": "Pulse Inc.",
-      "managerName": "Pulse Inc.",
-      "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/dpi.svg",
-      "managerDescription": "This is my DeFi Pulse Description",
+    "chainId": 1,
+    "setName": "DeFi Pulse Index",
+    "setSymbol": "DPI",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/dpi.svg",
+    "setDescription": "Pulse Inc.",
+    "managerName": "Pulse Inc.",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/dpi.svg",
+    "managerDescription": "This is my DeFi Pulse Description",
   },
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  }
+  "version": 1
 }
