@@ -110,16 +110,6 @@
   "type": "object",
   "additionalProperties": false,
   "properties": {
-    "name": {
-      "type": "string",
-      "description": "The name of the Set Details",
-      "minLength": 1,
-      "maxLength": 20,
-      "pattern": "^[\\w ]+$",
-      "examples": [
-        "My Set Details"
-      ]
-    },
     "version": {
       "type": "number",
       "multipleOf": 1.0,
@@ -135,7 +125,6 @@
     }
   },
   "required": [
-    "name",
     "version",
     "setDetails"
   ]
