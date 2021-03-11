@@ -1,0 +1,23 @@
+{
+  "name": "Set",
+  "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/set-logo.svg",
+  "keywords": ["set", "tokensets", "defi"],
+  "timestamp": "2020-10-19T12:32:17.000+00:00",
+  "sets": [
+    {
+      "setName": "DeFi Pulse Index",
+      "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/dpi.svg",
+      "setDescription": "Pulse Inc.",
+      "managerName": "Pulse Inc.",
+      "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/dpi.svg",
+      "managerDescription": "This is my DeFi Pulse Description",
+      "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
+      "symbol": "DPI"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
