@@ -33,7 +33,7 @@
           "description": "The description of the manager",
           "minLength": 1,
           "maxLength": 1000,
-          "pattern": "^[ \\w.'+\\-%/À-ÖØ-öø-ÿ\\:]+$",
+          "pattern": ".+",
           "examples": [
             "This is the description of the manager"
           ]
@@ -51,7 +51,7 @@
           "description": "The description of the Set",
           "minLength": 1,
           "maxLength": 5000,
-          "pattern": "^[ \\w.'+\\-%/À-ÖØ-öø-ÿ\\:]+$",
+          "pattern": ".+",
           "examples": [
             "This is the description of the Set"
           ]
