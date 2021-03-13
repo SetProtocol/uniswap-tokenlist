@@ -46,6 +46,24 @@
             "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM"
           ]
         },
+        "managerTwitter": {
+          "type": "string",
+          "description": "Twitter username",
+          "minLength": 1,
+          "maxLength": 40,
+          "pattern": "^?(\\w){1,15}$",
+          "examples": [
+            "myusername"
+          ]
+        },
+        "website": {
+          "type": "string",
+          "description": "Website for users to get more information about manager or the set",
+          "format": "uri",
+          "examples": [
+            "https://www.defipulse.com"
+          ]
+        },
         "setDescription": {
           "type": "string",
           "description": "The description of the Set",
