@@ -1,7 +1,7 @@
 {
     "setDetails": {
       "chainId": 1,
-      "setName": "The ₿EST Portfolio",
+      "setName": "The BEST Portfolio",
       "setSymbol": "BEST",
       "setDecimals": 18,
       "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/best.png", 
