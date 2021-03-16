@@ -62,8 +62,232 @@
       "name": "The BEST Portfolio",
       "symbol": "BEST",
       "decimals": 18,
+<<<<<<< HEAD
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/best.png"
     }    
+||||||| 4bfd84a
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ren.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+      "name": "Maker",
+      "symbol": "MKR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mkr.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+      "name": "Balancer",
+      "symbol": "BAL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/bal.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+      "name": "Synthetix",
+      "symbol": "SNX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/snx.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+      "name": "ETHLend",
+      "symbol": "LEND",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/lend.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+      "name": "Compound",
+      "symbol": "COMP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/comp.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x221657776846890989a759BA2973e427DfF5C9bB",
+      "name": "Augur",
+      "symbol": "REP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/rep.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+      "name": "Yearn",
+      "symbol": "YFI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/yfi.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
+      "name": "Kyber Network Crystal",
+      "symbol": "KNC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/knc.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dai.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/usdt.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/btc.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "name": "USD Coin USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/usdc.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/link.svg"
+    }
+=======
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ren.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+      "name": "Maker",
+      "symbol": "MKR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mkr.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+      "name": "Balancer",
+      "symbol": "BAL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/bal.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+      "name": "Synthetix",
+      "symbol": "SNX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/snx.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+      "name": "ETHLend",
+      "symbol": "LEND",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/lend.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+      "name": "Compound",
+      "symbol": "COMP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/comp.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x221657776846890989a759BA2973e427DfF5C9bB",
+      "name": "Augur",
+      "symbol": "REP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/rep.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+      "name": "Yearn",
+      "symbol": "YFI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/yfi.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
+      "name": "Kyber Network Crystal",
+      "symbol": "KNC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/knc.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dai.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/usdt.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/btc.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "name": "USD Coin USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/usdc.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/link.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xEab53D2Dc181d5c2D316a3370471a028C621EdE7",
+      "name": "The BEST Portfolio",
+      "symbol": "BEST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/best.png"
+    }    
+>>>>>>> e0a336d86eaed481b38772df8fc1ec0585914406
   ],
   "version": {
     "major": 0,

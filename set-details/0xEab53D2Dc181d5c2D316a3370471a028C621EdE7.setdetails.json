@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "setDetails": {
       "chainId": 1,
@@ -16,3 +17,23 @@
     "version": 1
   }
   
+||||||| 4bfd84a
+=======
+{
+    "setDetails": {
+      "chainId": 1,
+      "setName": "The BEST Portfolio",
+      "setSymbol": "BEST",
+      "setDecimals": 18,
+      "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/best.png", 
+      "setDescription": "The ₿EST Portfolio is a set of Ethereum-based cryptoassets actively managed by Token Terrier. ₿EST seeks to accrue value over the long-term by aggressively investing in the cryptoasset ecosystem.\nRead the Frequently Asked Questions (FAQ): https://www.tokenterrier.com/best-faq ",
+      "managerName": "Token Terrier",
+      "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/managers/TokenTerrier.png",
+      "managerDescription": "Token Terrier LLC (“Token Terrier”) creates informational and educational content for cryptoasset investors.",
+      "managerTwitter": "TokenTerrier",
+      "website": "https://www.tokenterrier.com/best"
+    },
+    "version": 1
+  }
+  
+>>>>>>> e0a336d86eaed481b38772df8fc1ec0585914406
