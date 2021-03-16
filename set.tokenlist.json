@@ -55,7 +55,15 @@
       "symbol": "ETH2X-FLI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-tokenlist/main/assets/tokens/eth2xfli.svg"
-    }
+    },
+    {
+      "chainId": 1,
+      "address": "0xEab53D2Dc181d5c2D316a3370471a028C621EdE7",
+      "name": "The BEST Portfolio",
+      "symbol": "BEST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/best.png"
+    }    
   ],
   "version": {
     "major": 0,
