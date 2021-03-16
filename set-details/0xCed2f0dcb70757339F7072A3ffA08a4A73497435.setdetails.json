@@ -1,0 +1,14 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "The Elon Marley Index",
+    "setSymbol": "WEED",
+    "setDecimals": 18,
+    "setIcon": "https://github.com/CryptoRootz/uniswap-tokenlist/blob/main/assets/tokens/elonmarley.jpeg",               // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/asset_name.png
+    "setDescription": "Getting High on Mars",
+    "managerName": "Crypto Rootz",
+    "managerIcon": "https://github.com/CryptoRootz/uniswap-tokenlist/blob/main/assets/managers/cryptorootz.jpeg",           // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/managers/manager_name.png
+    "managerDescription": "The Real Black Satoshi, The Blockchain Hustler, The Defi KingPin, Mr. Crypto Exotic"
+  },
+  "version": 1
+}
