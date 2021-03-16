@@ -7,7 +7,7 @@
       "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/best.png", 
       "setDescription": "The ₿EST Portfolio is a set of Ethereum-based cryptoassets actively managed by Token Terrier. ₿EST seeks to accrue value over the long-term by aggressively investing in the cryptoasset ecosystem.\nRead the Frequently Asked Questions (FAQ): https://www.tokenterrier.com/best-faq ",
       "managerName": "Token Terrier",
-      "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/managers/TokenTerrier.png",
+      "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/managers/token_terrier.png",
       "managerDescription": "Token Terrier creates informational and educational content for cryptoasset investors.",
       "managerTwitter": "TokenTerrier",
       "website": "https://www.tokenterrier.com/best"
