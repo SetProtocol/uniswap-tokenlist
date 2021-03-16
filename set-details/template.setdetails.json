@@ -8,7 +8,7 @@
     "setDescription": "",
     "managerName": "",
     "managerIcon": "",           // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/managers/manager_name.png
-    "managerDescription": "",
+    "managerDescription": ""
   },
   "version": 1
 }
