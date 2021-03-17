@@ -1,0 +1,15 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Nostradamus Capital Fund",
+    "setSymbol": "NCF",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/pepimartinez/uniswap-tokenlist/main/assets/tokens/ncf.png",
+    "setDescription": "Nostradamus",
+    "website": "https://www.nostradamus.capital/",
+    "managerName": "Pepi",
+    "managerIcon": "https://raw.githubusercontent.com/pepimartinez/uniswap-tokenlist/main/assets/tokens/pepi.jpeg",
+    "managerDescription": "Nostradamus Capital is a boutique quantitative investment firm specializing in portfolio management, macroeconomic research, and the development of emerging technologies tailored towards investors. Our mission is to allocate capital into diverse macroeconomic trends and provide value to our clients through our unnmatchable understanding of the assets we invest in."
+  },
+  "version": 1
+}
