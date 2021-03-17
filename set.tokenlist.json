@@ -58,6 +58,14 @@
     },
     {
       "chainId": 1,
+      "address": "0xEab53D2Dc181d5c2D316a3370471a028C621EdE7",
+      "name": "The BEST Portfolio",
+      "symbol": "BEST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/best.png"
+    },    
+    {
+      "chainId": 1,
       "address": "0xe4e6570c098B4C0E780E94fa10e1B3b23F5E28a8",
       "name": "Nostradamus Capital Fund",
       "symbol": "NCF",
