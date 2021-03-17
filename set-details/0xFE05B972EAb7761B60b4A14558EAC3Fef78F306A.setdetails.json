@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Homebrew.Finance NFT Platforms",
+    "setSymbol": "MUG",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mug.png",             
+    "setDescription": "MUG is Homebrew.Finance's market-weighted index of NFT-related platform tokens.",
+    "managerName": "Homebrew.Finance",
+    "website": "https://homebrew.finance",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/homebrew.png",          
+    "managerTwitter": "homebrewDAO",
+    "managerDescription": "Homebrew.Finance is a cryptoasset management DAO focused on helping individuals achieve financial independence through bitcoin and cryptoasset investments."
+  },
+  "version": 1
+}

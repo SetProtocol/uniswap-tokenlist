@@ -63,7 +63,15 @@
       "symbol": "BEST",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/best.png"
-    }    
+    },
+    {
+      "chainId": 1,
+      "address": "0xfe05b972eab7761b60b4a14558eac3fef78f306a",
+      "name": "Homebrew.Finance NFT Platforms",
+      "symbol": "MUG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mug.png"
+    }  
   ],
   "version": {
     "major": 0,
