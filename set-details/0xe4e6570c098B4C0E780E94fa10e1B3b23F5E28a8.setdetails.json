@@ -5,11 +5,11 @@
     "setSymbol": "NCF",
     "setDecimals": 18,
     "setIcon": "https://raw.githubusercontent.com/pepimartinez/uniswap-tokenlist/main/assets/tokens/ncf.png",
-    "setDescription": "Nostradamus",
+    "setDescription": "Nostradamus Capital is a boutique quantitative investment firm specializing in portfolio management, macroeconomic research, and the development of emerging technologies tailored towards investors. Our mission is to allocate capital into diverse macroeconomic trends to provide value for our clients through our unnmatchable understanding of the assets we invest in.\nThe Nostradamus Capital Fund($NCF) is Nostradamus Capital’s Main Vision Fund consisting of the most liquid token leaders in various key sectors:\n1. Smart Contracts/Oracles (ETH, LINK)\n2. Defi/Lending/Derivatives (UNI, AAVE, SNX)\n3. NFTs/Metaverse/Gaming/Music (ENJ, MANA, AUDIO)\n4. Advertising/Browsers (BAT)\n5. Sports (CHZ)\n6. Privacy Tokens (ZEC)\n7. Storage (FIL)\n8. Identity (CVC)\n9. Stores of Value (BTC, GLD).",
     "website": "https://www.nostradamus.capital/",
     "managerName": "Pepi",
     "managerIcon": "https://raw.githubusercontent.com/pepimartinez/uniswap-tokenlist/main/assets/tokens/pepi.jpeg",
-    "managerDescription": "Nostradamus Capital is a boutique quantitative investment firm specializing in portfolio management, macroeconomic research, and the development of emerging technologies tailored towards investors. Our mission is to allocate capital into diverse macroeconomic trends and provide value to our clients through our unnmatchable understanding of the assets we invest in."
+    "managerDescription": "Full-stack software engineer passionate about the intersection between Computer Science and Economics particularly, in distributed systems and portfolio management."
   },
   "version": 1
 }
