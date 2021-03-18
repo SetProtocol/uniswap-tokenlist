@@ -71,7 +71,15 @@
       "symbol": "MUG",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mug.png"
-    }  
+    },
+    {
+      "chainId": 1,
+      "address": "0xFE05B972EAb7761B60b4A14558EAC3Fef78F306A",
+      "name": "Metaverse Index",
+      "symbol": "HUUB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/huub.png"
+    }
   ],
   "version": {
     "major": 0,
