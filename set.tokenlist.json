@@ -74,11 +74,19 @@
     },
     {
       "chainId": 1,
-      "address": "0xFE05B972EAb7761B60b4A14558EAC3Fef78F306A",
+      "address": "0xB1F66BC5867A329cFd0465A506c4ad96e6Be1aDC",
       "name": "Metaverse Index",
       "symbol": "HUUB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/huub.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe4e6570c098B4C0E780E94fa10e1B3b23F5E28a8",
+      "name": "Nostradamus Capital Fund",
+      "symbol": "NCF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ncf.png"
     }
   ],
   "version": {

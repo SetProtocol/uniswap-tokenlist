@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Metaverse Index",
+    "setSymbol": "HUUB",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/huub.png",
+    "setDescription": "The Metaverse Index (HUUB) is a tokenized smart contract that buys and sells crypto assets of metaverse and metaverse-enabling projects.\n\nThis portfolio is designed to optimally benefit from the growth of a decentralized metaverse and virtual worlds.",
+    "managerName": "Ubi",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/huub.png",
+    "managerDescription": "Ubi is a crypto investor with years of industry experience as a Metaverse-building entrepreneur.",
+    "website": "https://metaverseindex.com",
+    "managerTwitter": "MetaverseIndex"
+  },
+  "version": 1
+}
