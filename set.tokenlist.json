@@ -90,7 +90,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x5cb21a4f27eda65263dba6d56f1b9a2406e97e02",
+      "address": "0x5CB21A4F27eda65263Dba6d56F1B9A2406e97E02",
       "name": "ApeSzn Portfolio",
       "symbol": "APE",
       "decimals": 18,
