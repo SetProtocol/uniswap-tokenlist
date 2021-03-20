@@ -1,11 +1,7 @@
 {
   "name": "Set",
   "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/set-logo.svg",
-  "keywords": [
-    "set",
-    "tokensets",
-    "defi"
-  ],
+  "keywords": ["set", "tokensets", "defi"],
   "timestamp": "2020-10-19T12:32:17.000+00:00",
   "tokens": [
     {
@@ -87,6 +83,14 @@
       "symbol": "NCF",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ncf.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x5cb21a4f27eda65263dba6d56f1b9a2406e97e02",
+      "name": "ApeSzn Portfolio",
+      "symbol": "APE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/apeszn.svg"
     }
   ],
   "version": {
