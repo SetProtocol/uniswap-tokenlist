@@ -87,6 +87,14 @@
       "symbol": "NCF",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ncf.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x693391144D1e079e20cC64f795e9450C94966171",
+      "name": "Layer 2 Index",
+      "symbol": "LTI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/lti.svg"
     }
   ],
   "version": {
