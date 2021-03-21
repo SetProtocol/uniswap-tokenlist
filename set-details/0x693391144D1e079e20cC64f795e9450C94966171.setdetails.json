@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Layer 2 Index",
+    "setSymbol": "LTI",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/lti.svg",
+    "setDescription": "The Layer 2 Index is a simple and fast way to aquire the established and newly launched key components of the next wave of Ethereum and on chain Decentralized Finance.\n Layer 2 or L2 scaling allows the security of the Ethereum blockchain to scale transactions in a manner that all value is settled instantly to the mainnet.\n This is an index of Layer 2 Ethereum Tokens and their projects.\n The Layer 2 Index or LTI is a portfolio of protocol tokens that aspire to fundamentally disrupt large parts of the existing Layer 1 of Ethereum’s mainnet DeFi ecosystem and lower the costs for new crypto users through the use of Layer 2 scaling solutions.\n Layer 2 scaling and the speed and cost savings it enables is one of the most exciting developments in DeFi. Harnessing L2 will empower Decentralized Finance to disrupt segments of the financial industry that are worth trillions of dollars. Layer 2 and L2 will bring these features to many more mobile users, and reach 24 hour, round the clock access for global audiences based on delivering speed and reduced transaction costs.\n The Layer 2 Index LTI token is comprised of the retrievable components of the Layer 2 Index, which means that each LTI token is un-wrappable for the constituent tokens of the Layer 2 Index. This is true self-custody for DeFi users, and not dependent on an Oracle or other price feed to assign valuation of the LTI token. \n The Layer 2 Index is built on components of the Ethereum DeFi ecosystem. There is risk to usefulness and long term value of the LTI token based on the constituent tokens, and the ability to use and continue to use the DeFi tools.\n Every attempt has been made to minimize risk that could jeopardize the value of the LTI token. Consumers of this DeFi product should be able to make a determination on their own as to how much risk they can or should assume.\n There is no guarantee that LTI will hold value, or go up. It is simply an index of a broader market segment in the Ethereum DeFi space. In this case the ability for projects and products to offer and sustain Layer 2 or L2 Scaling on the Ethereum Mainnet. The holders of LTI tokens understand and acknowledge this risk.",
+    "website": "https://layer2index.eth.link",
+    "managerName": "Layer 2 Index",
+    "managerTwitter": "",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/lti.svg",
+    "managerDescription": "New index weights, additions and deletions are incorporated into the Layer 2 Index during the monthly reconstitution, which will take place on the first business day of the month.\n As tokens tracked by the Layer 2 Index grow, the reconstitution window will expand to more than one day to lower the reconstitution’s market impact."
+  },
+  "version": 1
+}
