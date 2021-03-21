@@ -95,6 +95,13 @@
       "symbol": "LTI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/lti.svg"
+    },
+    {
+      "address": "0x5CB21A4F27eda65263Dba6d56F1B9A2406e97E02",
+      "name": "ApeSzn Portfolio",
+      "symbol": "APE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/apeszn.svg"
     }
   ],
   "version": {
