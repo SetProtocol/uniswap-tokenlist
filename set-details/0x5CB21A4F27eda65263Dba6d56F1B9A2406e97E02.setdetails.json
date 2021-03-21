@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "ApeSzn Portfolio",
+    "setSymbol": "APE",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/apeszn.svg",
+    "setDescription": "The ApeSzn Portfolio is built upon a value based investment thesis and methodology. It aims for full exposure to the cryptocurrency altcoin market, focusing on a maxiumum of 10 simultaneous positions within low capitalisation projects that have significant growth potential.\n\nView the methodology: https://www.tradespot.capital/portfolio\n\n",
+    "website": "https://www.tradespot.capital",
+    "managerName": "Tradespot",
+    "managerTwitter": "0xChadwick",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/tradespot.png",
+    "managerDescription": "Tradespot is a blockchain & DLT investing company & community that provides bespoke technical analysis tools and portfolio management strategies."
+  },
+  "version": 1
+}
