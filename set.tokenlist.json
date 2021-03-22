@@ -97,6 +97,7 @@
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/lti.svg"
     },
     {
+      "chainId": 1,
       "address": "0x5CB21A4F27eda65263Dba6d56F1B9A2406e97E02",
       "name": "ApeSzn Portfolio",
       "symbol": "APE",
