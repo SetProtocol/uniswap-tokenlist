@@ -104,6 +104,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/apeszn.svg"
     }
+    {
+      "chainId": 1,
+      "address": "0x9F1906e78980dc8Afc5E30bA4BbC9572242C9D54",
+      "name": "NFT Bonus Index",
+      "symbol": "NFTB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/nftb.png"
+    }
   ],
   "version": {
     "major": 0,
