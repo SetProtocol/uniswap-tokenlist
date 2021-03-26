@@ -1,0 +1,15 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "NFT Bonus Index",
+    "setSymbol": "NFTB",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/nftb.png",
+    "setDescription": "The NFT Bonus Index (NFTB) is the easiest and cheapest way to get exposure to the NFT vertical as instead of users having to manually acquire all of these NFT tokens from various exchanges, the index allows for 1-click exposure and rebalances monthly.",
+    "website": "https://bonus-index.medium.com/",
+    "managerName": "Bonus Index",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/nftb.png",
+    "managerDescription": ""
+  },
+  "version": 1
+}
