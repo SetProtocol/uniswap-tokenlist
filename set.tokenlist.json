@@ -103,6 +103,14 @@
       "symbol": "APE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/apeszn.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xA9f694b207B0215a7C3312c005EE36dE42CF09A3",
+      "name": "Arkenstone DeFi Index Fund",
+      "symbol": "ADIF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/arkenstone.svg"
     }
   ],
   "version": {
