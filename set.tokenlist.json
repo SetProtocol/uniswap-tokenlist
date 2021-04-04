@@ -111,6 +111,14 @@
       "symbol": "ADIF",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/arkenstone.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd59020ba341855285D1e3f22AeF92B58A08aD86A",
+      "name": "Supergroup Social Token Index",
+      "symbol": "GROUP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/GROUP.svg"
     }
   ],
   "version": {
