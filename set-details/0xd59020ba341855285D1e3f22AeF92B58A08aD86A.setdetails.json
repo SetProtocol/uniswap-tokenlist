@@ -1,0 +1,15 @@
+
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Supergroup Social Token Index",
+    "setSymbol": "GROUP",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/GROUP.svg",  // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/asset_name.png
+    "setDescription": "The Supergroup Index ($GROUP) is a curated social token index. As creators migrate their communities to web3, we are monitoring the landscape and identifying innovative projects building within the space. The Supergroup Index makes it simple to gain exposure to a vibrant new asset class.",
+    "managerName": "Supergroup",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/supergroup.png",           // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/manager_name.png
+    "managerDescription": "Supergroup creates and maintains unique financial instruments at the intersection of crypto and culture."
+  },
+  "version": 1
+}
