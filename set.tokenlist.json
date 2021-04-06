@@ -119,7 +119,15 @@
       "symbol": "GROUP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/GROUP.svg"
-    }
+    },
+    {
+      "chainId": 1,
+      "address": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7",
+      "name": "Metaverse Index",
+      "symbol": "MVI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mvi.png"
+    },
   ],
   "version": {
     "major": 0,
