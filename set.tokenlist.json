@@ -118,7 +118,7 @@
       "name": "Supergroup Social Token Index",
       "symbol": "GROUP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/GROUP.svg"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/group.svg"
     },
     {
       "chainId": 1,
