@@ -127,7 +127,7 @@
       "symbol": "MVI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mvi.png"
-    },
+    }
   ],
   "version": {
     "major": 0,
