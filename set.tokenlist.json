@@ -127,6 +127,14 @@
       "symbol": "MVI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mvi.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7633Da43dFd4Ee5A5da99740F077ca9d97aA0d0e",
+      "name": "Eco Defi Plus",
+      "symbol": "EDP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/helios.png"
     }
   ],
   "version": {

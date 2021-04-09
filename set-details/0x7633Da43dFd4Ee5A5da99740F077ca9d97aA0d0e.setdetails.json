@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Eco Defi Plus",
+    "setSymbol": "EDP",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/helios.png",
+    "setDescription": "Within our EcoDefi Plus Index Fund we will monitor the performance across multiple asset classes making adjustments to strategy on a cyclical basis. We have also hand selected a number of investments that based on our research align to our investment principles, with a strong value proposition and good risk / reward opportunity.",
+    "managerName": "Helios Prime",
+    "website": "https://heliosprime.live/",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/helios.png",
+    "managerTwitter": "heliosprimeOne",
+    "managerDescription": "Helios Prime consists of team members that are familiar with the type of projects that we as a team are aiming to include to benefit each index in itself and so each token inside has a correlation to each other in some fashion. We have travel, medical, defi, and new ecosystem team member experience to help make sure the flow of all our projects benefit one another in many ways for the goal of a synergistic relation between all."
+  },
+  "version": 1
+}
