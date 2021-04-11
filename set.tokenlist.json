@@ -135,6 +135,22 @@
       "symbol": "EDP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/helios.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Fd93Aa1A53b67D943912E4Cb1F338bb5BCebB09",
+      "name": "MoonQuant Trailblazer ETH Algo",
+      "symbol": "MQTBE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth_mqtbe.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x618F30796284C3b0be3745dD6317d4f3dCf918Dc",
+      "name": "MoonQuant DeFi + Mainstream Crypto",
+      "symbol": "MQDMC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/defi_mqdmc.png"
     }
   ],
   "version": {
