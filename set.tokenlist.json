@@ -151,6 +151,14 @@
       "symbol": "MQDMC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/defi_mqdmc.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4106B4c27AaF63d66fbFC8c1541Ca5d1D959de15",
+      "name": "MoonQuant Fixed Income Proxy",
+      "symbol": "MQFIX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqfix.png"
     }
   ],
   "version": {
