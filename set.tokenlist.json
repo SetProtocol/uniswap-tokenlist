@@ -159,6 +159,14 @@
       "symbol": "MQFIX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqfix.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd4A0Ca3D4C743C7cb8904b55aE426CfC1dE112Ba",
+      "name": "Risky Business",
+      "symbol": "RISKY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/risky.png"
     }
   ],
   "version": {
