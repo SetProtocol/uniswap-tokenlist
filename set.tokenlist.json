@@ -154,7 +154,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x4106B4c27AaF63d66fbFC8c1541Ca5d1D959de15",
+      "address": "0x080C7EF51681925CE75A65F97D4E650d997Ef079",
       "name": "MoonQuant Fixed Income Proxy",
       "symbol": "MQFIX",
       "decimals": 18,
@@ -167,6 +167,14 @@
       "symbol": "RISKY",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/risky.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xbffa5e92BEd07Cd6F25A24d2D691945aDd3E0F98",
+      "name": "MoonQuant Trailblazer BTC Algo",
+      "symbol": "MQTBB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqbtc.png"
     }
   ],
   "version": {
