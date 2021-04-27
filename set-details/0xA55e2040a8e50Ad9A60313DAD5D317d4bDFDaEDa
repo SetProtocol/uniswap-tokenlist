@@ -1,0 +1,21 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "GEM Smallcap Index",
+    "setSymbol": "GEMIX",
+    "setDecimals": 18,
+    "setIcon": "",
+    "setDescription": "The GEM Smallcap Index is a new index that tracks the performance of decentralized financial assets on Uniswap. The investment focus is on small caps that have not yet been listed on Tier 1 Exchanges.
+
+
+All tokens are checked and carefully researched based on a wide range of criteria. The aim is to make small investments in crypto projects with high potential in the early stages and thus to profit from a later performance after listing on a Tier 1 exchange. Nevertheless, the GEM Smallcap Index is a highly speculative asset.
+
+
+The risk of investing in cryptocurrencies or crypto related assets can result in a complete loss. Investors should carefully consider an investment. The past performance is not indicative of future results.",
+    "website": "",
+    "managerName": "GEM Capital Investment",
+    "managerIcon": "",
+    "managerDescription": "GEM Capital Investment is a crypto asset manager that specializes in DEX Smallcap Investing Strategies."
+  },
+  "version": 1
+}
