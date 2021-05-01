@@ -155,8 +155,8 @@
     {
       "chainId": 1,
       "address": "0x080C7EF51681925CE75A65F97D4E650d997Ef079",
-      "name": "MoonQuant Fixed Income Proxy",
-      "symbol": "MQFIX",
+      "name": "MoonQuant Fixed Income Proxy II",
+      "symbol": "MFIX2",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqfix.png"
     },
