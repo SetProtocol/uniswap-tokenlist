@@ -1,0 +1,14 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "BED Index",
+    "setSymbol": "BED",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/bed.png",
+    "setDescription": "HODL, BUIDL and DEGEN",
+    "managerName": "0dayZh",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/0dayzh.png",
+    "managerDescription": "Nothing but BUIDL."
+  },
+  "version": 1
+}

@@ -175,6 +175,14 @@
       "symbol": "MQTBB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqbtc.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xE5c29bAfb720b22fE3110c3066A3cc55f4dA8DDB",
+      "name": "BED Index",
+      "symbol": "BED",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/bed.png"
     }
   ],
   "version": {
