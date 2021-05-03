@@ -1,0 +1,15 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "MoonQuant Trailblazer ETH Algo",
+    "setSymbol": "MQTBE",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth_mqtbe.png",
+    "setDescription": "MoonQuant’s Trailblazer ETH set rebalances 2X leveraged ETH against a stablecoin. The MoonQuant algorithm analyzes multi-time frame indicators to determine market direction and position sizing. It is not a scalping bot, nor does it seek to catch tops and bottoms. It utilizes a proprietary signal awareness engine which seeks to determine best-performing and efficient rebalancing strategies.\n\nMQTBE seeks to outperform indices (and ‘hodling’) while minimizing downside, always under the oversight of professional portfolio managers.\n\nMQTBE is not a regulated investment vehicle and MoonQuant is not a regulated investment advisor. An investor may get back less than the amount invested.\n\nPlease note that MoonQuant or Token Sets reserve the right to amend the operation of the set.\n\nFEES: In addition to streaming fee, this set will collect a performance fee equal to 10% of net gains, calculated per calendar month. These fees will be charged by rebalancing the fee amount into a FEES token, that will act as a fee collection mechanism.\n\nTHE RISK OF INVESTING IN CRYPTOCURRENCIES OR CRYPTO RELATED ASSETS IS SUBSTANTIAL AND CAN RESULT IN A COMPLETE LOSS OF FUNDS. INVESTORS SHOULD CAREFULLY CONSIDER WHETHER SUCH AN INVESTMENT IS SUITABLE FOR THEM IN LIGHT OF THEIR FINANCIAL CONDITION. INVESTORS SHOULD SEEK INDEPENDENT, PROFESSIONAL LEGAL, TAX & INVESTMENT ADVICE. PAST PERFORMANCE IS NOT INDICATIVE OF FUTURE RESULTS.",
+    "website": "https://moonquant.capital/managed-portfolios/",
+    "managerName": "MoonQuant Capital",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/moonquant.png",
+    "managerDescription": "MoonQuant Capital is a probabilistic multi-crypto asset manager that specializes in algorithmic, systematic trading strategies."
+  },
+  "version": 2
+}

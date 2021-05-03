@@ -1,0 +1,14 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Risky Business",
+    "setSymbol": "RISKY",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/risky.png",
+    "setDescription": "Here for a good time, not for a long time.",
+    "managerName": "Joel Goodson",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/risky.png",
+    "managerDescription": "Joel Goodson is a high-achieving high school student who lives with his wealthy parents in the Chicago North Shore area of Glencoe. His father wants him to attend Princeton University, his alma mater, so Joel participates in Future Enterprisers, an extracurricular activity in which students work in teams to create small businesses."
+  },
+  "version": 1
+}

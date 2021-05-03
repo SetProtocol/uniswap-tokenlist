@@ -118,7 +118,71 @@
       "name": "Supergroup Social Token Index",
       "symbol": "GROUP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/GROUP.svg"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/supergroup.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7",
+      "name": "Metaverse Index",
+      "symbol": "MVI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mvi.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7633Da43dFd4Ee5A5da99740F077ca9d97aA0d0e",
+      "name": "Eco Defi Plus",
+      "symbol": "EDP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/helios.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8Fd93Aa1A53b67D943912E4Cb1F338bb5BCebB09",
+      "name": "MoonQuant Trailblazer ETH Algo",
+      "symbol": "MQTBE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth_mqtbe.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x618F30796284C3b0be3745dD6317d4f3dCf918Dc",
+      "name": "MoonQuant DeFi + Mainstream Crypto",
+      "symbol": "MQDMC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/defi_mqdmc.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x080C7EF51681925CE75A65F97D4E650d997Ef079",
+      "name": "MoonQuant Fixed Income Proxy II",
+      "symbol": "MFIX2",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqfix.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd4A0Ca3D4C743C7cb8904b55aE426CfC1dE112Ba",
+      "name": "Risky Business",
+      "symbol": "RISKY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/risky.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xbffa5e92BEd07Cd6F25A24d2D691945aDd3E0F98",
+      "name": "MoonQuant Trailblazer BTC Algo",
+      "symbol": "MQTBB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqbtc.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xE5c29bAfb720b22fE3110c3066A3cc55f4dA8DDB",
+      "name": "BED Index",
+      "symbol": "BED",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/bed.png"
     }
   ],
   "version": {

@@ -1,0 +1,15 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "MoonQuant Fixed Income Proxy II",
+    "setSymbol": "MFIX2",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqfix.png",
+    "setDescription": "MFIX2 offers a USD denominated, conservative investment, similar to competitive fixed income instruments. It’s specifically developed for investors who want the benefits of cryptocurrencies—flexibility, efficiency, pseudo anonymity, censorship resistance—-but seek to stay away from crypto volatility.\n\nMQFID balances both a volatile asset (ETH) and an interest-bearing stablecoin (cDAI). The volatile asset component is triggered only when clear momentum signal markers are identified.  Positions are taken for short periods of time, sufficient to achieve a 1.5% monthly upside target. When the target is secured, MQFID automatically rebalances back to cDAI, a USD-based interest-bearing stablecoin.\n\nMQFID’s algorithm strives for capital preservation, positioning holdings in cDAI before reaching negative territory, waiting for the right conditions to generate the following month’s objective.\n\nSpecifications for MQFID’s algorithm: seek to accrue 1.5% growth every month. During the course of each month, MQFID’s probabilistic markers (used in higher volatility bots) seek to identify clear bull trends to enter conservative long positions. Once the monthly target is achieved, no additional risk is taken. The target yearly net returns is 12% are achieved by compounding a minimum 1.5% monthly return, minus network, rebalancing costs and fees.\n\nFEES: In addition to streaming fee, this set will collect a performance fee equal to 10% of net gains, calculated per calendar month. These fees will be charged by rebalancing the fee amount into a FEES token, that will act as a fee collection mechanism.\n\nTHE RISK OF INVESTING IN CRYPTOCURRENCIES OR CRYPTO RELATED ASSETS IS SUBSTANTIAL AND CAN RESULT IN A COMPLETE LOSS OF FUNDS. INVESTORS SHOULD CAREFULLY CONSIDER WHETHER SUCH AN INVESTMENT IS SUITABLE FOR THEM IN LIGHT OF THEIR FINANCIAL CONDITION. INVESTORS SHOULD SEEK INDEPENDENT, PROFESSIONAL LEGAL, TAX & INVESTMENT ADVICE. PAST PERFORMANCE IS NOT INDICATIVE OF FUTURE RESULTS.",
+    "website": "https://moonquant.capital/managed-portfolios/",
+    "managerName": "MoonQuant Capital",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/moonquant.png",
+    "managerDescription": "MoonQuant Capital is a probabilistic multi-crypto asset manager that specializes in algorithmic, systematic trading strategies."
+  },
+  "version": 2
+}
