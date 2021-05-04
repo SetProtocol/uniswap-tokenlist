@@ -183,6 +183,14 @@
       "symbol": "BED",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/bed.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xF16E4d813f4DcfDe4c5b44f305c908742De84eF0",
+      "name": "ETH 2x Max ADL-guided",
+      "symbol": "ETH2X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth2x.png"
     }
   ],
   "version": {
