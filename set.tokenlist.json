@@ -58,6 +58,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x0B498ff89709d3838a063f1dFA463091F9801c2b",
+      "name": "Bitcoin 2x Flexible Leverage Index",
+      "symbol": "BTC2X-FLI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-tokenlist/main/assets/tokens/btc2x-fli.svg"
+    },
+    {
+      "chainId": 1,
       "address": "0xEab53D2Dc181d5c2D316a3370471a028C621EdE7",
       "name": "The BEST Portfolio",
       "symbol": "BEST",
