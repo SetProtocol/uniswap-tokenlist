@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Bitcoin 2x Flexible Leverage Index",
+    "setSymbol": "BTC2x-FLI",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/btc2x-fli.png",
+    "setDescription": "The Bitcoin 2x Flexible Leverage Index lets you leverage a collateralized debt position in a safe and efficient way, by abstracting its management into a simple index.",
+    "website": "https://www.defipulse.com",
+    "managerName": "DeFi Pulse",
+    "managerTwitter": "defipulse",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/defi_pulse.png",
+    "managerDescription": "DeFi Pulse is the leading website for the latest analytics and rankings of DeFi protocols. DeFi Pulse’s rankings track the total value locked into the smart contracts of popular DeFi applications and protocols. Additionally, the website curates The DeFi List, a collection of the best resources in DeFi."
+  },
+  "version": 1
+}
