@@ -199,6 +199,14 @@
       "symbol": "ETH2X",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth2x.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xFF32b6dc663e9AA3Ef61117749C6cCC168100b99",
+      "name": "Bitcoin Network Demand Set",
+      "symbol": "BTYE3",
+      "decimals": 18,
+      "logoURI": "https://github.com/tomsalter1999/uniswap-tokenlist/blob/main/assets/tokens/BYTE_Logo_Square2.png"
     }
   ],
   "version": {
