@@ -199,6 +199,13 @@
       "symbol": "ETH2X",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth2x.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xB5BE7c3a00F31271a9Cb7d384677524a154702f5",
+      "name": "Eldar Flagship Fund",
+      "symbol": "EFF",
+      "decimals": 18
     }
   ],
   "version": {
