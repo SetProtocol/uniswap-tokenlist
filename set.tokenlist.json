@@ -212,7 +212,8 @@
       "address": "0x808697e5Fde79667940C2e3f0867521216f9E1D3",
       "name": "Ethereum Network Oracle Index",
       "symbol": "ORCLS",
-    } "decimals": 18,
+      "decimals": 18,
+    }
   ],
   "version": {
     "major": 0,
