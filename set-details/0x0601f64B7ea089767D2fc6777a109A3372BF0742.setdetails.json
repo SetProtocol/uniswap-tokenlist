@@ -1,0 +1,14 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "GC Digital Assets",
+    "setSymbol": "GCDA",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/GCDA_Bull.PNG",
+    "setDescription": "The GCAD token provides exposure to new projects with high upside, while reducing volatility by always maintaining a large allocation of ETH and/or RAI",
+    "managerName": "GC Digital Assets",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/GCDA_Logo.png",
+    "managerDescription": "GD Digital Assets evaluates crypto-native projects using fundamental and technical analysis"
+  },
+  "version": 1
+}

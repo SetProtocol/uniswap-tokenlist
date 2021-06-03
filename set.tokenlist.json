@@ -202,11 +202,17 @@
     },
     {
       "chainId": 1,
+      "address": "0xB5BE7c3a00F31271a9Cb7d384677524a154702f5",
+      "name": "Eldar Flagship Fund",
+      "symbol": "EFF",
+      "decimals": 18
+    },
+    {
+     "chainId": 1
       "address": "0x808697e5Fde79667940C2e3f0867521216f9E1D3",
       "name": "Ethereum Network Oracle Index",
       "symbol": "ORCLS",
-      "decimals": 18,
-    }
+    } "decimals": 18,
   ],
   "version": {
     "major": 0,
