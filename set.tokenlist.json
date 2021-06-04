@@ -208,7 +208,15 @@
       "decimals": 18,
     },
     {
-     "chainId": 1,
+      "chainId": 1,
+      "address": "0x882b454e9152d1c35c77f9d79399d7dbf07e1b1d",
+      "name": "BTC 2x Max ADL-guided",
+      "symbol": "BTC2X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/btc2x.png"
+    },
+    {
+      "chainId": 1,
       "address": "0x808697e5Fde79667940C2e3f0867521216f9E1D3",
       "name": "Ethereum Network Oracle Index",
       "symbol": "ORCLS",
