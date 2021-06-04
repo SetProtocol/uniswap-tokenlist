@@ -1,0 +1,14 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Eldar Flagship Fund",
+    "setSymbol": "EFF",
+    "setDecimals": 18,
+    "setDescription": "Eldar Flagship Fund is our large-cap fund, seeking to invest in market-leading crypto projects that can outperform the average crypto market over the long term.\n\nEldar Flagship's investment process involves deep research into crypto project fundamentals. The fund aims to identify the top crypto projects which benefit from stellar development, strong sustainable competitive advantages, and large growth prospects.\n\nYou can learn more about our investment process at: https://www.eldarcap.com/investment-process",
+    "website": "https://www.eldarcap.com",
+    "managerName": "Eldar Capital",
+    "managerTwitter": "eldarcap",
+    "managerDescription": "Eldar Capital is a premier crypto asset manager who creates and maintains top-level crypto funds accessible by everyone."
+  },
+  "version": 1
+}
