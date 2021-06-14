@@ -1,0 +1,14 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Bitcoin Network Demand Set",
+    "setSymbol": "BYTE3",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/BYTE_Logo_Square2.png",              
+    "setDescription": "**The BYTE set is not a regulated investment vehicle. The set follows the Bitcoin Network Demand Model. Rebalances are executed through the SetsProtocol** \n\n**An investor may get back less than the amount invested. Information on past performance, where given, is not a guide to future performance** \n\nThe algorithm behind the BYTE3 set incorporates four network demand metrics across six different indicators, to give an overall allocation score. These metrics are Network Fees, Transaction Value, Velocity and Miners’ Change in Inventory. The Litepaper for the Bitcoin Network Demand Model is available here: http://bit.ly/ndmb3 \n\n**Please note that we reserve the right to amend the operation of the set**",
+    "managerName": "",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/BYTE_Logo_Square2.png",           
+    "managerDescription": ""
+  },
+  "version": 1
+} 

@@ -1,0 +1,14 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Eldar Opportunities Fund",
+    "setSymbol": "EOF",
+    "setDecimals": 18,
+    "setDescription": "Eldar Opportunities is our high-growth fund, seeking to invest in future leader crypto projects that we believe can grow at exceptional rates and provide outsized returns while keeping risk at a minimum over the long term.\n\nEldar Opportunities' investment process involves deep research into crypto project fundamentals. The fund aims to identify the top crypto gem that benefits from a great founding team, growing community, increasing usage, and supercharged growth potential.\n\nYou can learn more about our investment process at: https://www.eldarcap.com/investment-process",
+    "website": "https://www.eldarcap.com",
+    "managerName": "Eldar Capital",
+    "managerTwitter": "eldarcap",
+    "managerDescription": "Eldar Capital is a premier crypto asset manager who creates and maintains top-level crypto funds accessible by everyone."
+  },
+  "version": 1
+}

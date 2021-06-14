@@ -207,6 +207,28 @@
       "symbol": "BTYE3",
       "decimals": 18,
       "logoURI": "https://github.com/SetProtocol/uniswap-tokenlist/blob/main/assets/tokens/BYTE_Logo_Square2.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xB5BE7c3a00F31271a9Cb7d384677524a154702f5",
+      "name": "Eldar Flagship Fund",
+      "symbol": "EFF",
+      "decimals": 18
+    },
+    {
+      "chainId": 1,
+      "address": "0x4E79Ac0ff969a861be0D98ccE18cCB2e238bCEA9",
+      "name": "Eldar Opportunities Fund",
+      "symbol": "EOF",
+      "decimals": 18
+    },
+    {
+      "chainId": 1,
+      "address": "0x882b454e9152d1c35c77f9d79399d7dbf07e1b1d",
+      "name": "BTC 2x Max ADL-guided",
+      "symbol": "BTC2X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/btc2x.png"
     }
   ],
   "version": {
