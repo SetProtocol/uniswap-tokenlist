@@ -202,6 +202,14 @@
     },
     {
       "chainId": 1,
+      "address": "0xFF32b6dc663e9AA3Ef61117749C6cCC168100b99",
+      "name": "Bitcoin Network Demand Set",
+      "symbol": "BTYE3",
+      "decimals": 18,
+      "logoURI": "https://github.com/SetProtocol/uniswap-tokenlist/blob/main/assets/tokens/BYTE_Logo_Square2.png"
+    },
+    {
+      "chainId": 1,
       "address": "0xB5BE7c3a00F31271a9Cb7d384677524a154702f5",
       "name": "Eldar Flagship Fund",
       "symbol": "EFF",
