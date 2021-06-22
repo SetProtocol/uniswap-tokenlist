@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Common Sense Top10 Index",
+    "setSymbol": "CSTOP",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/btc2x-fli.png",
+    "setDescription": "  Luciano",
+    "website": "https://commonsense.finance",
+    "managerName": "Common Sense",
+    "managerTwitter": "commonsense_fin",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/defi_pulse.png",
+    "managerDescription": ""
+  },
+  "version": 1
+}
