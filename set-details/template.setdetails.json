@@ -1,8 +1,8 @@
 {
   "setDetails": {
     "chainId": 1,
-    "setName": "Tipuana Genesis Fund",
-    "setSymbol": "TGF",
+    "setName": "",
+    "setSymbol": "",
     "setDecimals": 18,
     "setIcon": "",               // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/asset_name.png
     "setDescription": "",
