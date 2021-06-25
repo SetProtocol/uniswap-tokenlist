@@ -1,0 +1,14 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Oracles & IoT Fund",
+    "setSymbol": "OTF",
+    "setDecimals": 18,
+    "setIcon": "otf.png",
+    "setDescription": "",
+    "managerName": "DJpan",
+    "managerIcon": "djpan.png",
+    "managerDescription": ""
+  },
+  "version": 1
+}
