@@ -244,6 +244,14 @@
       "symbol": "MACHC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/GemachTokenLogo.png"
+    },
+        {
+      "chainId": 1,
+      "address": "0x774B343B8763E514010815072D3877dfD9D6C1b0",
+      "name": "Oracles & IoT Fund",
+      "symbol": "OTF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/otf.png"
     }
   ],
   "version": {
