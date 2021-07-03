@@ -260,6 +260,14 @@
       "symbol": "IKAL",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/IKAL.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e52A381E08A2410fAa594Af39288C60aD9051c0",
+      "name": "commoncore-V1",
+      "symbol": "CCV1",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/logoccv"
     }
   ],
   "version": {
