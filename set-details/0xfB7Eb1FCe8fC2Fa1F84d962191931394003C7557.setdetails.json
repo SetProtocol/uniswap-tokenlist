@@ -7,7 +7,8 @@
     "setDescription": "JediFund is our high-growth fund, seeking to invest in future leader crypto projects that we believe can grow at exceptional rates and provide outsized returns while keeping risk at a minimum over the long term.",
     "website": "https://www.erosam.com",
     "managerName": "Eros Asset Management",
-    "managerIcon": "https://i.imgur.com/RzlGGQg.png",
+    "setIcon": "https://github.com/Keanuji/QindoNM/blob/main/1200px-Eros._(Greek_mythology_systematized).png",
+    "managerIcon": "https://github.com/Keanuji/QindoNM/blob/main/1200px-Eros._(Greek_mythology_systematized).png",
     "managerDescription": "JediFund is a premier crypto asset manager who creates and maintains top-level crypto funds accessible by everyone."
   },
   "version": 1
