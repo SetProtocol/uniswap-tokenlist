@@ -236,6 +236,38 @@
       "name": "Ethereum Network Oracle Index",
       "symbol": "ORCLS",
       "decimals": 18
+    },
+    {
+      "chainId": 1,
+      "address": "0xf73642407B8d471cDbc60a095c9D9B28EfCDd710",
+      "name": "Gemach Index C",
+      "symbol": "MACHC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/GemachTokenLogo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x774B343B8763E514010815072D3877dfD9D6C1b0",
+      "name": "Oracles & IoT Fund",
+      "symbol": "OTF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/otf.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1c41CB8e29226348E560d249e90591c0a85E0D0e",
+      "name": "IKAL Crypto Management",
+      "symbol": "IKAL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/IKAL.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2061AE3832aCA97Ca0C1Cb8816Dd515194696d52",
+      "name": "Progress and Fortune LongTermIdx",
+      "symbol": "PFLTI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/Mamba_Script_Logo_Final-06.png"
     }
   ],
   "version": {

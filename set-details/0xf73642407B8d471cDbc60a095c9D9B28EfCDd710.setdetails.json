@@ -1,0 +1,15 @@
+{
+    "setDetails": {
+      "chainId": 1,
+      "setName": "Gemach Index C",
+      "setSymbol": "MACHC",
+      "setDecimals": 18,
+      "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/GemachTokenLogo.png",
+      "setDescription": "Gemach Index C is a DAO controlled index fund. That allows everyday day users to gain exposure to new crypto assets and staking leverage and LP pools.",
+      "managerName": "Gemach DAO",
+      "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/GemachMangerLogo.png",
+      "managerDescription": "Gemach DAO offers zero 0% ETH loans and builds DEFI products and protocols. "
+    },
+    "version": 1
+  }
+  
