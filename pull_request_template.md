@@ -12,5 +12,5 @@ When submitting a new or existing set details change, make sure you have followe
 ### Signature (Required)
 
 -Attach the proper signature. You can generate one by going to the page for your Set on TokenSets and signing in. Tap on your Set's name and follow the instructions provided (i.e. 0x21fbf0696d5e0aa2ef41a2b4ffb623bcaf070461d61cf7251c74161f82fec3a4370854bc0a34b3ab487c1bc021cd318c734c51ae29374f2beb0e6f2dd49b4bf41c):
-[0x364e2e8e4e7c18dcf4595c46b4a7f0a2e186e0fd91e35bf4580d847b480e5ce10b000eff12f8f06d37eff9e1626d8cd2d3f9cd4c1e49c635b80f3f41e53552ee1b
+[
 ]
