@@ -2,10 +2,10 @@
   "setDetails": {
     "chainId": 1,
     "setName": "Ethereum DeFi Lending Index",
-    "setSymbol": "LEND",
+    "setSymbol": "BLEND",
     "setDecimals": 18,
     "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/based-lend-fund-icon.png",
-    "setDescription": "$LEND is BASEDs dynamically-weighted index of lending related platform tokens.\n\nBASEDs investment process relies on research into decentralized finance crypto projects with a growing market cap, usage, and scalable tokenomics. \n\nYou can learn more about us at: https://www.basedinc.com",
+    "setDescription": "$BLEND is BASEDs dynamically-weighted index of lending related platform tokens.\n\nBASEDs investment process relies on research into decentralized finance crypto projects with a growing market cap, usage, and scalable tokenomics. \n\nYou can learn more about us at: https://www.basedinc.com",
     "managerName": "BASED INC",
     "website": "https://basedinc.com",
     "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/basedfund.png",

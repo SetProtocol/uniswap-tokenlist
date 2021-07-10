@@ -275,7 +275,21 @@
       "symbol": "PFLTI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/Mamba_Script_Logo_Final-06.png"
-    }
+    },
+    {
+      "address": "0x2ab57CCbF641338649848f91586E7CA60d69cF63",
+      "name": "Ethereum Lending DeFi Index",
+      "symbol": "BLEND",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/based-lend-fund-icon.png"
+    },
+    {
+      "address": "0x3c38D515D104c601A22453DeF532Ed34C0F35957",
+      "name": "Ethereum Trading DeFi Index",
+      "symbol": "BTRADE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/based-trade-fund-icon.png"
+    },
   ],
   "version": {
     "major": 0,
