@@ -1,0 +1,25 @@
+{
+  "name": "Set",
+  "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/set-logo.svg",
+  "keywords": [
+    "set",
+    "tokensets",
+    "defi"
+  ],
+  "timestamp": "2020-10-19T12:32:17.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "",
+      "name": "",
+      "symbol": "",
+      "decimals": 18,
+      "logoURI": ""
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
