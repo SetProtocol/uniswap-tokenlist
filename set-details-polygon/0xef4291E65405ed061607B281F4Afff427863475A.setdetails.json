@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "PolyBED",
+    "setSymbol": "PBED",
+    "setDecimals": 18,
+    "setIcon": "",
+    "setDescription": "Want a set and forget portfolio based around the popularised BED portfolio concept. PBED covers this on Polygon with ETH, WBTC and DPI!\n\nPBED has a twist on the conventional format where rebalances are discretionary based on momentum of the assets currently leading to try maximise returns.",
+    "website": "https://cryptokai.wiki",
+    "managerName": "Crypto Kai",
+    "managerTwitter": "CryptoKaiDojo",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/ck.png",
+    "managerDescription": "Crypto Kai is a crypto based content creator, community and core Set advocate. Come join us on YouTube and Discord where we document our Set investing journey!"
+  },
+  "version": 1
+}

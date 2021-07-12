@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Polymorphed DeFi Index",
+    "setSymbol": "PDEFI",
+    "setDecimals": 18,
+    "setIcon": "",
+    "setDescription": "The Polymorphed DeFi Index takes the most innovative and liquid DeFi tokens available on the Polygon network and baskets it up into one investable asset, PDEFI. This Index is rebalanced in a discretionary manner based on technical momentum indicators for each of the underlying PDEFI assets.",
+    "website": "https://cryptokai.wiki",
+    "managerName": "Crypto Kai",
+    "managerTwitter": "CryptoKaiDojo",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/ck.png",
+    "managerDescription": "Crypto Kai is a crypto based content creator, community and core Set advocate. Come join us on YouTube and Discord where we document our Set investing journey!"
+  },
+  "version": 1
+}

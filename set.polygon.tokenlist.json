@@ -1,18 +1,78 @@
 {
   "name": "Set",
   "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/set-logo.svg",
-  "keywords": [
-    "set",
-    "tokensets",
-    "defi"
-  ],
+  "keywords": ["set", "tokensets", "defi"],
   "timestamp": "2020-10-19T12:32:17.000+00:00",
   "tokens": [
     {
       "chainId": 1,
-      "address": "",
-      "name": "",
-      "symbol": "",
+      "address": "0xB467FB04A3a6A31d62b39849dBD96333d7684d12",
+      "name": "Polymorphed Crypto Kai Index",
+      "symbol": "PKAI",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d9464002210079c6588AA867Cbe6A9e31728430",
+      "name": "Polymorphed DeFi Index",
+      "symbol": "PDEFI",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 1,
+      "address": "0xef4291E65405ed061607B281F4Afff427863475A",
+      "name": "PolyBED",
+      "symbol": "PBED",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 1,
+      "address": "0x14Ea0E31d90936c5C7F90a9A6cA2a4bDD28DE53d",
+      "name": "ETHBTC PolyStrategy",
+      "symbol": "RATIO",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 1,
+      "address": "0x570d355e4D58Cc0bfEf849E997105B9aC486F50d",
+      "name": "Food Maxi Index",
+      "symbol": "FOOD",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 1,
+      "address": "0xd1D81eeC7Fe2a285F605e8fDFe3bE4038b804c8f",
+      "name": "DEX Innovation Index",
+      "symbol": "DEX",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 1,
+      "address": "00xa1869032664c8Cf03C7b37870D363C49c32FE83D",
+      "name": "PermaBear Index",
+      "symbol": "BEAR",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 1,
+      "address": "0x26338F5616879C69f87F35A18F78628d140DA9b0",
+      "name": "The Wojak Index",
+      "symbol": "WOJAK",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 1,
+      "address": "0x9a92d4970E6EaCE75694D3Eb2995BeB121e65f2A",
+      "name": "PolySwing BTC Strategy",
+      "symbol": "SWING",
       "decimals": 18,
       "logoURI": ""
     }
