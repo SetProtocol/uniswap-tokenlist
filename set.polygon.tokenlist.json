@@ -42,7 +42,7 @@
       "name": "Food Maxi Index",
       "symbol": "FOOD",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/food.svg"
     },
     {
       "chainId": 1,
