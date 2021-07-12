@@ -18,7 +18,7 @@
       "name": "Polymorphed DeFi Index",
       "symbol": "PDEFI",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/polymorphed_defi_index.svg"
     },
     {
       "chainId": 1,
@@ -34,7 +34,7 @@
       "name": "ETHBTC PolyStrategy",
       "symbol": "RATIO",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth_btc.svg"
     },
     {
       "chainId": 1,
@@ -50,7 +50,7 @@
       "name": "DEX Innovation Index",
       "symbol": "DEX",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dex_innovation.svg"
     },
     {
       "chainId": 1,
