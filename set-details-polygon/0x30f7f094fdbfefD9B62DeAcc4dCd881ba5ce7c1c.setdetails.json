@@ -1,11 +1,10 @@
 {
   "setDetails": {
     "chainId": 1,
-    "setName": "PermaBear Index",
-    "setSymbol": "BEAR",
+    "setName": "The Wojak Index",
+    "setSymbol": "WOJAK",
     "setDecimals": 18,
-    "setIcon": "",
-    "setDescription": "Do you have fur all over your skin? Enjoy eating salmon a little too much? You're probably a bear.\n\nHere at the BEAR Index we diversify across all the top stablecoins so you can watch the markets go to 0 in peace and harmony.",
+    "setDescription": "WOJAK is a long only index fund that never allocates into stablecoins, remaining 100% exposed to crypto assets in a bull and bear market trend. Due to enormous swings of profitability and drawdown, we expect all holders to go through all Wojak based emotions depicted by the memes.",
     "website": "https://cryptokai.wiki",
     "managerName": "Crypto Kai",
     "managerTwitter": "CryptoKaiDojo",

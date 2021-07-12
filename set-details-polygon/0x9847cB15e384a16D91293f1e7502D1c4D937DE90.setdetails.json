@@ -1,11 +1,10 @@
 {
   "setDetails": {
     "chainId": 1,
-    "setName": "The Wojak Index",
-    "setSymbol": "WOJAK",
+    "setName": "Ethereum Eco Swing Strategy",
+    "setSymbol": "ECO",
     "setDecimals": 18,
-    "setIcon": "",
-    "setDescription": "WOJAK is a long only index fund that never allocates into stablecoins, remaining 100% exposed to crypto assets in a bull and bear market trend. Due to enormous swings of profitability and drawdown, we expect all holders to go through all Wojak based emotions depicted by the memes.",
+    "setDescription": "Hate sitting through 30-50% drawdown when the market turns bearish? ECO hates that too. ECO is a TA based, discretionary ethereum eco system swing trading strategy that plans to capture as much macro-trend upside as possible whilst executing a rebalance into USDC when the market starts to lose momentum to limit drawdown.",
     "website": "https://cryptokai.wiki",
     "managerName": "Crypto Kai",
     "managerTwitter": "CryptoKaiDojo",

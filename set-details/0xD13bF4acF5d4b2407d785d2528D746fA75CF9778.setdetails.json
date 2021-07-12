@@ -1,11 +1,10 @@
 {
   "setDetails": {
     "chainId": 1,
-    "setName": "Polymorphed Crypto Kai Index",
-    "setSymbol": "PKAI",
+    "setName": "Crypto Kai Blue Chip Index",
+    "setSymbol": "CKB",
     "setDecimals": 18,
-    "setIcon": "", 
-    "setDescription": "Crypto Kai has ventured into new L2 lands! Inspired by our Layer 1 based Blue Chip & Innovation Index, this Set merges both strategy into one discretionary trading strategy.",
+    "setDescription": "",
     "website": "https://cryptokai.wiki",
     "managerName": "Crypto Kai",
     "managerTwitter": "CryptoKaiDojo",

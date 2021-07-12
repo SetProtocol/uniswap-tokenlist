@@ -1,11 +1,11 @@
 {
   "setDetails": {
     "chainId": 1,
-    "setName": "Food Maxi Index",
-    "setSymbol": "FOOD",
+    "setName": "ETHBTC PolyStrategy",
+    "setSymbol": "RATIO",
     "setDecimals": 18,
-    "setIcon": "",
-    "setDescription": "Bullish on food in general? We have your niche requirements met here at FOOD. Gain exposure to blue chip food themed tokens on Polygon in this macro driven index where our thesis is that food based tokens will be completely pivotal to global prosperity. ",
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth_btc.svg",
+    "setDescription": "ETHBTC PolyStrategy is a discretionary portfolio based around trend trading the ratio between WETH and WBTC on Polygon to try capitalise on the asset that has the most bullish momentum at the time",
     "website": "https://cryptokai.wiki",
     "managerName": "Crypto Kai",
     "managerTwitter": "CryptoKaiDojo",

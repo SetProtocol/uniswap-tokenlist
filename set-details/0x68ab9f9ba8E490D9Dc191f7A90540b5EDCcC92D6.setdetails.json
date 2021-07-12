@@ -1,0 +1,15 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Crypto Kai Innovation Index",
+    "setSymbol": "CKI",
+    "setDecimals": 18,
+    "setDescription": "",
+    "website": "https://cryptokai.wiki",
+    "managerName": "Crypto Kai",
+    "managerTwitter": "CryptoKaiDojo",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/ck.png",
+    "managerDescription": "Crypto Kai is a crypto based content creator, community and core Set advocate. Come join us on YouTube and Discord where we document our Set investing journey!"
+  },
+  "version": 1
+}

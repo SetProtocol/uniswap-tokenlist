@@ -1,11 +1,10 @@
 {
   "setDetails": {
     "chainId": 1,
-    "setName": "PolyBED",
-    "setSymbol": "PBED",
+    "setName": "Polymorphed Crypto Kai Index",
+    "setSymbol": "PKAI",
     "setDecimals": 18,
-    "setIcon": "",
-    "setDescription": "Want a set and forget portfolio based around the popularised BED portfolio concept. PBED covers this on Polygon with ETH, WBTC and DPI!\n\nPBED has a twist on the conventional format where rebalances are discretionary based on momentum of the assets currently leading to try maximise returns.",
+    "setDescription": "Crypto Kai has ventured into new L2 lands! Inspired by our Layer 1 based Blue Chip & Innovation Index, this Set merges both strategy into one discretionary trading strategy.",
     "website": "https://cryptokai.wiki",
     "managerName": "Crypto Kai",
     "managerTwitter": "CryptoKaiDojo",

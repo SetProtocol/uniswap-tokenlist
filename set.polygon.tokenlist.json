@@ -6,7 +6,7 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xB467FB04A3a6A31d62b39849dBD96333d7684d12",
+      "address": "0x38891a2d24f71440f58aA1c6B9739Fe93aa416D2",
       "name": "Polymorphed Crypto Kai Index",
       "symbol": "PKAI",
       "decimals": 18,
@@ -14,7 +14,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x0d9464002210079c6588AA867Cbe6A9e31728430",
+      "address": "0xc6533667962e3032De2c0f6e92B0e5E20ff190Fe",
       "name": "Polymorphed DeFi Index",
       "symbol": "PDEFI",
       "decimals": 18,
@@ -22,15 +22,15 @@
     },
     {
       "chainId": 1,
-      "address": "0xef4291E65405ed061607B281F4Afff427863475A",
-      "name": "PolyBED",
-      "symbol": "PBED",
+      "address": "0x9847cB15e384a16D91293f1e7502D1c4D937DE90",
+      "name": "Ethereum Eco Swing Strategy",
+      "symbol": "ECO",
       "decimals": 18,
       "logoURI": ""
     },
     {
       "chainId": 1,
-      "address": "0x14Ea0E31d90936c5C7F90a9A6cA2a4bDD28DE53d",
+      "address": "0xF0e9B95e42eC5C28D0b4dA7a816BFb7423193a67",
       "name": "ETHBTC PolyStrategy",
       "symbol": "RATIO",
       "decimals": 18,
@@ -38,7 +38,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x570d355e4D58Cc0bfEf849E997105B9aC486F50d",
+      "address": "0x2177cCfa776387F6cC4E3dD5cd83509b06E90c58",
       "name": "Food Maxi Index",
       "symbol": "FOOD",
       "decimals": 18,
@@ -46,7 +46,7 @@
     },
     {
       "chainId": 1,
-      "address": "0xd1D81eeC7Fe2a285F605e8fDFe3bE4038b804c8f",
+      "address": "0xFBEEdd1A63c14677b3440b1d40668B5Df9dF8273",
       "name": "DEX Innovation Index",
       "symbol": "DEX",
       "decimals": 18,
@@ -54,7 +54,7 @@
     },
     {
       "chainId": 1,
-      "address": "00xa1869032664c8Cf03C7b37870D363C49c32FE83D",
+      "address": "0x00C143b546b6A66bb37217917Ba99A7F4B60c55a",
       "name": "PermaBear Index",
       "symbol": "BEAR",
       "decimals": 18,
@@ -62,7 +62,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x26338F5616879C69f87F35A18F78628d140DA9b0",
+      "address": "0x30f7f094fdbfefD9B62DeAcc4dCd881ba5ce7c1c",
       "name": "The Wojak Index",
       "symbol": "WOJAK",
       "decimals": 18,
@@ -70,7 +70,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x9a92d4970E6EaCE75694D3Eb2995BeB121e65f2A",
+      "address": "0x9295d0927019deB22ED3611Bd99F163E55d249A1",
       "name": "PolySwing BTC Strategy",
       "symbol": "SWING",
       "decimals": 18,

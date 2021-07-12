@@ -1,11 +1,10 @@
 {
   "setDetails": {
     "chainId": 1,
-    "setName": "PolySwing BTC Strategy",
-    "setSymbol": "SWING",
+    "setName": "Food Maxi Index",
+    "setSymbol": "FOOD",
     "setDecimals": 18,
-    "setIcon": "",
-    "setDescription": "Hate sitting through 30-50% drawdown when the market turns bearish? SWING hates that too. PolySwing is a TA based, discretionary BTC swing trading strategy that plans to capture as much macro-trend upside as possible whilst executing a rebalance into USDC when the market starts to lose momentum to limit drawdown.",
+    "setDescription": "Bullish on food in general? We have your niche requirements met here at FOOD. Gain exposure to blue chip food themed tokens on Polygon in this macro driven index where our thesis is that food based tokens will be completely pivotal to global prosperity.",
     "website": "https://cryptokai.wiki",
     "managerName": "Crypto Kai",
     "managerTwitter": "CryptoKaiDojo",

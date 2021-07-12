@@ -1,11 +1,10 @@
 {
   "setDetails": {
     "chainId": 1,
-    "setName": "DEX Innovation Index",
-    "setSymbol": "DEX",
+    "setName": "PolySwing BTC Strategy",
+    "setSymbol": "SWING",
     "setDecimals": 18,
-    "setIcon": "",
-    "setDescription": "Bullish on decentralised finance? If you're looking here then you are already of the curve in knowing DEX products help facilitate the flourishing activity in this multi-chain and layer world and the fundamentals are extremely promising for the long term view of the ecosystem. DEX is a focused niche portfolio capturing the top DEX projects available on the Polygon Network.",
+    "setDescription": "Hate sitting through 30-50% drawdown when the market turns bearish? SWING hates that too. PolySwing is a TA based, discretionary BTC swing trading strategy that plans to capture as much macro-trend upside as possible whilst executing a rebalance into USDC when the market starts to lose momentum to limit drawdown.",
     "website": "https://cryptokai.wiki",
     "managerName": "Crypto Kai",
     "managerTwitter": "CryptoKaiDojo",
