@@ -263,9 +263,10 @@
       "name": "commoncore-V1",
       "symbol": "CCV1",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/logoccv"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/logoccv.png"
     },
     {
+      "chainId": 1,
       "address": "0x2061AE3832aCA97Ca0C1Cb8816Dd515194696d52",
       "name": "Progress and Fortune LongTermIdx",
       "symbol": "PFLTI",
