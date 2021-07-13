@@ -9,8 +9,7 @@
       "address": "0x38891a2d24f71440f58aA1c6B9739Fe93aa416D2",
       "name": "Polymorphed Crypto Kai Index",
       "symbol": "PKAI",
-      "decimals": 18,
-      "logoURI": ""
+      "decimals": 18
     },
     {
       "chainId": 1,
@@ -25,8 +24,7 @@
       "address": "0x9847cB15e384a16D91293f1e7502D1c4D937DE90",
       "name": "Ethereum Eco Swing Strategy",
       "symbol": "ECO",
-      "decimals": 18,
-      "logoURI": ""
+      "decimals": 18
     },
     {
       "chainId": 1,
@@ -57,8 +55,7 @@
       "address": "0x00C143b546b6A66bb37217917Ba99A7F4B60c55a",
       "name": "PermaBear Index",
       "symbol": "BEAR",
-      "decimals": 18,
-      "logoURI": ""
+      "decimals": 18
     },
     {
       "chainId": 1,
@@ -73,8 +70,7 @@
       "address": "0x9295d0927019deB22ED3611Bd99F163E55d249A1",
       "name": "PolySwing BTC Strategy",
       "symbol": "SWING",
-      "decimals": 18,
-      "logoURI": ""
+      "decimals": 18
     }
   ],
   "version": {
