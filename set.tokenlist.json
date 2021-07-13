@@ -276,13 +276,15 @@
       "address": "0x68ab9f9ba8E490D9Dc191f7A90540b5EDCcC92D6",
       "name": "Crypto Kai Innovation Index",
       "symbol": "CKI",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/cki.svg"
     },
     {
       "address": "0xD13bF4acF5d4b2407d785d2528D746fA75CF9778",
       "name": "Crypto Kai Blue Chip Index",
       "symbol": "CKB",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ckb.svg"
     }
   ],
   "version": {

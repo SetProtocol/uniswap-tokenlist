@@ -4,6 +4,7 @@
     "setName": "Crypto Kai Innovation Index",
     "setSymbol": "CKI",
     "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/cki.svg",
     "setDescription": "",
     "website": "https://cryptokai.wiki",
     "managerName": "Crypto Kai",

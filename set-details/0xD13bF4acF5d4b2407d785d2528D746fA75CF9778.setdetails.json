@@ -4,6 +4,7 @@
     "setName": "Crypto Kai Blue Chip Index",
     "setSymbol": "CKB",
     "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ckb.svg",
     "setDescription": "",
     "website": "https://cryptokai.wiki",
     "managerName": "Crypto Kai",

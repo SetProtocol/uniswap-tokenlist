@@ -66,7 +66,7 @@
       "name": "The Wojak Index",
       "symbol": "WOJAK",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/wojak.svg"
     },
     {
       "chainId": 1,
