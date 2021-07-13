@@ -6,7 +6,7 @@
     "setDecimals": 18,
     "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth_btc.svg",
     "setDescription": "ETHBTC PolyStrategy is a discretionary portfolio based around trend trading the ratio between WETH and WBTC on Polygon to try capitalise on the asset that has the most bullish momentum at the time",
-    "website": "https://cryptokai.wiki",
+    "website": "https://cryptokaidojo.com",
     "managerName": "Crypto Kai",
     "managerTwitter": "CryptoKaiDojo",
     "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/ck.png",
