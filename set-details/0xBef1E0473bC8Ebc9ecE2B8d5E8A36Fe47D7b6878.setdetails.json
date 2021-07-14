@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Common Sense Top10 Index",
+    "setSymbol": "CSTOP",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/cstop.png",
+    "setDescription": "The **CommonSense Top10 Index** **($CSTOP)** offers exposure to the most relevant tokens and categories in the Ethereum network.\n\n**Objective:** \n\nThe $CSTOP 'All in One' Token aims to replicate the profitability of an index composed of the Top 10 cryptocurrencies in the Ethereum Network (ERC20) with a market capitalization of over 1 billion. The weight of each asset is limited to 25% and the weight of each category is limited to 50%. Rebalancing is done quarterly.",
+    "website": "https://commonsense.finance",
+    "managerName": "Common Sense",
+    "managerTwitter": "commonsense_fin",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/commonsense.png",
+    "managerDescription": "CommonSense arises with the objective of allowing private investors unfamiliar with the cryptocurrency ecosystem to participate in the market in the same way as technical and highly qualified investors through 'All in one' tokens. "
+  },
+  "version": 1
+}

@@ -1,0 +1,15 @@
+{
+    "setDetails": {
+      "chainId": 1,
+      "setName": "CommonCore-V1",
+      "setSymbol": "CCV1",
+      "setDecimals": 18,
+      "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/logoccv.png",              
+      "setDescription": "Get exposure mainly to BTC(wbtc), ETH(weth), and Matic. With a small % of leveraged btc (BTC2X-FLI) and eth (ETH2X-FLI)",
+      "managerName": "RatioFinances",
+      "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/r_f1.png",           
+      "managerDescription": "RatioFinances is a Dao govern by the RatioFinances community, Here to simplify crypto investing with tokenized portfolios/Baskets and smart strategies"
+    },
+    "version": 2
+  }
+  

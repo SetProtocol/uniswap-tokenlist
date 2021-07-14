@@ -1,0 +1,14 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Progress And Fortune LongTermIdx",
+    "setSymbol": "PFLTI",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/Mamba_Script_Logo_Final-06.png",
+    "setDescription": "The Progress And Fortune Long Term Index is a collection of Tokens That Represent A Long Term Bullish Outlook on Decentralized Finance, Layer 2 ETH Scaling Solutions, and NFTs. This is not financial Advice, but you can use this token to copy my portfolio.",
+    "managerName": "Big Poppa Code",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/BigPoppaCode.jpeg",
+    "managerDescription": "Big Poppa Code is a Software Engineering Instructor at a Top Coding Bootcamp, A Technical Co-Founder at a Venture Backed Start-Up and Senior Software Engineer that has worked on many applications. As A hobby he evaluates crypto-native projects using code, fundamental and technical analysis"
+  },
+  "version": 1
+}

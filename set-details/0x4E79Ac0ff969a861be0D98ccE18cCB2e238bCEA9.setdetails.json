@@ -8,7 +8,8 @@
     "website": "https://www.eldarcap.com",
     "managerName": "Eldar Capital",
     "managerTwitter": "eldarcap",
-    "managerDescription": "Eldar Capital is a premier crypto asset manager who creates and maintains top-level crypto funds accessible by everyone."
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/eldarcapital.png",
+    "managerDescription": "Eldar Capital is a premier crypto asset manager which creates and maintains top-level crypto funds accessible by everyone."
   },
   "version": 1
 }

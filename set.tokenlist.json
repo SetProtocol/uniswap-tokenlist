@@ -1,11 +1,7 @@
 {
   "name": "Set",
   "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/set-logo.svg",
-  "keywords": [
-    "set",
-    "tokensets",
-    "defi"
-  ],
+  "keywords": ["set", "tokensets", "defi"],
   "timestamp": "2020-10-19T12:32:17.000+00:00",
   "tokens": [
     {
@@ -244,6 +240,52 @@
       "symbol": "MACHC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/GemachTokenLogo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x774B343B8763E514010815072D3877dfD9D6C1b0",
+      "name": "Oracles & IoT Fund",
+      "symbol": "OTF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/otf.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1c41CB8e29226348E560d249e90591c0a85E0D0e",
+      "name": "IKAL Crypto Management",
+      "symbol": "IKAL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/IKAL.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x3e52A381E08A2410fAa594Af39288C60aD9051c0",
+      "name": "commoncore-V1",
+      "symbol": "CCV1",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/logoccv.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2061AE3832aCA97Ca0C1Cb8816Dd515194696d52",
+      "name": "Progress and Fortune LongTermIdx",
+      "symbol": "PFLTI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/Mamba_Script_Logo_Final-06.png"
+    },
+    {
+      "address": "0x68ab9f9ba8E490D9Dc191f7A90540b5EDCcC92D6",
+      "name": "Crypto Kai Innovation Index",
+      "symbol": "CKI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/cki.svg"
+    },
+    {
+      "address": "0xD13bF4acF5d4b2407d785d2528D746fA75CF9778",
+      "name": "Crypto Kai Blue Chip Index",
+      "symbol": "CKB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ckb.svg"
     }
   ],
   "version": {
