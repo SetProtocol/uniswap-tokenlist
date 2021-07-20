@@ -286,6 +286,13 @@
       "symbol": "CKB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ckb.svg"
+    },
+    {
+      "address": "0xa188DA64fc4e212Cda65bD3406e0ce03a5323560",
+      "name": "Tipuana Genesis Fund",
+      "symbol": "TGF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/TGF1.png"
     }
   ],
   "version": {
