@@ -42,7 +42,7 @@
       "name": "Bankless BED Index",
       "symbol": "BED",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-tokenlist/main/assets/tokens/bankless_bed.png"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/bankless_bed.png"
     },
     {
       "chainId": 1,
@@ -50,7 +50,7 @@
       "name": "NFT INDEX",
       "symbol": "NFTI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-tokenlist/main/assets/tokens/nfti.svg"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/nfti.svg"
     },
     {
       "chainId": 1,
@@ -58,7 +58,7 @@
       "name": "ETH 2x Flexible Leverage Index",
       "symbol": "ETH2X-FLI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-tokenlist/main/assets/tokens/eth2xfli.svg"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth2xfli.svg"
     },
     {
       "chainId": 1,
@@ -66,7 +66,7 @@
       "name": "Bitcoin 2x Flexible Leverage Index",
       "symbol": "BTC2X-FLI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-tokenlist/main/assets/tokens/btc2x-fli.svg"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/btc2x-fli.svg"
     },
     {
       "chainId": 1,
