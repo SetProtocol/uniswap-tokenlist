@@ -1,0 +1,14 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Tipuana Genesis Fund",
+    "setSymbol": "TGF",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/TGF1.png",
+    "setDescription": "Tipuana Genesis Fund (TGF) is the first actively managed non-custodial fund launched by Tipuana. TGF seeks diversified exposure to the best crypto-assets and projects from Web 3.0. TGF's strategies and rebalances are decided by Tipuana's investment team, which looks for high-quality assets by analyzing in depth each token and ecosystem. We have a long term outlook focusing on fundamental analysis and we aim to take advantage of the best risk-reward opportunities with strategic multi-sector diversification. TGF's goal is to outperform ETH (our benchmark) in the long term. TGF is for investors looking to increase their capital over the long term without worrying about high levels of volatility. Even though the investor can sell it at any time, TGF is more appropriate for those who want to keep their investment for several years. ",
+    "managerName": "Tipuana",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/Tipuana.png",
+    "managerDescription": "We are a team that performs on-chain asset management within the DeFi industry. We manage non-custodial funds, simplifying investments in crypto-assets in an open, transparent and gas-efficient way. We believe in a permissionless and decentralized future with open-source technologies. To contribute to this cause, we want to bring as many people and institutions as possible to invest in the Web 3.0 ecosystem in a smart and safe way. "
+  },
+  "version": 1
+}
