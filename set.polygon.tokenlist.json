@@ -72,6 +72,13 @@
       "name": "PolySwing BTC Strategy",
       "symbol": "SWING",
       "decimals": 18
+    },
+    {
+      "address": "0x24108e0a71D7c8B252edb15BC0E0Cb627bb64A28",
+      "name": "Crypto Family Fund",
+      "symbol": "CFAMF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/CFAMF.png"
     }
   ],
   "version": {
