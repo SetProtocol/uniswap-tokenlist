@@ -74,6 +74,7 @@
       "decimals": 18
     },
     {
+      "chainId": 1,
       "address": "0x24108e0a71D7c8B252edb15BC0E0Cb627bb64A28",
       "name": "Crypto Family Fund",
       "symbol": "CFAMF",
