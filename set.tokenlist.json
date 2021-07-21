@@ -315,6 +315,13 @@
       "symbol": "BTRADE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/based-trade-fund-icon.png"
+    }, 
+    {
+      "address": "0x45298A0c629184868147B938b10711AF9187408F",
+      "name": "FuruCombo Ecosystem Index",
+      "symbol": "COMBI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/COMBO_token.png"
     }
   ],
   "version": {
