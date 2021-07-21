@@ -38,6 +38,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x2aF1dF3AB0ab157e1E2Ad8F88A7D04fbea0c7dc6",
+      "name": "Bankless BED Index",
+      "symbol": "BED",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-tokenlist/main/assets/tokens/bankless_bed.png"
+    },
+    {
+      "chainId": 1,
       "address": "0xe5feeaC09D36B18b3FA757E5Cf3F8dA6B8e27F4C",
       "name": "NFT INDEX",
       "symbol": "NFTI",
