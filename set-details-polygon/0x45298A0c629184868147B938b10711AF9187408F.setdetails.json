@@ -4,7 +4,7 @@
     "setName": "FuruCombo Ecosystem Index",
     "setSymbol": "COMBI",
     "setDecimals": 18,
-    "setIcon": "https://assets.coingecko.com/coins/images/13629/small/COMBO_token_ol.png",
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/COMBO_token.png",
     "setDescription": "This Index gives exposure to the Furucombo Ecosystem being the COMBO token, current chains Furucombo has presence on and integrated protocols. New integrated chains/protocols will be added along the way. Rebalances will takes place once a month.",
     "managerName": "MarcoV",
     "managerIcon": "", 
