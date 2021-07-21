@@ -1,0 +1,15 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Polymorphic Growth Index",
+    "setSymbol": "PGI",
+    "setDecimals": 18,
+    "setDescription": "PGI will be investing in assets that power DEFI and have substantial upside potential at start 10% will be in stable coin USDC and will be rebalanced to assets during market corrections.",
+    "website": "https://polymorphic.ventures",
+    "managerName": "Polymorphic Ventures",
+    "managerTwitter": "PolymorphicFund",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/pgi.png",
+    "managerDescription": "Polymorphic Ventures is a decentralized fund manager creating products to capture growth in defi projects."
+  },
+  "version": 1
+}
