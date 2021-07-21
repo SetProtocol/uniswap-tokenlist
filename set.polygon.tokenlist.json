@@ -1,0 +1,97 @@
+{
+  "name": "Set",
+  "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/set-logo.svg",
+  "keywords": ["set", "tokensets", "defi"],
+  "timestamp": "2020-10-19T12:32:17.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x38891a2d24f71440f58aA1c6B9739Fe93aa416D2",
+      "name": "Polymorphed Crypto Kai Index",
+      "symbol": "PKAI",
+      "decimals": 18
+    },
+    {
+      "chainId": 1,
+      "address": "0xc6533667962e3032De2c0f6e92B0e5E20ff190Fe",
+      "name": "Polymorphed DeFi Index",
+      "symbol": "PDEFI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/polymorphed_defi_index.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9847cB15e384a16D91293f1e7502D1c4D937DE90",
+      "name": "Ethereum Eco Swing Strategy",
+      "symbol": "ECO",
+      "decimals": 18
+    },
+    {
+      "chainId": 1,
+      "address": "0xF0e9B95e42eC5C28D0b4dA7a816BFb7423193a67",
+      "name": "ETHBTC PolyStrategy",
+      "symbol": "RATIO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth_btc.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2177cCfa776387F6cC4E3dD5cd83509b06E90c58",
+      "name": "Food Maxi Index",
+      "symbol": "FOOD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/food.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xFBEEdd1A63c14677b3440b1d40668B5Df9dF8273",
+      "name": "DEX Innovation Index",
+      "symbol": "DEX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dex_innovation.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x00C143b546b6A66bb37217917Ba99A7F4B60c55a",
+      "name": "PermaBear Index",
+      "symbol": "BEAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/permabear.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x30f7f094fdbfefD9B62DeAcc4dCd881ba5ce7c1c",
+      "name": "The Wojak Index",
+      "symbol": "WOJAK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/wojak.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9295d0927019deB22ED3611Bd99F163E55d249A1",
+      "name": "PolySwing BTC Strategy",
+      "symbol": "SWING",
+      "decimals": 18
+    },
+    {
+      "chainId": 1,
+      "address": "0x065f56d750470df14f3CA888c00594d38530be9b",
+      "name": "Polymorphic Growth Index",
+      "symbol": "PGI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/pgi_token_logo.png"
+    },
+    {
+      "address": "0x24108e0a71D7c8B252edb15BC0E0Cb627bb64A28",
+      "name": "Crypto Family Fund",
+      "symbol": "CFAMF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/CFAMF.png"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}

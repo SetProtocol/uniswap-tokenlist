@@ -1,0 +1,15 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Polymorphed Crypto Kai Index",
+    "setSymbol": "PKAI",
+    "setDecimals": 18,
+    "setDescription": "Crypto Kai has ventured into new L2 lands! Inspired by our Layer 1 based Blue Chip & Innovation Index, this Set merges both strategy into one discretionary trading strategy.",
+    "website": "https://cryptokaidojo.com",
+    "managerName": "Crypto Kai",
+    "managerTwitter": "CryptoKaiDojo",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/ck.png",
+    "managerDescription": "Crypto Kai is a crypto based content creator, community and core Set advocate. Come join us on YouTube and Discord where we document our Set investing journey!"
+  },
+  "version": 1
+}
