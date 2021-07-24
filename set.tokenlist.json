@@ -323,6 +323,12 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/COMBO_token.png"
     }
+    {
+      "address": "0xdA4EE3911C3080968FE06a5999191F0149E7Aa0c",
+      "name": "Diversifire Market Segment Index",
+      "symbol": "DFIRE",
+      "decimals": 18,
+    }
   ],
   "version": {
     "major": 0,
