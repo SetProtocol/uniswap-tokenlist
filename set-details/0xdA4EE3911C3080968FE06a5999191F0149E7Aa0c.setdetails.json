@@ -1,0 +1,14 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Diversifire",
+    "setSymbol": "DFIRE",
+    "setDecimals": 18,
+    "setIcon": "",               // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/asset_name.png
+    "setDescription": "An index of tokens from 12 different market segments: \n\nCryptocurrency \nSmart Contract Platform \nBanking\nStablecoin Governance\nInstitutional Lending\nMemeFi\nExchange Token \nOracle\nDerivatives (Options)\nDerivatives (Perpetual Swaps)\nDerivatives (Synthetic Assets) \n\nAssessment of risk: High. \nReward Potential: High. \n\nDisclaimer There are no guarantees of profit whatsoever. Invest only after performing your own due diligence. \nDue to the nature of ETH gas fees, this token is designed for mid-term holding, not day trading.",
+    "managerName": "Anonymous for now",
+    "managerIcon": "",           // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/manager_name.png
+    "managerDescription": "Crypto insider, partner at multiple active funds/venture caoital firms. Wanted to make something everyone can have access to."
+  },
+  "version": 1
+}
