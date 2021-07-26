@@ -322,7 +322,15 @@
       "symbol": "COMBI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/COMBO_token.png"
+    },
+    {
+      "address": "0x97A71258312c2c19f422318ddef68a7e02c1c3C9",
+      "name": "Defi Momentum Index",
+      "symbol": "DEMO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/demo.png"
     }
+    
   ],
   "version": {
     "major": 0,
