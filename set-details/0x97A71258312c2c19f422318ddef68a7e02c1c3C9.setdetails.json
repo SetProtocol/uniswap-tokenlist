@@ -3,7 +3,7 @@
     "chainId": 1,
     "managerName": "Revenant Capital",
     "managerDescription": "Revenant Capital is a quanitative asset manager deploying momentum based trading strategies with an emphasis on machine learning",
-    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswaptokenlist/main/assets/managers/revenant.png",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/revenant.png",
     "managerTwitter": "https://twitter.com/0xRevenant",
     "setName": "Defi Momentum Index",
     "setSymbol": "DEMO",
