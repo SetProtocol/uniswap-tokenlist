@@ -1,0 +1,15 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "GaiNJA - the Gain Ninja",
+    "setSymbol": "GNJA",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/GNJA.png",           
+    "setDescription": "Every day we try to optimize ratio among different tokens in order to gain a balanced exposure in every market. Our aim is a conservative strategy to simplify your token management avoiding overexposure on both sides of the markets. ** This set is not a regulated investment; an investor can get back less than the amount invested.",
+    "website",
+    "managerName": "Defi-Lovers",
+    "managerIcon": "", 
+    "managerDescription": "Crypto lovers & life passionate: investing passion in self improvement and future development is always a good investment"
+  },
+  "version": 1
+}
