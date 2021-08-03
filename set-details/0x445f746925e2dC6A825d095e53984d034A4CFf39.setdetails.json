@@ -4,7 +4,7 @@
     "setName": "GainJA - the Gain Ninja",
     "setSymbol": "GNJA",
     "setDecimals": 18,
-    "setIcon": "",               // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/GNJA.png
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/GNJA.png",           
     "setDescription": "Every day we try to optimize ratio among different tokens in order to gain a balanced exposure in every market. Our aim is a conservative strategy to simplify your asset management avoiding overexposure on both sides of the markets. Enjoy your life without following price action avery hour or day and remember that we care for you this bunch of cryptoassets.",
     "website",
     "managerName": "Defi Lovers",
