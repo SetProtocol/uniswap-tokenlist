@@ -329,6 +329,13 @@
       "symbol": "DEMO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/demo.png"
+    },
+    {
+      "address": "0xc8fb4d5435f7590d347f4640871e6ab7ea92ead5",
+      "name": "Decentralized Derivatives Index",
+      "symbol": "DDI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/decentralized_derivatives_index.png"
     }
     
   ],
