@@ -210,7 +210,7 @@
       "name": "Bitcoin Network Demand Set",
       "symbol": "BTYE3",
       "decimals": 18,
-      "logoURI": "https://github.com/SetProtocol/uniswap-tokenlist/blob/main/assets/tokens/BYTE_Logo_Square2.png"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/BYTE_Logo_Square2.png"
     },
     {
       "chainId": 1,
