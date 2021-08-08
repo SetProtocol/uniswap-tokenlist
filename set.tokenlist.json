@@ -336,7 +336,16 @@
       "symbol": "DDI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/decentralized_derivatives_index.png"
+    },
+   {
+      "chainId": 1,
+      "address": "0xa6bbaA76198E5Ce3d15df494Bad068cCaf1e78b8",
+      "name": "CMI Index",
+      "symbol": "CMI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-tokenlist/main/assets/managers/cmi.png"
     }
+
     
   ],
   "version": {
