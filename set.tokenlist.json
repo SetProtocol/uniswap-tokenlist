@@ -286,14 +286,14 @@
       "name": "Crypto Kai Innovation Index",
       "symbol": "CKI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/cki.svg"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/cki-set.png"
     },
     {
       "address": "0xD13bF4acF5d4b2407d785d2528D746fA75CF9778",
       "name": "Crypto Kai Blue Chip Index",
       "symbol": "CKB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ckb.svg"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ckb-set.png"
     },
     {
       "address": "0xa188DA64fc4e212Cda65bD3406e0ce03a5323560",
@@ -315,7 +315,7 @@
       "symbol": "BTRADE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/based-trade-fund-icon.png"
-    }, 
+    },
     {
       "address": "0x45298A0c629184868147B938b10711AF9187408F",
       "name": "FuruCombo Ecosystem Index",
@@ -336,8 +336,15 @@
       "symbol": "DDI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/decentralized_derivatives_index.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa6bbaA76198E5Ce3d15df494Bad068cCaf1e78b8",
+      "name": "CMI Index",
+      "symbol": "CMI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-tokenlist/main/assets/managers/cmi.png"
     }
-    
   ],
   "version": {
     "major": 0,
