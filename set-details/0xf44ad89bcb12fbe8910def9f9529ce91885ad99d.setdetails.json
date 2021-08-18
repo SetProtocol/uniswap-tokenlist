@@ -1,0 +1,15 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "DeFi Cover and Risk Index",
+    "setSymbol": "DCVR",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/rp-set.png",
+    "setDescription": "The DeFi Cover and Risk Index is seeking to invest in leading DeFi cover, insurance, risk transfer, mitigation, management, and security related projects that we believe can provide the DeFi ecosystem with critical insurance primitives and grow at exceptional rates over the long term.\n\nRiskPad Finance's token selection process includes criteria related to institutional support, team strength, token dynamics, development activity, token liquidity, growing community, increasing usage, and many other factors.",
+    "website": "https://www.riskpad.io",
+    "managerName": "RiskPad Finance",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/rp-mgr.png",
+    "managerDescription": "RiskPad Finance is a research and investment technology company leveraging decentralization and tokenization to build and invest in the future of insurance."
+  },
+  "version": 1
+}

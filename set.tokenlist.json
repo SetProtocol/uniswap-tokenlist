@@ -14,6 +14,14 @@
     },
     {
       "chainId": 1,
+      "address": "0xf44ad89bcb12fbe8910def9f9529ce91885ad99d",
+      "name": "DeFi Cover and Risk Index",
+      "symbol": "DCVR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/rp-set.png"
+    },
+    {
+      "chainId": 1,
       "address": "0xAdA0A1202462085999652Dc5310a7A9e2BF3eD42",
       "name": "CoinShares Gold and Cryptoassets Index",
       "symbol": "CGI",
