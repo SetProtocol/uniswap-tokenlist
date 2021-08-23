@@ -352,6 +352,13 @@
       "symbol": "CMI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-tokenlist/main/assets/managers/cmi.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xddACD335D10788ABee7709fAC7C77122D22beC1c",
+      "name": "DeFi Crypto10 Equal Weight Index",
+      "symbol": "DFC10",
+      "decimals": 18
     }
   ],
   "version": {
