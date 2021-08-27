@@ -1,0 +1,14 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Dogcoin Index",
+    "setSymbol": "DOG",
+    "setDecimals": 18,
+    "setIcon": "",
+    "setDescription": "The Dogcoin Index is a diversified basket of the major dog tokens, including wrapped Dogecoin.",
+    "managerName": "mlegls",
+    "managerIcon": "",
+    "managerDescription": "I made the dogcoin index because I thought it was funny."
+  },
+  "version": 1
+}
