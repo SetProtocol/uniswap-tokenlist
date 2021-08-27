@@ -360,6 +360,14 @@
       "symbol": "DFC10",
       "decimals": 18
     }
+    {
+      "chainId": 1,
+      "address": "0x3C31c9f5695E065C3F3644ada6701C2f1E520a5F",
+      "name": "Dogcoin Index",
+      "symbol": "DOG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mlegls/uniswap-tokenlist/main/assets/tokens/Dogecoin_Logo.png"
+    }
   ],
   "version": {
     "major": 0,
