@@ -4,10 +4,10 @@
     "setName": "Dogcoin Index",
     "setSymbol": "DOG",
     "setDecimals": 18,
-    "setIcon": "",
+    "setIcon": "https://raw.githubusercontent.com/mlegls/uniswap-tokenlist/main/assets/tokens/Dogecoin_Logo.png",
     "setDescription": "The Dogcoin Index is a diversified basket of the major dog tokens, including wrapped Dogecoin.",
     "managerName": "mlegls",
-    "managerIcon": "",
+    "managerIcon": "https://pbs.twimg.com/profile_images/1245437799223840768/jdP0c4s3_400x400.jpg",
     "managerDescription": "I made the dogcoin index because I thought it was funny."
   },
   "version": 1
