@@ -1,0 +1,15 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "",
+    "setSymbol": "",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/degen_bot.png",            
+    "setDescription": "",
+    "managerName": "",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/rakki_otoko.png",
+    "managerDescription": ""
+  },
+  "version": 1
+}
+
