@@ -88,11 +88,12 @@
       "symbol": "CFAMF",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/CFAMF.png"
-    }
-  ],
-  "version": {
-    "major": 0,
-    "minor": 1,
-    "patch": 0
-  }
-}
+    },   
+    {
+      "chainId": 1,
+      "address": "0x3eC2000dC2AE3550AC6d82202E04a3993eb8510A",
+      "name": "Degen Bot",
+      "symbol": "DB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/Degen_bot.png"
+    },
