@@ -1,1 +1,15 @@
-
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "NFTX Vault Index",
+    "setSymbol": "NFTVI",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/admin-article21/uniswap-tokenlist/main/assets/tokens/NFTVI_logo.png",
+    "setDescription": "The NFTX Vault Index token (NFTVI) is the first index token of blue-chip NFTs. The token provides a diversified, market cap-weighted portfolio of the top NFT collections. Users can own fully-collateralized CryptoPunks, Bored Apes, Meebits, Squiggle, and more with a single liquid token.",
+    "managerName": "Article21",
+    "website": "https://article21.io",
+    "managerIcon": "https://raw.githubusercontent.com/admin-article21/uniswap-tokenlist/main/assets/managers/Article21_logo.png",
+    "managerTwitter": "Article21_",
+    "managerDescription": "Article 21 is making the next generation of thematic index tokens. If you like .jpegs you'll love .zip",
+  "version": 1
+}
