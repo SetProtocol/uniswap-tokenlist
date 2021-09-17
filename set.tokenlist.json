@@ -360,6 +360,13 @@
       "symbol": "DFC10",
       "decimals": 18
     }
+    {
+      "chainId": 1,
+      "address": "0xecf991e0d9C190d048BeeB72dC39c2687F1A061E",
+      "name": "The NFT Vault Index",
+      "symbol": "NFTVI",
+      "decimals": 18
+    }
   ],
   "version": {
     "major": 0,
