@@ -359,6 +359,13 @@
       "name": "DeFi Crypto10 Equal Weight Index",
       "symbol": "DFC10",
       "decimals": 18
+    },
+    {
+      "chainId": 1,
+      "address": "0x2224a419FBb1Bf9635799e09fBD6dB39bB1e5D98",
+      "name": "DEFI Crypto 8 Index",
+      "symbol": "DEFI8",
+      "decimals": 18
     }
   ],
   "version": {
