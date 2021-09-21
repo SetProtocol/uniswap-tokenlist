@@ -359,6 +359,13 @@
       "name": "DeFi Crypto10 Equal Weight Index",
       "symbol": "DFC10",
       "decimals": 18
+    },
+    {
+      "chainId": 1,
+      "address": "0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1",
+      "name": "Data Economy Index",
+      "symbol": "DATA",
+      "decimals": 18
     }
   ],
   "version": {
