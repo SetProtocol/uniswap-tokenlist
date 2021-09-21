@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Data Economy Index",
+    "setSymbol": "DATA",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/data_economy_index.png",
+    "setDescription": "The Data Economy Index (DATA) is a digital asset index capturing the growth of data-based products and services.",
+    "managerName": "Titans of Data",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/titans_of_data.png",
+    "managerDescription": "Titans of Data is a coalition of innovators, operators, and investors in the data economy. We are cultivating a more open, secure, and equitable internet where everyone, including robots, are equals when facing opportunities in Web3. Through our research, we curate innovation to bring the data economy into the mainstream.",
+    "website": "https://www.indexcoop.com/data",
+    "managerTwitter": "indexcoop"
+  },
+  "version": 1
+}
