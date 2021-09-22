@@ -290,6 +290,7 @@
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/Mamba_Script_Logo_Final-06.png"
     },
     {
+      "chainId": 1,
       "address": "0x68ab9f9ba8E490D9Dc191f7A90540b5EDCcC92D6",
       "name": "Crypto Kai Innovation Index",
       "symbol": "CKI",
@@ -297,6 +298,7 @@
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/cki-set.png"
     },
     {
+      "chainId": 1,
       "address": "0xD13bF4acF5d4b2407d785d2528D746fA75CF9778",
       "name": "Crypto Kai Blue Chip Index",
       "symbol": "CKB",
@@ -304,6 +306,7 @@
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ckb-set.png"
     },
     {
+      "chainId": 1,
       "address": "0xa188DA64fc4e212Cda65bD3406e0ce03a5323560",
       "name": "Tipuana Genesis Fund",
       "symbol": "TGF",
@@ -311,6 +314,7 @@
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/TGF1.png"
     },
     {
+      "chainId": 1,
       "address": "0x2ab57CCbF641338649848f91586E7CA60d69cF63",
       "name": "Ethereum Lending DeFi Index",
       "symbol": "BLEND",
@@ -318,6 +322,7 @@
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/based-lend-fund-icon.png"
     },
     {
+      "chainId": 1,
       "address": "0x3c38D515D104c601A22453DeF532Ed34C0F35957",
       "name": "Ethereum Trading DeFi Index",
       "symbol": "BTRADE",
@@ -325,6 +330,7 @@
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/based-trade-fund-icon.png"
     },
     {
+      "chainId": 1,
       "address": "0x45298A0c629184868147B938b10711AF9187408F",
       "name": "FuruCombo Ecosystem Index",
       "symbol": "COMBI",
@@ -332,6 +338,7 @@
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/COMBO_token.png"
     },
     {
+      "chainId": 1,
       "address": "0x97A71258312c2c19f422318ddef68a7e02c1c3C9",
       "name": "Defi Momentum Index",
       "symbol": "DEMO",
@@ -339,6 +346,7 @@
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/demo.png"
     },
     {
+      "chainId": 1,
       "address": "0xc8fb4d5435f7590d347f4640871e6ab7ea92ead5",
       "name": "Decentralized Derivatives Index",
       "symbol": "DDI",
