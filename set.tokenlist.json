@@ -236,6 +236,13 @@
     },
     {
       "chainId": 1,
+      "address": "0x1004E947366A632d458D4970c70F6b1F6A0DE710",
+      "name": "Eldar Venture Fund",
+      "symbol": "EVF",
+      "decimals": 18
+    },
+    {
+      "chainId": 1,
       "address": "0x882b454e9152d1c35c77f9d79399d7dbf07e1b1d",
       "name": "BTC 2x Max ADL-guided",
       "symbol": "BTC2X",
