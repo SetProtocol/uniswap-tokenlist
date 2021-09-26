@@ -366,6 +366,13 @@
       "name": "Data Economy Index",
       "symbol": "DATA",
       "decimals": 18
+    },
+    {
+      "chainId": 1,
+      "address": "0x53eDde8799cE25af881007441740fcC4cD4683F8",
+      "name": "CANVAS Digital Gold Index",
+      "symbol": "CNVDG",
+      "decimals": 18
     }
   ],
   "version": {
