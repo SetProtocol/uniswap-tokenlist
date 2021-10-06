@@ -111,6 +111,15 @@
       "name": "DEFI Crypto 8 Index",
       "symbol": "DEFI8",
       "decimals": 18
+    },
+   {
+      "chainId": 1,
+      "address": "0x83C92e1a4a824CD42F94012B7b50AFf372E4d25f",
+      "name": "CMI Index",
+      "symbol": "CMI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-tokenlist/main/assets/managers/cmi.png"
     }
+
   ]
 }
