@@ -8,7 +8,7 @@
     "website": "https://hobotoken.com",
     "managerName": "HO₿O",
     "managerTwitter": "hobo_erc20",
-    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokkens/hobo.png",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/hobo.png",
     "managerDescription": "HOBO is an ERC20 Token with 120M max supply. The contract has BURN ability to produce rarity."
   },
   "version": 1
