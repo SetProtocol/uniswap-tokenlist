@@ -11,7 +11,13 @@
       "symbol": "000",
       "decimals": 18
     },
-
+    {
+      "address": "0x45298A0c629184868147B938b10711AF9187408F",
+      "name": "FuruCombo Ecosystem Index",
+      "symbol": "COMBI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/COMBO_token.png"
+    },
     {
       "chainId": 1,
       "address": "0x38891a2d24f71440f58aA1c6B9739Fe93aa416D2",
