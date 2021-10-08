@@ -1,0 +1,15 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "HoboNickels",
+    "setSymbol": "HOBO",
+    "setDecimals": 8,
+    "setDescription": "HOBO with it's service hobotoken.com provides a burn mechanism to burn HoboNickels (HBN) UTXO coin. In return, users receive HoboNickels (HOBO) as ERC-20 tokens. The HOBO ERC-20 token will play a weighted role in future developments.",
+    "website": "https://hobotoken.com",
+    "managerName": "HO₿O",
+    "managerTwitter": "hobo_erc20",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokkens/hobo.png",
+    "managerDescription": "HOBO is an ERC20 Token with 120M max supply. The contract has BURN ability to produce rarity."
+  },
+  "version": 1
+}
