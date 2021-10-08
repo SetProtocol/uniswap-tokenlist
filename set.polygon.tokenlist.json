@@ -125,15 +125,7 @@
       "symbol": "CMI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-tokenlist/main/assets/managers/cmi.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x36ff415d0bcedf976d60e85c72e01d19230fbd29",
-      "name": "HoboNickels",
-      "symbol": "HOBO",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-tokenlist/main/assets/tokens/hobo.png"
-    },
+    }
 
   ]
 }
