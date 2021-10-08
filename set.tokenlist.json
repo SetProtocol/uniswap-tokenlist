@@ -38,14 +38,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
-      "name": "Index",
-      "symbol": "INDEX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/index.png"
-    },
-    {
-      "chainId": 1,
       "address": "0x2aF1dF3AB0ab157e1E2Ad8F88A7D04fbea0c7dc6",
       "name": "Bankless BED Index",
       "symbol": "BED",
@@ -274,7 +266,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x1c41CB8e29226348E560d249e90591c0a85E0D0e",
+      "address": "0x43a03bE5201e5d07E81c97385ae8b07E7CA01B44",
       "name": "IKAL Crypto Management",
       "symbol": "IKAL",
       "decimals": 18,
@@ -335,14 +327,6 @@
       "symbol": "BTRADE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/based-trade-fund-icon.png"
-    },
-    {
-      "chainId": 1,
-      "address": "0x45298A0c629184868147B938b10711AF9187408F",
-      "name": "FuruCombo Ecosystem Index",
-      "symbol": "COMBI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/COMBO_token.png"
     },
     {
       "chainId": 1,
