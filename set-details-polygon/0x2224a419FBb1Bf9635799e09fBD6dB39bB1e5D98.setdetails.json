@@ -1,6 +1,6 @@
 {
   "setDetails": {
-    "chainId": 1,
+    "chainId": 137,
     "setName": "DEFI Crypto 8 Index",
     "setSymbol": "DEFI8",
     "setDecimals": 18,

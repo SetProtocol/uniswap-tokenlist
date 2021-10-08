@@ -1,6 +1,6 @@
 {
   "setDetails": {
-    "chainId": 1,
+    "chainId": 137,
     "setName": "The Wojak Index",
     "setSymbol": "WOJAK",
     "setDecimals": 18,

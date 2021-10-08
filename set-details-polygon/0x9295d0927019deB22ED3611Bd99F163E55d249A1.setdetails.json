@@ -1,6 +1,6 @@
 {
   "setDetails": {
-    "chainId": 1,
+    "chainId": 137,
     "setName": "PolySwing BTC Strategy",
     "setSymbol": "SWING",
     "setDecimals": 18,

@@ -1,6 +1,6 @@
 {
   "setDetails": {
-    "chainId": 1,
+    "chainId": 137,
     "setName": "FuruCombo Ecosystem Index",
     "setSymbol": "COMBI",
     "setDecimals": 18,

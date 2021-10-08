@@ -1,6 +1,6 @@
 {
   "setDetails": {
-    "chainId": 1,
+    "chainId": 137,
     "setName": "Degen Bot",
     "setSymbol": "DB",
     "setDecimals": 18,
