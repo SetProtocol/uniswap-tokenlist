@@ -125,7 +125,14 @@
       "symbol": "CMI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-tokenlist/main/assets/managers/cmi.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xe1d850218b11887b4Ce1D8a4d7D9Ed37C6E1610b",
+      "name": "Zer0range Index",
+      "symbol": "ZER0",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/zero_orange.png"
     }
-
   ]
 }
