@@ -102,7 +102,7 @@
       "symbol": "CFAMF",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/CFAMF.png"
-    },   
+    },
     {
       "chainId": 137,
       "address": "0x3eC2000dC2AE3550AC6d82202E04a3993eb8510A",
@@ -118,7 +118,7 @@
       "symbol": "DEFI8",
       "decimals": 18
     },
-   {
+    {
       "chainId": 137,
       "address": "0x83C92e1a4a824CD42F94012B7b50AFf372E4d25f",
       "name": "CMI Index",
@@ -133,6 +133,14 @@
       "symbol": "ZER0",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/zero_orange.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x1794CA09293CC098145469dDB5e0eD93A5C0b424",
+      "name": "set",
+      "symbol": "SET",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/set.png"
     }
   ]
 }
