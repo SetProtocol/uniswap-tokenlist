@@ -1,0 +1,14 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "set",
+    "setSymbol": "SET",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/set.png",
+    "setDescription": "set",
+    "managerName": "xiangguacheng",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/set.png",
+    "managerDescription": "this is my set"
+  },
+  "version": 1
+}
