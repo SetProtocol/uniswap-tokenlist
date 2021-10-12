@@ -138,7 +138,7 @@
       "chainId": 137,
       "address": "0x1794CA09293CC098145469dDB5e0eD93A5C0b424",
       "name": "set",
-      "symbol": "set",
+      "symbol": "SET",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/set.png"
     }
