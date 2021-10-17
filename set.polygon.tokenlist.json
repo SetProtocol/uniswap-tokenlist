@@ -141,6 +141,14 @@
       "symbol": "SET",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/set.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xd890bE1E284126c47a13cC082F641c9b27B6dCc1",
+      "name": "Tri-element of Polygon",
+      "symbol": "TRPL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/TRPL-HugLu.png"
     }
   ]
 }

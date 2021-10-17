@@ -1,0 +1,14 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "Tri-element of Polygon",
+    "setSymbol": "TRPL",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/TRPL-HugLu.png",
+    "setDescription": "",
+    "managerName": "Dogss",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/D3-HugLu.jpg",
+    "managerDescription": "Hunting Doge in Crypto"
+  },
+  "version": 1
+}
