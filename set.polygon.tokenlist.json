@@ -116,7 +116,8 @@
       "address": "0x2224a419FBb1Bf9635799e09fBD6dB39bB1e5D98",
       "name": "DEFI Crypto 8 Index",
       "symbol": "DEFI8",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/DEFI8.png"
     },
     {
       "chainId": 137,
