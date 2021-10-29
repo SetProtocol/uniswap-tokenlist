@@ -212,7 +212,7 @@
       "symbol": "USDT",
       "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
       "decimals": 6,
-      "logoURI": "https://gemini.com/images/currencies/icons/default/usdt.svg",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/usdt.svg"
     },
     {
       "name": "UMAVotingTokenv1",
@@ -236,7 +236,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-      "logoURI": "https://gemini.com/images/currencies/icons/default/eth.svg",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/eth.svg"
     },
     {
       "name": "yearn.finance",
