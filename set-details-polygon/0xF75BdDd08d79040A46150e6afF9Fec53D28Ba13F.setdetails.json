@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "Undervalued DeFi Base",
+    "setSymbol": "UDB",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/undervalued.jpg",
+    "setDescription": "As the most important DeFi basic chain ETH, and its sidechain Polygon have been undervalued for long",
+    "website": "",
+    "managerName": "xpunk.eth",
+    "managerTwitter": "",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/worrior.png",
+    "managerDescription": ""
+  },
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "DeFi Phoenix Index",
+    "setSymbol": "DFPHX",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/6XO3KEJ5_400x400.jpg",
+    "setDescription": "The DeFi Phoenix Index provides exposure to cryptocurrency and the decentralized finance space through the DeFi Pulse Index, Bitcoin, Ether, and Matic.",
+    "website": "https://linktr.ee/DeFiPHX",
+    "managerName": "DeFi Phoenix",
+    "managerTwitter": "https://twitter.com/DeFiPHX",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/6XO3KEJ5_400x400.jpg",
+    "managerDescription": "DeFi Phoenix seeks to make decentralized finance available to all through community, education and advocacy."
+  },
+  "version": 1
+}

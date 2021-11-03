@@ -150,6 +150,38 @@
       "symbol": "TRPL",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/TRPL-HugLu.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xC097170E839dD8D9c52b4B8352946bc671f2628E",
+      "name": "DeFi Phoenix Index",
+      "symbol": "DFPHX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/6XO3KEJ5_400x400.jpg"
+    },
+    {
+      "chainId": 137,
+      "address": "0x1ba804130D73649293c39912a304F6b471D38179",
+      "name": "sambusak",
+      "symbol": "SAMBU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/E.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xF75BdDd08d79040A46150e6afF9Fec53D28Ba13F",
+      "name": "Undervalued DeFi Base",
+      "symbol": "UDB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/undervalued.jpg"
+    },
+    {
+      "chainId": 137,
+      "address": "0xAE281f38dDf402497e922FA67b1559A7931E7d81",
+      "name": "MACRO Blue Chip",
+      "symbol": "MACRO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/1-Blue-Chip-600x315.jpeg"
     }
   ]
 }

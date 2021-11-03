@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Мetaverse Market Weighted Index",
+    "setSymbol": "METAI",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/metai-logo.png",
+    "setDescription": "The Metaverse Index is a capitalization-weighted index that tracks the performance of Metaverse assets across the market. The Metaverse Index aims to track projects in Metaverse that have significant usage and show a commitment to ongoing development.",
+    "website": "https://crypttrade.com/metai/",
+    "managerName": "CryptTrade.com",
+    "managerTwitter": "https://twitter.com/Crypttrade_com",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/metai-logo.png",
+    "managerDescription": "We are group of traders and software engineers excited about the Metaverse, crypto investing & trading"
+  },
+  "version": 1
+}
