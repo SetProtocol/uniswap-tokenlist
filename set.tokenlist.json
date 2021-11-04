@@ -441,7 +441,7 @@
     {
       "chainId": 1,
       "address": "0x0301d2267bf5cE7A60ae0255CBFC8127323d19db",
-      "name": "Мetaverse Market Weighted Index",
+      "name": "Metaverse Market Weighted Index",
       "symbol": "METAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/metai-logo.png"
