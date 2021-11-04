@@ -1,13 +1,13 @@
 {
-  "name": "Set",
+  "name": "Set (Polygon)",
   "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/set-logo.svg",
-  "keywords": ["set", "tokensets", "defi"],
+  "keywords": ["set", "tokensets", "defi", "polygon"],
   "timestamp": "2020-10-19T12:32:17.000+00:00",
   "tokens": [
     {
       "chainId": 137,
       "address": "0xCad2fd1CDd6F2d62744320BaDC8C0EdE4bc29c5e",
-      "name": "THE PIGGY INDEX [000] ",
+      "name": "THE PIGGY INDEX [000]",
       "symbol": "000",
       "decimals": 18
     },
