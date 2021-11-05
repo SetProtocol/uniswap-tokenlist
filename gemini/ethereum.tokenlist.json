@@ -231,6 +231,14 @@
       "logoURI": "https://gemini.com/images/currencies/icons/default/uni.svg"
     },
     {
+      "name": "Wrapped Bitcoin",
+      "chainId": 1,
+      "symbol": "WBTC",
+      "decimals": 18,
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/btc.svg"
+    },
+    {
       "name": "Wrapped Eth",
       "chainId": 1,
       "symbol": "WETH",

@@ -1,5 +1,5 @@
 {
-  "name": "Gemini Token List w/ WETH and Tether",
+  "name": "Gemini Token List w/ WETH, WBTC, and Tether",
   "version": {
     "major": 0,
     "minor": 2,
@@ -229,6 +229,14 @@
       "decimals": 18,
       "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
       "logoURI": "https://gemini.com/images/currencies/icons/default/uni.svg"
+    },
+    {
+      "name": "Wrapped Bitcoin",
+      "chainId": 137,
+      "symbol": "WBTC",
+      "decimals": 18,
+      "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/btc.svg"
     },
     {
       "name": "Wrapped Eth",
