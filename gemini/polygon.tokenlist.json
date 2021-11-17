@@ -1,5 +1,5 @@
 {
-  "name": "Gemini Token List w/ WETH, WBTC, and Tether",
+  "name": "Gemini Token List w/ WETH, WBTC, USDC, and Tether",
   "version": {
     "major": 0,
     "minor": 2,
@@ -229,6 +229,14 @@
       "decimals": 18,
       "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
       "logoURI": "https://gemini.com/images/currencies/icons/default/uni.svg"
+    },
+    {
+      "name": "USDC",
+      "chainId": 137,
+      "symbol": "USDC",
+      "decimals": 6,
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/usdc.svg"
     },
     {
       "name": "Wrapped Bitcoin",
