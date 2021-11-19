@@ -206,6 +206,14 @@
       "symbol": "NDU",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/singularity_logo.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x4088fa41319791786eDE0D1F19398EEC6b6d6CAd",
+      "name": "MoonQuant HiFreq ETH SwingTrader",
+      "symbol": "MQHFE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqhfe.png"
     }
   ]
 }
