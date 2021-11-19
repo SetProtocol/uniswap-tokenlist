@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "DeFi Hall of Fame",
+    "setSymbol": "HALL",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/HALL_x100.png",
+    "setDescription": "The DeFi Hall of Fame. Like the S&P 500. Just made for DeFi.\n\nThe DeFi Hall of Fame is a digital asset portfolio designed to track the performance of the 10 largest DeFi protocols based on market capitalization.\n\nTo outperform the market, the protocol uses the underlying portfolio components for generating additional yield via utilising liquidity pools, staking and meta-governance. Portfolio components are weighted based on market capitalisation of respective DeFi protocols and rebalanced monthly.",
+    "website": "https://yavyn.com",
+    "managerName": "Yavyn Protocol",
+    "managerTwitter": "Yavyn_protocol",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/yavyn_x100.png",
+    "managerDescription": "The new financial system is built on blockchain technology. At Yavyn, we capitalize on the opportunities created in the new economic order and provide novel investment solutions that only a blockchain native DeFi protocol can deliver. Via a broad range of portfolios focusing on the most disruptive sector, we bring innovation to investors. We are on the frontline of the financial revolution. Check out yavyn.com for more detail."
+  },
+  "version": 1
+}

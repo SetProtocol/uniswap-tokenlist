@@ -445,6 +445,38 @@
       "symbol": "METAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/metai-logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x5876ef1e155b8b28935965672cd185849332b77c",
+      "name": "Orca DeFi Index",
+      "symbol": "ORCA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/OrcaSetLogo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe8e8486228753E01Dbc222dA262Aa706Bd67e601",
+      "name": "Arch Ethereum Web3",
+      "symbol": "WEB3",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/web3.jpg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xCAA976eC7AbB7d8bdE529ABC9217dfDB574f6543",
+      "name": "DeFi Hall of Fame",
+      "symbol": "HALL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/HALL_x100.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xEB95d7a394384cE1B8aE1874Fc87173E4cbd4B64",
+      "name": "DGEN CAPITAL #1 Index",
+      "symbol": "DGEN1",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dgenlogo.png"
     }
   ],
   "version": {

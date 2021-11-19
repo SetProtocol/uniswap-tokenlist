@@ -182,6 +182,30 @@
       "symbol": "MACRO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/1-Blue-Chip-600x315.jpeg"
+    },
+    {
+      "chainId": 137,
+      "address": "0x5B8510a1449CED5e14bc7050a54B945442f5d5B9",
+      "name": "SAGA DeFi Crypto Fund K2",
+      "symbol": "SAGA2",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/SAGA2_100x100.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x6862F415d9498458458C4C2Fa9BE481b13e4A25A",
+      "name": "SAGA DeFi Crypto Strategy K1",
+      "symbol": "SAGA1",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/SAGA1_100x100.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x29CAF1091958083fC9D67d1D24F5b3901963e840",
+      "name": "Singularity Index",
+      "symbol": "NDU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/singularity_logo.png"
     }
   ]
 }
