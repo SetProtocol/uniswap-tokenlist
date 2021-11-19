@@ -1,1 +1,90 @@
-
+{
+  "name": "Gemini Token List w/ WETH, WBTC, USDC, and Tether",
+  "version": {
+    "major": 0,
+    "minor": 2,
+    "patch": 0
+  },
+  "keywords": [
+    "gemini",
+    "tokens",
+    "trusted",
+    "optimism"
+  ],
+  "logoURI": "https://gemini.com/static/images/loader.png",
+  "timestamp": "2021-11-19T14:15:22+0000",
+  "tokens": [
+    {
+      "name": "DaiStablecoin",
+      "chainId": 1,
+      "symbol": "DAI",
+      "decimals": 18,
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/dai.svg"
+    },
+    {
+      "name": "Chainlink",
+      "chainId": 1,
+      "symbol": "LINK",
+      "decimals": 18,
+      "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/link.svg"
+    },
+    {
+      "name": "Synthetix",
+      "chainId": 1,
+      "symbol": "SNX",
+      "decimals": 18,
+      "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/snx.svg"
+    },
+    {
+      "name": "Storj",
+      "chainId": 1,
+      "symbol": "STORJ",
+      "decimals": 8,
+      "address": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/storj.svg"
+    },
+    {
+      "name": "Tether",
+      "chainId": 1,
+      "symbol": "USDT",
+      "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+      "decimals": 6,
+      "logoURI": "https://gemini.com/images/currencies/icons/default/usdt.svg"
+    },
+    {
+      "name": "Uniswap",
+      "chainId": 1,
+      "symbol": "UNI",
+      "decimals": 18,
+      "address": "0x6fd9d7AD17242c41f7131d257212c54A0e816691",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/uni.svg"
+    },
+    {
+      "name": "USDC",
+      "chainId": 1,
+      "symbol": "USDC",
+      "decimals": 6,
+      "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/usdc.svg"
+    },
+    {
+      "name": "Wrapped Bitcoin",
+      "chainId": 1,
+      "symbol": "WBTC",
+      "decimals": 18,
+      "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/btc.svg"
+    },
+    {
+      "name": "Wrapped Eth",
+      "chainId": 1,
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0x4200000000000000000000000000000000000006",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/eth.svg"
+    }
+  ]
+}
