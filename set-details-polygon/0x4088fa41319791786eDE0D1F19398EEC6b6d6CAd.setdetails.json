@@ -1,0 +1,15 @@
+{
+    "setDetails": {
+        "chainId": 137,
+        "setName": "MoonQuant HiFreq ETH SwingTrader",
+        "setSymbol": "MQHFE",
+        "setDecimals": 18,
+        "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqhfe.png",
+        "setDescription": "MoonQuant High-Timeframe TrendBlazer combines two distinct engines for buys and sells with their own intrinsic logic. It searches to identify possible bottoms and take advantage of long timeframe trends. The other combined engine will look for extensions and lock in winning trades. If the trend then continues it will restart the cycle. If top is confirmed it will revert and enable the other engine looking for a new bottom. The Algo has an IA self learning parametrized channel, to avoid trading sideways. In these cases, there could be longer periods without trades. This Engine searches for long trends and can go many days without a trade. As it confirms trends, It will not act immediately on tops or bottoms but on their confirmation later. We propose it as an alternative to hodling, gaining some Beta on longer trades.",
+        "website": "https://moonquant.capital/managed-portfolios/",
+        "managerName": "MoonQuant Capital",
+        "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/moonquant.png",
+        "managerDescription": "MoonQuant Capital is a probabilistic multi-crypto asset manager that specializes in algorithmic, systematic trading strategies."
+    },
+    "version": 1
+}
