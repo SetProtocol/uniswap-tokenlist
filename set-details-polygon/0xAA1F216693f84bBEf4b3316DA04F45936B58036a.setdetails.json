@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "ETH Layers Index",
+    "setSymbol": "ETHL",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth_layer.png",
+    "setDescription": "ETH Layers Index is built on the Polygon blockchain network and gives you unique investment opportunities! The index is combined and it includes tokens from different layers of the Etherium ecosystem. Low transactions of the Polygon network provide an excellent opportunity to quickly and profitably invest your finances in a fast-growing decentralized market!",
+    "managerName": "goldenman.tech",
+    "website": "https://goldenman.tech",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/goldenman_logo.png",
+    "managerTwitter": "Silver Goldenman",
+    "managerDescription": "The ETH Layers Index by https://goldenman.tech/ is a digital asset index designed to track tokens performance within the DEX industry."
+  },
+    "version": 1
+}

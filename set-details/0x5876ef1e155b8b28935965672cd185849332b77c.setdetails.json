@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Orca DeFi Index",
+    "setSymbol": "ORCA",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/OrcaSetLogo.png",
+    "setDescription": "Orca is an index of the most innovative & best performing DeFi tokens on the market. It is the index of innovation, openness, of the frontier of DeFi, and the future of finance.",
+    "website": "https://twitter.com/Orca_Defi_Index",
+    "managerName": "OrcaIndex",
+    "managerTwitter": "Orca_Defi_Index",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/OrcaManager.png",
+    "managerDescription": "The community-owned DeFi index"
+  },
+  "version": 1
+}

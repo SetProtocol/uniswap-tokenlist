@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "Singularity Index",
+    "setSymbol": "NDU",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/singularity_logo.png",
+    "setDescription": "A index that aims to represent the appropriate weights a DeFi portfolio should have to maximize success.",
+    "website": "",
+    "managerName": "Ndu",
+    "managerTwitter": "",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/ndu_logo.png",
+    "managerDescription": "A crypto & tech enthusiast. Trying to bring a set of indexes to fully automatize crypto portfolios."
+  },
+  "version": 1
+}

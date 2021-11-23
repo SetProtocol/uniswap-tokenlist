@@ -1,0 +1,17 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "THE PIGGY INDEX [000]",
+    "setSymbol": "000",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/piggy.png",
+    "setDescription": "SET #000 of THE PIGGY INDEX, an ongoing tokenset series.",
+    "managerName": "foda.eth",
+    "managerIcon": " https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/f0da91.png",          
+    "website": "https://asf.is",
+    "managerTwitter": "fodasynthesis",
+    "managerDescription": "Professional Computer User Team Member"
+  },
+  "version": 1
+}
+ 

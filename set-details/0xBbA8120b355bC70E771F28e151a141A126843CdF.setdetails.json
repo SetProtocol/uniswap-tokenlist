@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Cage Meme Index",
+    "setSymbol": "CMI",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/CMI100x100.png",
+    "setDescription": "The Meme Index(CMI) is a digital asset or token designed to track the performance of five tokens; four top meme tokens and a stablecoin. The meme index pool carries equal weight of the following tokens: C4G3, DOGE, SHIB, DOGELON, USDC.",
+    "website": "https://cag3.io",
+    "managerName": "Cage Master",
+    "managerTwitter": "bakreemah",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/CGT100x100.png",
+    "managerDescription": "Cage Master is an African Blockchain enthusiasts and investor. He has been in the space since 2018 and have worked with a few Projects especially in the field of research and marketing. Founder of scrate.io and a core member of phoenix.io"
+  },
+  "version": 1
+}

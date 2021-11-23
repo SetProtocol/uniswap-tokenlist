@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "Degen Bot",
+    "setSymbol": "DB",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/Degen_bot.png",            
+    "setDescription": "Degen bot is a complex financial product that attempts to seize the best trading opportunities in daily time frames. We are 2 young but enterprising guys, driven by a passion for DEFI and for trading.",
+    "managerName": "Rakki Otoko",
+    "managerTwitter": "RakkiOtoko",    
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/rakki_otoko.png",
+    "managerDescription": "The first, a law student late on schedule, who loves defi more than his university. The second, a trader with 7 years of experience. Together, DEGEN BOT!"
+  },
+  "version": 1
+}
+

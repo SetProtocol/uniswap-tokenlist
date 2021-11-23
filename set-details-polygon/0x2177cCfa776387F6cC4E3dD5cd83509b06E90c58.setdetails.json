@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "Food Maxi Index",
+    "setSymbol": "FOOD",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/food.svg",
+    "setDescription": "Bullish on food in general? We have your niche requirements met here at FOOD. Gain exposure to blue chip food themed tokens on Polygon in this macro driven index where our thesis is that food based tokens will be completely pivotal to global prosperity.",
+    "website": "https://cryptokaidojo.com",
+    "managerName": "Crypto Kai",
+    "managerTwitter": "andrew_eth",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/ck.png",
+    "managerDescription": "Crypto Kai is a crypto based content creator, community and core Set advocate. Come join us on YouTube and Discord where we document our Set investing journey!"
+  },
+  "version": 1
+}

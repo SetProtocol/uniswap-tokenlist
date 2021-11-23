@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "CMI Index",
+    "setSymbol": "CMI",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/cmi.png",
+    "setDescription": "The CMI Index is a digital asset index designed to track performance of  the crypto crypto market. The index is equally weighted between three assets: WBTC, ETH, USDC. The CMI Index allows you to get the profitability of the all crypto market just HODLing only one token.",
+    "managerName": "nftindex.tech",
+    "website": "https://nftindex.tech",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/nfti.png",
+    "managerTwitter": "PRONFTI",
+    "managerDescription": "The NFT Index by https://nftindex.tech/ is a digital asset index designed to track tokens performance within the NFT industry."
+  },
+  "version": 1
+}

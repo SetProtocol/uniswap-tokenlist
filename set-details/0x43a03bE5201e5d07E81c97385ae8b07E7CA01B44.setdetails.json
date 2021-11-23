@@ -1,0 +1,14 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "IKAL Crypto Management",
+    "setSymbol": "IKAL",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/IKAL.png",   
+    "setDescription": "",
+    "managerName": "IKAL",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/IKAL.png",  
+    "managerDescription": ""
+  },
+  "version": 1
+}

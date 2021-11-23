@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "MACRO Blue Chip",
+    "setSymbol": "MACRO",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/1-Blue-Chip-600x315.jpeg",
+    "setDescription": "Blue Chip Crypto",
+    "website": "",
+    "managerName": "MACROSTAR",
+    "managerTwitter": "",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/blue_00.jpeg",
+    "managerDescription": "MacroStar Blue Chip Crypto"
+  },
+  "version": 1
+}

@@ -1,0 +1,15 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "Ethereum Eco Swing Strategy",
+    "setSymbol": "ECO",
+    "setDecimals": 18,
+    "setDescription": "Hate sitting through 30-50% drawdown when the market turns bearish? ECO hates that too. ECO is a TA based, discretionary ethereum eco system swing trading strategy that plans to capture as much macro-trend upside as possible whilst executing a rebalance into USDC when the market starts to lose momentum to limit drawdown.",
+    "website": "https://cryptokaidojo.com",
+    "managerName": "Crypto Kai",
+    "managerTwitter": "andrew_eth",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/ck.png",
+    "managerDescription": "Crypto Kai is a crypto based content creator, community and core Set advocate. Come join us on YouTube and Discord where we document our Set investing journey!"
+  },
+  "version": 1
+}

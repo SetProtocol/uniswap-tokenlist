@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Financial Virgin Innovation Index",
+    "setSymbol": "FVI",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/FV-LOGO.png",
+    "setDescription": "",
+    "website": "https://www.financialvirgin.co.za",
+    "managerName": "Financial Virgin",
+    "managerTwitter": "financialvirgin",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/FV-LOGO.png",
+    "managerDescription": "Financial Virgin has been in the crypto space for 7 years and was an early adopter of Bitcoin. I have learnt so much and I'm here to assist you through the weird and unknown blockchain world."
+  },
+  "version": 1
+}

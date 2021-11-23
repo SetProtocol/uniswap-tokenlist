@@ -1,0 +1,15 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "Crypto Family Fund",
+    "setSymbol": "CFAMF",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/CFAMF.png",
+    "setDescription": "The Crypto Family Fund is employing a broad range of strategies to extract profits from the market while rigorously limiting risks. The fund is targeting constant linear growth using long and short strategies based on machine learning and statistical models.",
+    "managerName": "Crypto Family Capital",
+    "managerTwitter": "CryptoFamFund",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/CFAMF.png",
+    "managerDescription": "Crypto Family Capital is managing several public and private cryptocurrency focused funds. The group is composed of passionate analysts, traders and developers with one common objective: Be part of the next financial revolution."
+  },
+  "version": 1
+}

@@ -1,0 +1,130 @@
+{
+  "name": "Gemini Token List w/ WETH, WBTC, USDC, and Tether",
+  "version": {
+    "major": 0,
+    "minor": 2,
+    "patch": 0
+  },
+  "keywords": [
+    "gemini",
+    "tokens",
+    "trusted",
+    "arbitrum"
+  ],
+  "logoURI": "https://gemini.com/static/images/loader.png",
+  "timestamp": "2021-10-29T14:15:22+0000",
+  "tokens": [
+    {
+      "name": "Balancer",
+      "chainId": 42161,
+      "symbol": "BAL",
+      "decimals": 18,
+      "address": "0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/bal.svg"
+    },
+    {
+      "name": "Compound",
+      "chainId": 42161,
+      "symbol": "COMP",
+      "decimals": 18,
+      "address": "0x354A6dA3fcde098F8389cad84b0182725c6C91dE",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/comp.svg"
+    },
+    {
+      "name": "CurveDAOToken",
+      "chainId": 42161,
+      "symbol": "CRV",
+      "decimals": 18,
+      "address": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/crv.svg"
+    },
+    {
+      "name": "DaiStablecoin",
+      "chainId": 42161,
+      "symbol": "DAI",
+      "decimals": 18,
+      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/dai.svg"
+    },
+    {
+      "name": "The Graph",
+      "chainId": 42161,
+      "symbol": "GRT",
+      "decimals": 18,
+      "address": "0x23A941036Ae778Ac51Ab04CEa08Ed6e2FE103614",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/grt.svg"
+    },
+    {
+      "name": "Chainlink",
+      "chainId": 42161,
+      "symbol": "LINK",
+      "decimals": 18,
+      "address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/link.svg"
+    },
+    {
+      "name": "Loopring",
+      "chainId": 42161,
+      "symbol": "LRC",
+      "decimals": 18,
+      "address": "0x46d0cE7de6247b0A95f67b43B589b4041BaE7fbE",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/lrc.svg"
+    },
+    {
+      "name": "Maker",
+      "chainId": 42161,
+      "symbol": "MKR",
+      "decimals": 18,
+      "address": "0x2e9a6Df78E42a30712c10a9Dc4b1C8656f8F2879",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/mkr.svg"
+    },
+    {
+      "name": "Tether",
+      "chainId": 42161,
+      "symbol": "USDT",
+      "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+      "decimals": 6,
+      "logoURI": "https://gemini.com/images/currencies/icons/default/usdt.svg"
+    },
+    {
+      "name": "Uniswap",
+      "chainId": 42161,
+      "symbol": "UNI",
+      "decimals": 18,
+      "address": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/uni.svg"
+    },
+    {
+      "name": "USDC",
+      "chainId": 1,
+      "symbol": "USDC",
+      "decimals": 6,
+      "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/usdc.svg"
+    },
+    {
+      "name": "Wrapped Bitcoin",
+      "chainId": 42161,
+      "symbol": "WBTC",
+      "decimals": 18,
+      "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/btc.svg"
+    },
+    {
+      "name": "Wrapped Eth",
+      "chainId": 42161,
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/eth.svg"
+    },
+    {
+      "name": "yearn.finance",
+      "chainId": 42161,
+      "symbol": "YFI",
+      "decimals": 18,
+      "address": "0x82e3A8F066a6989666b031d916c43672085b1582",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/yfi.svg"
+    }
+  ]
+}

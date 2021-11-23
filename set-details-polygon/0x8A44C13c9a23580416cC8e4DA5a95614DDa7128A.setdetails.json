@@ -1,0 +1,14 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "Sonda Index",
+    "setSymbol": "SONDA",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/Sonda.png", 
+    "setDescription": "Indice Crypto de Sonda Inversiones",
+    "website": "https://sondainversiones.com/",
+    "managerName": "Sonda Inversiones",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/Sonda.png"
+  },
+  "version": 1
+}

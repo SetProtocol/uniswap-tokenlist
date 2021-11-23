@@ -1,0 +1,15 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "managerName": "Revenant Capital",
+    "managerDescription": "Revenant Capital is a quantitative asset manager deploying momentum based trading strategies with an emphasis on machine learning",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/revenant.png",
+    "managerTwitter": "0xRevenant",
+    "setName": "Defi Momentum Index",
+    "setSymbol": "DEMO",
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/demo.png",
+    "setDescription": "The Defi Momentum Index is an algorithmically rebalanced token set with an emphasis on short-to-medium term price action\n\nObjective\nThe set aims to provide users with exposure to eth/usd (weth/usdc) while systematically hedging against downside risk. The set will initialize as 100% usd and will be dollar-cost-averaged into its target rebalance ratio.\n\nSet Parameters:\n  - Underlying Asset: ETH\n  - Rebalance Ratio (Start): 0:100\n  - Rebalance Ratio (Target): 80:20\n  - Rebalance Ratio (Max): 100:0\n  - Rebalance Ratio (Min): 60:40\n\nStrategy\nThe set runs an aggressive momentum based 1x leveraged spot rebalancing strategy. The rebalancing strategy is powered by the DeepRSI trading engine with token rebalances occurring daily. Returns from the rebalancing strategy are rolled back into ETH so as to maintain set equilibrium. Read more on DeepRSI: https://twitter.com/thenatlog/status/1417233961030324234\n\nFee Structure\nThe Defi Momentum Index will have a streaming fee of 3% (300 basis points). The streaming fee scales linearly up from 0 over the duration of 1 year (365 days)",
+    "setDecimals": 18
+  },
+  "version": 4
+}

@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "The Wojak Index",
+    "setSymbol": "WOJAK",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/wojak.svg",
+    "setDescription": "WOJAK is a long only index fund that never allocates into stablecoins, remaining 100% exposed to crypto assets in a bull and bear market trend. Due to enormous swings of profitability and drawdown, we expect all holders to go through all Wojak based emotions depicted by the memes.",
+    "website": "https://cryptokaidojo.com",
+    "managerName": "Crypto Kai",
+    "managerTwitter": "andrew_eth",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/ck.png",
+    "managerDescription": "Crypto Kai is a crypto based content creator, community and core Set advocate. Come join us on YouTube and Discord where we document our Set investing journey!"
+  },
+  "version": 1
+}

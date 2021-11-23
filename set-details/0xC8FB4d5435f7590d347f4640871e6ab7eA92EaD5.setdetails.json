@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Decentralized Derivatives Index",
+    "setSymbol": "DDI",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/decentralized_derivatives_index.png",
+    "setDescription": "Decentralized Derivatives Index (DDI) is a market capitalization weighted index that tracks the performance of the top decentralized derivatives exchange tokens. View the index methodology on our website.",
+    "website": "http://www.ravenindices.com",
+    "managerName": "Raven Indices",
+    "managerTwitter": "ravenindices",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/raven_indices.png",
+    "managerDescription": "Raven Indices is a developer of specialized crypto indices."
+  },
+  "version": 1
+}

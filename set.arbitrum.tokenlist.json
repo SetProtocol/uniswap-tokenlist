@@ -1,0 +1,15 @@
+{
+  "name": "Set (Arbitrum)",
+  "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/set-logo.svg",
+  "keywords": ["set", "tokensets", "defi", "arbitrum"],
+  "timestamp": "2020-11-04T12:32:17.000+00:00",
+  "tokens": [
+    {
+      "chainId": 42161,
+      "address": "0x4f90e1726e11e55264b78c656bf2b84cd92a6cfd",
+      "name": "USDC Weth Index",
+      "symbol": "UW",
+      "decimals": 18
+    }
+  ]
+}

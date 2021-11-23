@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Arch Ethereum Web3",
+    "setSymbol": "WEB3",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/web3.jpg",
+    "setDescription": "Index token with the largest exposure to the Ethereum Web3 economy",
+    "website": "https://www.archfinance.io",
+    "managerName": "Arch",
+    "managerTwitter": "https://twitter.com/archdefi",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/arch.jpg",
+    "managerDescription": "Diversified index products for the decentralized economy"
+  },
+  "version": 1
+}

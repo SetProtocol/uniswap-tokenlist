@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "DGEN CAPITAL #1 Index",
+    "setSymbol": "DGEN1",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dgenlogo.png",
+    "setDescription": "The DGEN CAPITAL #1 Index is dgen.capital's long term vision for the crypto market, talking the upside of crypto's most promising areas, such as the Metaverse & Defi, and as well taking advantage of leveraged positions for BTC & ETH",
+    "website": "https://dgen.capital",
+    "managerName": "Duke Dgen",
+    "managerTwitter": "dukedgen",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/dgenlogo.png",
+    "managerDescription": "Manager of dgen.capital"
+  },
+  "version": 1
+}

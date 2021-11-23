@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Data Economy Index",
+    "setSymbol": "DATA",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/data_economy_index.jpg",
+    "setDescription": "The Data Economy Index (DATA) is a digital asset index capturing the growth of data-based products and services. The DATA index is data centric and chain agnostic. DATA is the first decentralized index to capture the growth of the data economy and also the first to include non Ethereum-based tokens. DATA includes tokens that provide data-based products or services across blockchains. This means that the success of Chainlink, the Graph, Filecoin, etc. is independent from Bitcoin, Ethereum, Solana, Cosmos, and other cryptocurrencies.  These tokens are inherently multichain and grow along with the entire crypto industry’s success.",
+    "managerName": "Titans of Data",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/titans_of_data.jpg",
+    "managerDescription": "Titans of Data is a coalition of innovators, operators, and investors in the data economy. We are cultivating a more open, secure, and equitable internet where everyone, including robots, are equals when facing opportunities in Web3. Through our research, we curate innovation to bring the data economy into the mainstream.",
+    "website": "https://www.indexcoop.com/data",
+    "managerTwitter": "indexcoop"
+  },
+  "version": 1
+}

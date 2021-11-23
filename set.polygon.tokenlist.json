@@ -1,0 +1,219 @@
+{
+  "name": "Set (Polygon)",
+  "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/set-logo.svg",
+  "keywords": ["set", "tokensets", "defi", "polygon"],
+  "timestamp": "2020-10-19T12:32:17.000+00:00",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xCad2fd1CDd6F2d62744320BaDC8C0EdE4bc29c5e",
+      "name": "THE PIGGY INDEX [000]",
+      "symbol": "000",
+      "decimals": 18
+    },
+    {
+      "address": "0x45298A0c629184868147B938b10711AF9187408F",
+      "name": "FuruCombo Ecosystem Index",
+      "symbol": "COMBI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/COMBO_token.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x38891a2d24f71440f58aA1c6B9739Fe93aa416D2",
+      "name": "Polymorphed Crypto Kai Index",
+      "symbol": "PKAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/cki-set.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xc6533667962e3032De2c0f6e92B0e5E20ff190Fe",
+      "name": "Polymorphed DeFi Index",
+      "symbol": "PDEFI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/polymorphed_defi_index.svg"
+    },
+    {
+      "chainId": 137,
+      "address": "0x9847cB15e384a16D91293f1e7502D1c4D937DE90",
+      "name": "Ethereum Eco Swing Strategy",
+      "symbol": "ECO",
+      "decimals": 18
+    },
+    {
+      "chainId": 137,
+      "address": "0xF0e9B95e42eC5C28D0b4dA7a816BFb7423193a67",
+      "name": "ETHBTC PolyStrategy",
+      "symbol": "RATIO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth_btc.svg"
+    },
+    {
+      "chainId": 137,
+      "address": "0x2177cCfa776387F6cC4E3dD5cd83509b06E90c58",
+      "name": "Food Maxi Index",
+      "symbol": "FOOD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/food.svg"
+    },
+    {
+      "chainId": 137,
+      "address": "0xFBEEdd1A63c14677b3440b1d40668B5Df9dF8273",
+      "name": "DEX Innovation Index",
+      "symbol": "DEX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dex_innovation.svg"
+    },
+    {
+      "chainId": 137,
+      "address": "0x00C143b546b6A66bb37217917Ba99A7F4B60c55a",
+      "name": "PermaBear Index",
+      "symbol": "BEAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/permabear.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x30f7f094fdbfefD9B62DeAcc4dCd881ba5ce7c1c",
+      "name": "The Wojak Index",
+      "symbol": "WOJAK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/wojak.svg"
+    },
+    {
+      "chainId": 137,
+      "address": "0x9295d0927019deB22ED3611Bd99F163E55d249A1",
+      "name": "PolySwing BTC Strategy",
+      "symbol": "SWING",
+      "decimals": 18
+    },
+    {
+      "chainId": 137,
+      "address": "0x065f56d750470df14f3CA888c00594d38530be9b",
+      "name": "Polymorphic Growth Index",
+      "symbol": "PGI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/pgi_token_logo.png"
+    },
+    {
+      "address": "0x24108e0a71D7c8B252edb15BC0E0Cb627bb64A28",
+      "name": "Crypto Family Fund",
+      "symbol": "CFAMF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/CFAMF.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x3eC2000dC2AE3550AC6d82202E04a3993eb8510A",
+      "name": "Degen Bot",
+      "symbol": "DB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/Degen_bot.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x2224a419FBb1Bf9635799e09fBD6dB39bB1e5D98",
+      "name": "DEFI Crypto 8 Index",
+      "symbol": "DEFI8",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/DEFI8.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x83C92e1a4a824CD42F94012B7b50AFf372E4d25f",
+      "name": "CMI Index",
+      "symbol": "CMI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-tokenlist/main/assets/managers/cmi.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xe1d850218b11887b4Ce1D8a4d7D9Ed37C6E1610b",
+      "name": "Zer0range Index",
+      "symbol": "ZER0",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/zero_orange.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x1794CA09293CC098145469dDB5e0eD93A5C0b424",
+      "name": "set",
+      "symbol": "SET",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/set.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xd890bE1E284126c47a13cC082F641c9b27B6dCc1",
+      "name": "Tri-element of Polygon",
+      "symbol": "TRPL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/TRPL-HugLu.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xC097170E839dD8D9c52b4B8352946bc671f2628E",
+      "name": "DeFi Phoenix Index",
+      "symbol": "DFPHX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/6XO3KEJ5_400x400.jpg"
+    },
+    {
+      "chainId": 137,
+      "address": "0x1ba804130D73649293c39912a304F6b471D38179",
+      "name": "sambusak",
+      "symbol": "SAMBU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/E.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xF75BdDd08d79040A46150e6afF9Fec53D28Ba13F",
+      "name": "Undervalued DeFi Base",
+      "symbol": "UDB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/undervalued.jpg"
+    },
+    {
+      "chainId": 137,
+      "address": "0xAE281f38dDf402497e922FA67b1559A7931E7d81",
+      "name": "MACRO Blue Chip",
+      "symbol": "MACRO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/1-Blue-Chip-600x315.jpeg"
+    },
+    {
+      "chainId": 137,
+      "address": "0x5B8510a1449CED5e14bc7050a54B945442f5d5B9",
+      "name": "SAGA DeFi Crypto Fund K2",
+      "symbol": "SAGA2",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/SAGA2_100x100.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x6862F415d9498458458C4C2Fa9BE481b13e4A25A",
+      "name": "SAGA DeFi Crypto Strategy K1",
+      "symbol": "SAGA1",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/SAGA1_100x100.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x29CAF1091958083fC9D67d1D24F5b3901963e840",
+      "name": "Singularity Index",
+      "symbol": "NDU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/singularity_logo.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x4088fa41319791786eDE0D1F19398EEC6b6d6CAd",
+      "name": "MoonQuant HiFreq ETH SwingTrader",
+      "symbol": "MQHFE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqhfe.png"
+    }
+  ]
+}

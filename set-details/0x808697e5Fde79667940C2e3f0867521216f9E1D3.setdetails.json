@@ -1,0 +1,13 @@
+{
+    "setDetails": {
+        "chainId": 1,
+        "managerName": "hedgedCap",
+        "managerDescription": "Just a guy who’s enthusiastic about crypto and blockchain investing…",
+        "managerTwitter": "hedgedCap",
+        "setDescription": "The **Ethereum Network Oracle Index** is an adjusted market cap weighted index that tracks a basket of Ethereum based oracle projects/tokens.\n\n**Objective**\nThe Ethereum Network Oracle Index seeks to track the price performance of a basket of Ethereum based oracle projects/tokens. The index weightings are based on an adjusted market cap weighting methodology.\n\n**Index Weightings**\nDue to the large differences in market caps between projects, the index utilizes a free-floating, adjusted market cap weighting methodology. Weights are initially capped at 35%, with the excess weighting being allocated to the remaining tokens. Each weight is then rounded to the nearest 5% for simplicity. The weights of the tokens will be allowed to float freely, keeping the soft limit of 35% max weighting. If a token moves above the max 35% weighting for a significant amount of time, the index will be re-weighted to bring it back into line.\n\n**Index Management**\nThe index will be continuously monitored and adjusted quarterly (if adjustment is needed). Ultimately, adjustments will be at the sole discretion of the manager but will typically include reweighting the tokens and adding/removing tokens from the set. Efforts will be made to try and reduce the impact of trading/gas fees on the index.\n\n**Risks**\nInvesting in cryptocurrencies is **highly** risky and **very** speculative, invest at your **own risk**. The manager takes **no** responsibility for the performance of the index and makes no guarantee of results. As time goes on the management guidelines will evolve, with effort being given to the criteria detailed above. Ultimately, decisions are solely up to the manager.\n" ,
+        "setDecimals": 18,
+        "setName": "Ethereum Network Oracle Index",
+        "setSymbol": "ORCLS"
+    },
+  "version": 1
+}

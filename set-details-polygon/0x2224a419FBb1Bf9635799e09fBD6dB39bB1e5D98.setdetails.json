@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "DEFI Crypto 8 Index",
+    "setSymbol": "DEFI8",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/DEFI8.png",
+    "setDescription": "DEFI Crypto 8 Index (DEFI8) is a rules based, equal-weighted index strategy that tracks the performance of the eight largest tokens in the decentralized financial industry.\n\nOBJECTIVE\nDecentralized finance is one of the fastest growing segments in the crypto ecosystem. There are literally hundreds of DeFi cryptos for investors to choose from in the market. However, all these choices can add cost and complexity when making decisions. DEFI Crypto 8 Index (DEFI8) can eliminate this complexity and ease the process for crypto investors. It provides a way to track the performance of the decentralized finance market as a whole by holding a single token.\n\nINDEX STRATEGY\nWe use a rules based, systematic approach to screen tokens that meets the following criteria:\n\nAssociated with a decentralized finance protocol such as lending, swaps, staking, payments, synthetics.\nThe token must be available on the Ethereum blockchain.\nNot a stable coin or cannot be fiat-pegged.\nSufficient liquidity on the Polygon network.\n\nAfter screening, select the top eight tokens based on market-capitalization (circulating supply number x price) and allocate equally in the index.\n\nINDEX MAINTENANCE\nThe index is maintained monthly in two phases. The first phase takes place during the last week of the month, which is to determine any tokens addition or deletion based on the index screening and selection strategy.The second phase takes place on the first business day of the month, which is to reconstitute and rebalance the index. During the second phase, additions or deletions determined from the first phase are incorporated into the index and all the holdings are readjusted to equal weight.\n\nFEE STRUCTURE\nThe Index will have an annual management fee of 1%. The management fee scales linearly up from 0 over the duration of 1 year (365 days).\n",
+    "website": "https://ithinkportfolios.com",
+    "managerName": "iTHINK Portfolios",
+    "managerTwitter": "iTHINKPortfolio",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/ithinkportfolios.png",
+    "managerDescription": "iTHINK Portfolios is a crypto asset manager specializing in smart Beta indexing strategies. We use a rules based, systematic approach to build our index portfolios."
+  },
+  "version": 1
+}

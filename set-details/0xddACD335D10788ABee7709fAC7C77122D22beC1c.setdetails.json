@@ -1,0 +1,14 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "DeFi Crypto10 Equal Weight Index",
+    "setSymbol": "DFC10",
+    "setDecimals": 18,
+    "setIcon": "", 
+    "setDescription": "DeFi Crypto10 Equal Weight Index (DFC10) is an equal-weighted index strategy that tracks the performance of the 10 largest crypto in the decentralized financial industry.\n\nObjective\nDecentralized finance is one of the fastest growing segments in the crypto ecosystem. There are literally hundreds of DeFi cryptos for investors to choose from in the market. However, all these choices can add cost and complexity when making decisions. DeFi Crypto10 Equal Weight Index (DFC10) can eliminate this complexity and ease the process for crypto investors. It provides a way to track the performance of the decentralized finance market as a whole by holding a single token set.\n\nSet Strategy\nTo keep the strategy clean and simple, we will screen tokens in the decentralized finance category that meets the following criteria:\n\nInvolve in DeFi projects such as lending, swaps, staking, payments, synthetics.\nIt is a token on the Ethereum blockchain.\nNot a stable coin or cannot be fiat-pegged.\nSufficient liquidity across various trading platforms.\n\nSelect the 10 largest based on market-capitalization (circulating supply number x price) and allocate equally in the set.\n\nSet Maintenance\nThe Set reconstitutes and rebalances during the last week of the month.Tokens addition or deletion will be determined by repeating the set strategy screening. Portions of tokens that performed well will be sold and those that did relatively poorly will be bought to assure the weightings are equal again.\n\nWhy Equal Weight?\nIn traditional investments such as stock portfolios, an equal-weighted strategy offers more diversification and avoids concentration risk. We believe this same strategy can be applied to investing in DeFi cryptos and has the potential to better capture the industry’s overall performance and returns as it continues to grow and develop.\n",
+    "managerName": "iTHINK Portfolios",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/ithink.png", 
+    "managerDescription": ""
+  },
+  "version": 1
+}

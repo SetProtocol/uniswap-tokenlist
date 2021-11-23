@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "sambusak",
+    "setSymbol": "SAMBU",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/E.png",
+    "setDescription": "set with the soul purpose to track eth price",
+    "website": "",
+    "managerName": "crypto guy",
+    "managerTwitter": "",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/caseen-kyle-registos-gtc4hsvvZHI-unsplash.jpg",
+    "managerDescription": "crypto is here to make you money"
+  },
+  "version": 1
+}

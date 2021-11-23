@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "ETHBTC PolyStrategy",
+    "setSymbol": "RATIO",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth_btc.svg",
+    "setDescription": "ETHBTC PolyStrategy is a discretionary portfolio based around trend trading the ratio between WETH and WBTC on Polygon to try capitalise on the asset that has the most bullish momentum at the time",
+    "website": "https://cryptokaidojo.com",
+    "managerName": "Crypto Kai",
+    "managerTwitter": "andrew_eth",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/ck.png",
+    "managerDescription": "Crypto Kai is a crypto based content creator, community and core Set advocate. Come join us on YouTube and Discord where we document our Set investing journey!"
+  },
+  "version": 1
+}

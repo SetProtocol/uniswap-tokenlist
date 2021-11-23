@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Bankless BED Index",
+    "setSymbol": "BED",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/bankless_bed.png",
+    "setDescription": "The Bankless BED Index is an equal weighted Set of Bitcoin, Ethereum, and DPI.",
+    "website": "https://www.indexcoop.com",
+    "managerName": "Bankless",
+    "managerTwitter": "BanklessHQ",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/bankless_logo.jpeg",
+    "managerDescription": "Bankless DAO is a decentralized community driving adoption and awareness of bankless money systems like Ethereum, Bitcoin and DeFi through media, culture, and education."
+  },
+  "version": 1
+}
