@@ -477,6 +477,14 @@
       "symbol": "DGEN1",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dgenlogo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0601f64B7ea089767D2fc6777a109A3372BF0742",
+      "name": "GC Digital Assets",
+      "symbol": "GCDA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/GCDA_Bull.PNG"
     }
   ],
   "version": {
