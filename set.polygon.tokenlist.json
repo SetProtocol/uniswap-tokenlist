@@ -6,6 +6,14 @@
   "tokens": [
     {
       "chainId": 137,
+      "address": "0x752d59604d72b6DC44196f4A39A3f07779417407",
+      "name": "ETH Variable Leverage Long",
+      "symbol": "mETHMOON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/beverage-ethpolygon.png"
+    },
+    {
+      "chainId": 137,
       "address": "0xCad2fd1CDd6F2d62744320BaDC8C0EdE4bc29c5e",
       "name": "THE PIGGY INDEX [000]",
       "symbol": "000",
