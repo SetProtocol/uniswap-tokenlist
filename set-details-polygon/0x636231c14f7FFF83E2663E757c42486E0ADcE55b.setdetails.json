@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "Blackbox Digital Blue Chip Index",
+    "setSymbol": "BLCH",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/BBUSD.png",
+    "setDescription": "Blue Chip Index curated by Blackbox Digital Asset Management",
+    "website": "http://www.investblackbox.com",
+    "managerName": "Blackbox Digital Asset Management",
+    "managerTwitter": "investblackbox",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/BlackboxFinalLogo.png",
+    "managerDescription": "<Premier Digital Asset Managers>"
+  },
+  "version": 1
+}

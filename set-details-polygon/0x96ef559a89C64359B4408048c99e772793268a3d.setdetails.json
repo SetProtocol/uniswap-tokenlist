@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "Bitcoin Hedge Token",
+    "setSymbol": "BBST",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/vectorstock_26775583.jpg",
+    "setDescription": "The Bitcoin Hedge Token allows holders to gain profit when the price of Bitcoin climbs and minimize loses as the price falls. We aim to outperform Bitcoin on an annual basis by trading between the following underlying assets; Bitcoin and USDC. Success is achieved using several technical indicators to track optimal times to buy and sell bitcoin to USDC is a ratio of 95/5. ",
+    "website": "",
+    "managerName": "SpareBucks",
+    "managerTwitter": "BBSTtoken",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/vectorstock_26775583.jpg",
+    "managerDescription": "SpareBucks takes the hard work out of investing in the crypto space by providing simple solutions to investor that are professionally managed"
+  },
+  "version": 1
+}

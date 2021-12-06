@@ -200,6 +200,62 @@
       "name": "THE PIGGY INDEX [000]",
       "symbol": "000",
       "decimals": 18
+    },
+    {
+      "chainId": 137,
+      "address": "0x636231c14f7FFF83E2663E757c42486E0ADcE55b",
+      "name": "Blackbox Digital Blue Chip Index",
+      "symbol": "BLCH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/BBUSD.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x5b8510a1449ced5e14bc7050a54b945442f5d5b9",
+      "name": "SAGA DeFi Crypto Strategy K2",
+      "symbol": "SAGA2",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/SAGA2_100x100.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x818D2CfD54a834d34177fe265545CE8a884539B5",
+      "name": "Metaverse & Defi Index",
+      "symbol": "MDI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/MDI.jpg"
+    },
+    {
+      "chainId": 137,
+      "address": "0x7E4131aBAeD0d8Fa531659974c99bD55AEAf9591",
+      "name": "ETH Ecosystem Index",
+      "symbol": "ETHLT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/rsz_eth.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xD52CE784f9883FCD45E48ED29248cea262629050",
+      "name": "Harmony Block Invest-A",
+      "symbol": "HBI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/HarmonyBlockInvest.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x96ef559a89C64359B4408048c99e772793268a3d",
+      "name": "BITCOIN HEDGE TOKEN",
+      "symbol": "BBST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/vectorstock_26775583.jpg"
+    },
+    {
+      "chainId": 137,
+      "address": "0x2207eBc98aAbe347E31c6694dE50a0a959881252",
+      "name": "Lopez Capital Crypto Hedge",
+      "symbol": "LCH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/LOGO+LC.png"
     }
   ]
 }
