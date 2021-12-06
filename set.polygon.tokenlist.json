@@ -14,20 +14,6 @@
     },
     {
       "chainId": 137,
-      "address": "0xCad2fd1CDd6F2d62744320BaDC8C0EdE4bc29c5e",
-      "name": "THE PIGGY INDEX [000]",
-      "symbol": "000",
-      "decimals": 18
-    },
-    {
-      "address": "0x45298A0c629184868147B938b10711AF9187408F",
-      "name": "FuruCombo Ecosystem Index",
-      "symbol": "COMBI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/COMBO_token.png"
-    },
-    {
-      "chainId": 137,
       "address": "0x38891a2d24f71440f58aA1c6B9739Fe93aa416D2",
       "name": "Polymorphed Crypto Kai Index",
       "symbol": "PKAI",
@@ -44,13 +30,6 @@
     },
     {
       "chainId": 137,
-      "address": "0x9847cB15e384a16D91293f1e7502D1c4D937DE90",
-      "name": "Ethereum Eco Swing Strategy",
-      "symbol": "ECO",
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
       "address": "0xF0e9B95e42eC5C28D0b4dA7a816BFb7423193a67",
       "name": "ETHBTC PolyStrategy",
       "symbol": "RATIO",
@@ -59,19 +38,26 @@
     },
     {
       "chainId": 137,
-      "address": "0x2177cCfa776387F6cC4E3dD5cd83509b06E90c58",
-      "name": "Food Maxi Index",
-      "symbol": "FOOD",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/food.svg"
-    },
-    {
-      "chainId": 137,
       "address": "0xFBEEdd1A63c14677b3440b1d40668B5Df9dF8273",
       "name": "DEX Innovation Index",
       "symbol": "DEX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dex_innovation.svg"
+    },
+    {
+      "address": "0x45298A0c629184868147B938b10711AF9187408F",
+      "name": "FuruCombo Ecosystem Index",
+      "symbol": "COMBI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/COMBO_token.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x2177cCfa776387F6cC4E3dD5cd83509b06E90c58",
+      "name": "Food Maxi Index",
+      "symbol": "FOOD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/food.svg"
     },
     {
       "chainId": 137,
@@ -88,13 +74,6 @@
       "symbol": "WOJAK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/wojak.svg"
-    },
-    {
-      "chainId": 137,
-      "address": "0x9295d0927019deB22ED3611Bd99F163E55d249A1",
-      "name": "PolySwing BTC Strategy",
-      "symbol": "SWING",
-      "decimals": 18
     },
     {
       "chainId": 137,
@@ -142,14 +121,6 @@
       "symbol": "ZER0",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/zr-logo.jpg"
-    },
-    {
-      "chainId": 137,
-      "address": "0x1794CA09293CC098145469dDB5e0eD93A5C0b424",
-      "name": "set",
-      "symbol": "SET",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/set.png"
     },
     {
       "chainId": 137,
@@ -222,6 +193,13 @@
       "symbol": "MQHFE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqhfe.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xCad2fd1CDd6F2d62744320BaDC8C0EdE4bc29c5e",
+      "name": "THE PIGGY INDEX [000]",
+      "symbol": "000",
+      "decimals": 18
     }
   ]
 }
