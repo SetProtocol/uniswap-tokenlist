@@ -525,7 +525,7 @@
       "symbol": "GCDA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/GCDA_Bull.PNG"
-    },
+    }
   ],
   "version": {
     "major": 0,
