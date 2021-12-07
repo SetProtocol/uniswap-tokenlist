@@ -77,6 +77,14 @@
     },
     {
       "chainId": 137,
+      "address": "0x9295d0927019deB22ED3611Bd99F163E55d249A1",
+      "name": "PolySwing BTC Strategy",
+      "symbol": "SWING",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/swing.png"
+    },
+    {
+      "chainId": 137,
       "address": "0x065f56d750470df14f3CA888c00594d38530be9b",
       "name": "Polymorphic Growth Index",
       "symbol": "PGI",
