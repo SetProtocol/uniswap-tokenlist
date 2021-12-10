@@ -39,14 +39,6 @@
       "logoURI": "https://gemini.com/images/currencies/icons/default/snx.svg"
     },
     {
-      "name": "Storj",
-      "chainId": 1,
-      "symbol": "STORJ",
-      "decimals": 8,
-      "address": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
-      "logoURI": "https://gemini.com/images/currencies/icons/default/storj.svg"
-    },
-    {
       "name": "Tether",
       "chainId": 1,
       "symbol": "USDT",
