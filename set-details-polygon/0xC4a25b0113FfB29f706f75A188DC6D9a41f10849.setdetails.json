@@ -1,0 +1,16 @@
+{
+    "setDetails": {
+      "chainId": 137,
+      "setName": "ETHBTC 2x Long",
+      "setSymbol": "mRATIOMOON",
+      "setDecimals": 18,
+      "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/beverage-mRatiomoon200x200.png",
+      "setDescription": "",
+      "website": "https://www.beverage.finance",
+      "managerName": "beverage.finance",
+      "managerTwitter": "BeverageFinance",
+      "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/beverage_logo.jpg",
+      "managerDescription": ""
+    },
+    "version": 1
+  }
