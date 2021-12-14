@@ -272,6 +272,14 @@
       "symbol": "mETHMOON",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/beverage-ethpolygon.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xC4a25b0113FfB29f706f75A188DC6D9a41f10849",
+      "name": "ETHBTC 2x Long",
+      "symbol": "mRATIOMOON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/beverage-mRatiomoon200x200.png"
     }
   ]
 }
