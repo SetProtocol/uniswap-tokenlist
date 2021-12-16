@@ -525,7 +525,16 @@
       "symbol": "LINKETHMOON",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/beverage-linketh.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xeFC996CE8341cd36c55412B51DF5BBCa429a7617",
+      "name": "METAVERSE INDEX",
+      "symbol": "METAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/nftindex-tech/metai-logo/main/metai_200x200.png"
     }
+
   ],
   "version": {
     "major": 0,
