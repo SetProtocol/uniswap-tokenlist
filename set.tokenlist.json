@@ -533,6 +533,14 @@
       "symbol": "METAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/metai_200x200.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0acC0FEE1D86D2cD5AF372615bf59b298D50cd69",
+      "name": "Invest Like Stakeborg Index",
+      "symbol": "ILSI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ILSI.svg"
     }
   ],
   "version": {
