@@ -5,12 +5,12 @@
     "setSymbol": "NFTI",
     "setDecimals": 18,
     "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/nfti.svg",
-    "setDescription": "The NFT Index is a capitalization-weighted index that tracks the performance of decentralized financial assets across the market.\nThe NFT Index aims to track projects in Decentralized Finance that have significant usage and show a commitment to ongoing maintenance and development.",
+    "setDescription": "The NFT Index is a capitalization-weighted index that tracks the performance of decentralized financial assets across the market.\nThe NFT Index aims to track projects in Decentralized Finance that have significant usage and show a commitment to ongoing maintenance and development.\nStreaming Fee - every month 50% goes to buy $GNFT (GOVERNANCE TOKEN for nftindex.tech, more info you can find on site)",
     "managerName": "nftindex.tech",
     "website": "https://nftindex.tech",
     "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/nfti.svg",
     "managerTwitter": "PRONFTI",
     "managerDescription": "The NFT Index by https://nftindex.tech/ is a digital asset index designed to track tokens performance within the NFT industry."
   },
-  "version": 1
+  "version": 2
 }
