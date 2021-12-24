@@ -10,6 +10,12 @@
       "name": "Ethereum Maximization Set",
       "symbol": "EMS",
       "decimals": 18
-    }
+    },
+    {
+      "chainId": 10,
+      "address": "0x6Fbe275b73b6f4950FEd4791d3983894825E9d45",
+      "name": "TEST PERP TOKEN",
+      "symbol": "TESTPERP",
+      "decimals": 18
   ]
 }
