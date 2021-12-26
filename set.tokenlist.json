@@ -541,6 +541,14 @@
       "symbol": "ILSI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ILSI.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb8a62d3df12755ac1722d934bd70aae82d842a43",
+      "name": "SW DAO Alpha Portfolio",
+      "symbol": "SWAP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/sw-alpha-portfolio.png"
     }
   ],
   "version": {
