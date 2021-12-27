@@ -549,6 +549,30 @@
       "symbol": "SWAP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/sw-alpha-portfolio.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xE63f18d7247a6A89834860f6bafC40d197edf841",
+      "name": "DAO&Infrastructure Index",
+      "symbol": "DII",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/DII-icoin.jpg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x51Bb88d9Ee38e57126760abBE0657CBfa17fB819",
+      "name": "Voyager Value I",
+      "symbol": "VOY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/5aBvPVaM_400x400.jpeg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x848F11E9c468be9EF6bF5F1Daa742e6ADF25D7A7",
+      "name": "Simon Gee",
+      "symbol": "NFI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/networkfeeindex.png"
     }
   ],
   "version": {

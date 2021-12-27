@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "Optimized Revenue Comp",
+    "setSymbol": "ORC",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/adamantlead2.jpg",
+    "setDescription": "Optimized Revenue Comp is a composition of the most popular Machine gun pool in polygon-Adamant, which generates sizable revenue from most liquid tokens in its pool, and also the USDC-one of the largest stable coin backed by USD credit. The set well balances revenue and risk and can bring investors long-term interest.",
+    "website": "https://www.tokensets.com/v2/set/polygon/0x4a40e88519a3b47bab1ae89ca7d838c1c3d35264",
+    "managerName": "Dmab",
+    "managerTwitter": "0xtresa",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/profile-adamant.png",
+    "managerDescription": "I'm Melson. An amateur Fund Manager and also an investor. My strategy focuses on long term revenue and will consider allocate a certain portion to riskless assets. Do not hesitate to contact me if you have any doubts about my product, thanks."
+  },
+  "version": 1
+}

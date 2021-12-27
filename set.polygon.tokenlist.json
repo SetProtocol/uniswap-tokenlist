@@ -280,6 +280,46 @@
       "symbol": "mRATIOMOON",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/beverage-mRatiomoon200x200.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x301b36C55A6667A64d73445ed8564aF739Fd4adF",
+      "name": "Baserank DeFi Index",
+      "symbol": "BRDI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/Baserank-DeFi-Index.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x90c87475108c557046ddd4e67b33d0b286c05d96",
+      "name": "Safe Alt Season",
+      "symbol": "SALTS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/salts.jpg"
+    },
+    {
+      "chainId": 137,
+      "address": "0xdD093B2aB11068B087F0b9A2a66cC72570DC27d5",
+      "name": "DeFi Opportunity Fund",
+      "symbol": "DOF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/1.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x4a40e88519a3b47BAB1AE89CA7D838C1c3d35264",
+      "name": "Optimized Revenue Comp",
+      "symbol": "ORC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/adamantlead2.jpg"
+    },
+    {
+      "chainId": 137,
+      "address": "0x19ACe31d191144484ea4433f9503ba47Ba73aD49",
+      "name": "Top 20",
+      "symbol": "TOP20",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/vtp.png"
     }
   ]
 }
