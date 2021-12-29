@@ -1,6 +1,6 @@
 {
     "setDetails": {
-      "chainId": 137,
+      "chainId": 1,
       "setName": "ETHBTC 1x Short",
       "setSymbol": "RATIODOOM",
       "setDecimals": 18,

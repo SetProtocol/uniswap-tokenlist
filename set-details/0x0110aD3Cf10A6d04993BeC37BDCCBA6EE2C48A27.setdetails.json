@@ -1,6 +1,6 @@
 {
     "setDetails": {
-      "chainId": 137,
+      "chainId": 1,
       "setName": "Tether 3x Short",
       "setSymbol": "TETHERDOOM",
       "setDecimals": 18,
