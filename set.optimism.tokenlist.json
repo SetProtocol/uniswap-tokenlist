@@ -6,9 +6,9 @@
   "tokens": [
     {
       "chainId": 10,
-      "address": "0x4f90E1726E11E55264b78c656Bf2b84cD92A6cFd",
-      "name": "Ethereum Maximization Set",
-      "symbol": "EMS",
+      "address": "0xd3339ca9d56617521fB12c243ec8783c66e40A71",
+      "name": "Ethereum USDC Index",
+      "symbol": "ETHIN",
       "decimals": 18
     }
   ]
