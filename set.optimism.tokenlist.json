@@ -10,6 +10,13 @@
       "name": "Ethereum USDC Index",
       "symbol": "ETHIN",
       "decimals": 18
+    },
+    {
+      "chainId": 10,
+      "address": "0x89606Eb202A4eB6e9B4Abe01B8e22801B521F497",
+      "name": "Optimistic Crypto Kai Index",
+      "symbol": "OKAI",
+      "decimals": 18
     }
   ]
 }

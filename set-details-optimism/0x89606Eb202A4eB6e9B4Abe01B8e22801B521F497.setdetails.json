@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 10,
+    "setName": "Optimistic Crypto Kai Index",
+    "setSymbol": "OKAI",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/opck.png",
+    "setDescription": "Crypto Kai has ventured into new L2 lands! Inspired by our Layer 1 based Blue Chip & Innovation Index, this product focuses on a diversified Optimism-native asset portfolio. All Crypto Kai portfolios are discretionarily traded using a blend of technical analysis swing trading indicators and fundamental driven factors alongside the specific token inclusion criterias for each portfolio theme.\n\nDive deeper into the methodology by visiting the official Crypto Kai website",
+    "website": "https://cryptokaidojo.com",
+    "managerName": "Crypto Kai",
+    "managerTwitter": "andrew_eth",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/ck.png",
+    "managerDescription": "Crypto Kai is a crypto based content creator, community and core Set advocate. Come join us on YouTube and Discord where we document our Set investing journey!"
+  },
+  "version": 1
+}
