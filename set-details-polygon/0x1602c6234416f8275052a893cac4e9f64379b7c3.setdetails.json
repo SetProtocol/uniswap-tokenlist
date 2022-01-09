@@ -1,0 +1,14 @@
+{
+    "setDetails": {
+      "chainId": 137,
+      "setName": "idx[a]",
+      "setSymbol": "IDA",
+      "setDecimals": 18,
+      "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/revcap-polygon-set-icon.png",
+      "setDescription": "idx[a] is an aggressive, algorithmically traded set. the set actively balances between 2xeth-fli, eth, and usdc",
+      "managerName": "revenant capital",
+      "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/revcap-polygon-manager-icon.png",
+      "managerDescription": "quantitative asset manager deploying momentum based trading strategies"
+    },
+    "version": 1
+  }
