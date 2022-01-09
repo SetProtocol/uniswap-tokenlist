@@ -320,6 +320,14 @@
       "symbol": "TOP20",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/vtp.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x1602c6234416f8275052a893cac4e9f64379b7c3",
+      "name": "idx[a]",
+      "symbol": "ida",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/revcap-polygon-set-icon.png"
     }
   ]
 }
