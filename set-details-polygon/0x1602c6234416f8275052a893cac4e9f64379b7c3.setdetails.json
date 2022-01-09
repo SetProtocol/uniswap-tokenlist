@@ -2,7 +2,7 @@
     "setDetails": {
       "chainId": 137,
       "setName": "idx[a]",
-      "setSymbol": "ida",
+      "setSymbol": "IDA",
       "setDecimals": 18,
       "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/revcap-polygon-set-icon.png",
       "setDescription": "idx[a] is an aggressive, algorithmically traded set. the set actively balances between 2xeth-fli, eth, and usdc",
