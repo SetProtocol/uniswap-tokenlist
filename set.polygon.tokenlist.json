@@ -325,7 +325,7 @@
       "chainId": 137,
       "address": "0x1602c6234416f8275052a893cac4e9f64379b7c3",
       "name": "idx[a]",
-      "symbol": "ida",
+      "symbol": "IDA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/revcap-polygon-set-icon.png"
     }
