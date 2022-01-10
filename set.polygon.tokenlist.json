@@ -335,7 +335,7 @@
       "name": "DeepBalancerV1",
       "symbol": "DEEPB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/deepbalancer.jpg"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/deepbalancer_squared.png"
     }
   ]
 }
