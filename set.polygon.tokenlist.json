@@ -328,6 +328,14 @@
       "symbol": "IDA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/revcap-polygon-set-icon.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x7F73CE42963fB967dF88d8815f364DCc47F1Ea89",
+      "name": "DeepBalancerV1",
+      "symbol": "DEEPB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/deepbalancer_squared.png"
     }
   ]
 }

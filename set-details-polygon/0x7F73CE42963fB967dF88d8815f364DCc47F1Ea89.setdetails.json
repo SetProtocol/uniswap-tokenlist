@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "DeepBalancerV1",
+    "setSymbol": "DEEPB",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/deepbalancer_squared.png",
+    "setDescription": "DeepBalancer V1 Fund employs a data-driven strategy for allocating funds into WETH, WBTC and USDT, according to the predictions given by our Deep Learning model. Please go to our website (https://deepbalancer.xyz/) or our Telegram group (https://t.me/+J9VVoL81-rM3MmQy) for updates on our offerings.",
+    "website": "https://deepbalancer.xyz/",
+    "managerName": "DeepBalancer",
+    "managerTwitter": "https://twitter.com/DeepBalancer",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/deepbalancer_squared.png",
+    "managerDescription": "DeepBalancer focuses on Deep Learning models for DeFi strategy optimization."
+  },
+  "version": 1
+}
