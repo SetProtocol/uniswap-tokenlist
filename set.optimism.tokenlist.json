@@ -19,6 +19,30 @@
       "symbol": "BOBO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/permabear.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xeac054F74b5fA4D255a4F82EF8f0163067684fEd",
+      "name": "MoonQuant Fixed Income Proxy Set",
+      "symbol": "MQFI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqfi.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xed29D37AF1c4F78450856bA6Be19a7b00f60677C",
+      "name": "MoonQuant MainCrypto TrendBlazer",
+      "symbol": "MQMC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqmc.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xaa8df9Ad904cE48D8aB43d7D57352Fd9aa497ABB",
+      "name": "MoonQuant ETH TrendBlazer",
+      "symbol": "MQE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqe.png"
     }
   ]
 }
