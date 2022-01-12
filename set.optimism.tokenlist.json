@@ -11,6 +11,14 @@
       "symbol": "OKAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/opck.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x2E68795B6DB82F55c76d3bF228F7464AAA9244b5",
+      "name": "Bobo Save Haven",
+      "symbol": "BOBO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/permabear.png"
     }
   ]
 }
