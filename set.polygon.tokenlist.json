@@ -275,6 +275,14 @@
     },
     {
       "chainId": 137,
+      "address": "0x51D6F767Ef7563FA5219c07311970d7A5c54950C",
+      "name": "ETH Variable Leverage Short",
+      "symbol": "mETHDOOM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/beverage-methdoom200x200.png"
+    },
+    {
+      "chainId": 137,
       "address": "0xC4a25b0113FfB29f706f75A188DC6D9a41f10849",
       "name": "ETHBTC 2x Long",
       "symbol": "mRATIOMOON",
