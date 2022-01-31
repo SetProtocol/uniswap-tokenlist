@@ -352,6 +352,14 @@
       "symbol": "SWAP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/sw-alpha-portfolio.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x2D5811c9b69e34CCDB2C97C012b4Cb19BE45e498",
+      "name": "Acme Crypto Index",
+      "symbol": "ACI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/acme.png"
     }
   ]
 }
