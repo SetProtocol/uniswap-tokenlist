@@ -6,11 +6,11 @@
     "setDecimals": 18,
     "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/avax1x.png",
     "setDescription": "AVAX 1x is leverage perpetual token that cannot get liquidated whilst acting as a novel ETH-native synth token that is fully composable with the wider DeFi ecosystem.\n\nMethodology\nUnderlying Asset: AVAX 1x\nTarget Leverage Ratio: 1.0\nIntegrated Protocol: Perpetual Protocol V2\nStreaming Fee: 1.95%",
-    "website": "https://www.beverage.finance",
-    "managerName": "beverage.finance",
-    "managerTwitter": "BeverageFinance",
-    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/beverage_logo.jpg",
-    "managerDescription": ""
+    "website": "https://www.galleon.community",
+    "managerName": "Galleon DAO",
+    "managerTwitter": "galleondao",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/galleon-logo.png",
+    "managerDescription": "Galleon DAO is a guild of like-minded strategy methodologists that research, design, and create best-in-class, novel structured products to be distributed through select ecosystem partners and DAO-owned applications (SetSwap)."
   },
   "version": 1
 }
