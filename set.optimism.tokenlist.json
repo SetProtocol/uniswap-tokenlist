@@ -6,6 +6,38 @@
   "tokens": [
     {
       "chainId": 10,
+      "address": "0xbA6a2Fa321BB06D668c5192Be77428106c5C01E5",
+      "name": "SOLUNAVAX Index",
+      "symbol": "SOLUNAVAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/solunavax.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x95FFfb13856D2BE739a862f9b645573e5C838bdD",
+      "name": "SOL 1X",
+      "symbol": "SOL1X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/sol1x.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x19F0622903A977A24bB47521732E6291002a4edE",
+      "name": "LUNA 1X",
+      "symbol": "LUNA1X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/luna1x.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x522439fB1Da6DB24f18baAB1782486B55FE3A7b6",
+      "name": "AVAX 1X",
+      "symbol": "AVAX1X",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/avax1x.png"
+    },
+    {
+      "chainId": 10,
       "address": "0x89606Eb202A4eB6e9B4Abe01B8e22801B521F497",
       "name": "Optimistic Crypto Kai Index",
       "symbol": "OKAI",
