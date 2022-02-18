@@ -1,0 +1,16 @@
+{
+"setDetails": {
+"chainId": 137,
+"setName": "Harmony Block Invest-A",
+"setSymbol": "HBI",
+"setDecimals": 18,
+"setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/HarmonyBlockInvest.png",
+"setDescription": "The Harmony Block Invest-A strategy specializes in investing in the most valuable, innovative and liquid crypto assets on the Polygon network, such as crypto assets in the Metaverse, GameFi, SociFi, and DeFi fields. It is the first strategy launched by the Harmony Block Invest crypto fund.",
+"website": "",
+"managerName": "Harmony Block Invest",
+"managerTwitter": "HB_Invest",
+"managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/HarmonyBlockInvest.png",
+"managerDescription": "Harmony Block Invest is a tokenized crypto fund. The fund's position information, investment portfolio and assets are all integrated in third-party asset management protocol such as TokenSets.\n\nHBI is a tokenized fund share, which is a negotiable proof of community governance and rights. It is used for fund profit distribution, net asset value calculation, share transfer and circulation, community governance and fund operation cost settlement. HBI is issued by 100% mortgage of crypto assets at the time of subscription, and the price of HBI anchors the fund's performance. The initial value of HBI is 100 USD."
+},
+"version": 1
+}

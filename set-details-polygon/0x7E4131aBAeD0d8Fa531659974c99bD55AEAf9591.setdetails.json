@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "ETH Ecosystem Index",
+    "setSymbol": "ETHLT",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/rsz_eth.png",
+    "setDescription": "Invest into the long-term success of innovative projects grown by the excellent Ethereum community. This index assumes that ETH 2.0 will be a success and L2s will co-exist and scale into fit-for-purpose niches. Some Metaverse tokens from other chains and BTC is added for diversification.",
+    "website": "",
+    "managerName": "t0kenexplorer",
+    "managerTwitter": "",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/rsz_1t0kenexplorer.png",
+    "managerDescription": "Working in tech since more than 10 years, t0kenexplorer got his first Bitcoin in 2015 and evaluates new and exciting projects since then."
+  },
+  "version": 1
+}

@@ -19,7 +19,7 @@
       "chainId": 1,
       "symbol": "DAI",
       "decimals": 18,
-      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
       "logoURI": "https://gemini.com/images/currencies/icons/default/dai.svg"
     },
     {
@@ -37,14 +37,6 @@
       "decimals": 18,
       "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
       "logoURI": "https://gemini.com/images/currencies/icons/default/snx.svg"
-    },
-    {
-      "name": "Storj",
-      "chainId": 1,
-      "symbol": "STORJ",
-      "decimals": 8,
-      "address": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
-      "logoURI": "https://gemini.com/images/currencies/icons/default/storj.svg"
     },
     {
       "name": "Tether",

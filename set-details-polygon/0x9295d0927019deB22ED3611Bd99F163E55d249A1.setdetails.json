@@ -4,6 +4,7 @@
     "setName": "PolySwing BTC Strategy",
     "setSymbol": "SWING",
     "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/swing.png",
     "setDescription": "Hate sitting through 30-50% drawdown when the market turns bearish? SWING hates that too. PolySwing is a TA based, discretionary BTC swing trading strategy that plans to capture as much macro-trend upside as possible whilst executing a rebalance into USDC when the market starts to lose momentum to limit drawdown.",
     "website": "https://cryptokaidojo.com",
     "managerName": "Crypto Kai",

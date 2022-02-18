@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "METAVERSE INDEX",
+    "setSymbol": "METAI",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/metai_200x200.png",
+    "setDescription": "The METAi Index is a digital asset index designed to track tokens’ performance within the Metaverce industry. The index is weighted based on the value of each token’s circulating supply and liquidity. The METAi Index aims to track Metaverce projects in a Decentralized universe that show a commitment to ongoing maintenance and development.Streaming Fee - every month 50% goes to buy $GNFT ( GOVERNANCE TOKEN for nftindex.tech , more info you can find on site)",
+    "managerName": "nftindex.tech",
+    "website": "https://nftindex.tech",
+    "managerIcon": "https://raw.githubusercontent.com/pro-blockchain-com/uniswap-tokenlist/main/assets/managers/nfti.svg",
+    "managerTwitter": "PRONFTI",
+    "managerDescription": "The NFT Index by https://nftindex.tech/ is a digital asset index designed to track tokens performance within the NFT industry."
+  },
+  "version": 1
+}

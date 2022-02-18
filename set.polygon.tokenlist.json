@@ -6,17 +6,11 @@
   "tokens": [
     {
       "chainId": 137,
-      "address": "0xCad2fd1CDd6F2d62744320BaDC8C0EdE4bc29c5e",
-      "name": "THE PIGGY INDEX [000]",
-      "symbol": "000",
-      "decimals": 18
-    },
-    {
-      "address": "0x45298A0c629184868147B938b10711AF9187408F",
-      "name": "FuruCombo Ecosystem Index",
-      "symbol": "COMBI",
+      "address": "0x3Ad707dA309f3845cd602059901E39C4dcd66473",
+      "name": "ETH 2x Flexible Leverage Index",
+      "symbol": "ETH2X-FLI-P",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/COMBO_token.png"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth2xfli.svg"
     },
     {
       "chainId": 137,
@@ -36,13 +30,6 @@
     },
     {
       "chainId": 137,
-      "address": "0x9847cB15e384a16D91293f1e7502D1c4D937DE90",
-      "name": "Ethereum Eco Swing Strategy",
-      "symbol": "ECO",
-      "decimals": 18
-    },
-    {
-      "chainId": 137,
       "address": "0xF0e9B95e42eC5C28D0b4dA7a816BFb7423193a67",
       "name": "ETHBTC PolyStrategy",
       "symbol": "RATIO",
@@ -51,19 +38,26 @@
     },
     {
       "chainId": 137,
-      "address": "0x2177cCfa776387F6cC4E3dD5cd83509b06E90c58",
-      "name": "Food Maxi Index",
-      "symbol": "FOOD",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/food.svg"
-    },
-    {
-      "chainId": 137,
       "address": "0xFBEEdd1A63c14677b3440b1d40668B5Df9dF8273",
       "name": "DEX Innovation Index",
       "symbol": "DEX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dex_innovation.svg"
+    },
+    {
+      "address": "0x45298A0c629184868147B938b10711AF9187408F",
+      "name": "FuruCombo Ecosystem Index",
+      "symbol": "COMBI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/COMBO_token.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x2177cCfa776387F6cC4E3dD5cd83509b06E90c58",
+      "name": "Food Maxi Index",
+      "symbol": "FOOD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/food.svg"
     },
     {
       "chainId": 137,
@@ -86,7 +80,8 @@
       "address": "0x9295d0927019deB22ED3611Bd99F163E55d249A1",
       "name": "PolySwing BTC Strategy",
       "symbol": "SWING",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/swing.png"
     },
     {
       "chainId": 137,
@@ -133,15 +128,7 @@
       "name": "Zer0range Index",
       "symbol": "ZER0",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/zero_orange.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0x1794CA09293CC098145469dDB5e0eD93A5C0b424",
-      "name": "set",
-      "symbol": "SET",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/set.png"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/zr-logo.jpg"
     },
     {
       "chainId": 137,
@@ -214,6 +201,165 @@
       "symbol": "MQHFE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mqhfe.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xCad2fd1CDd6F2d62744320BaDC8C0EdE4bc29c5e",
+      "name": "THE PIGGY INDEX [000]",
+      "symbol": "000",
+      "decimals": 18
+    },
+    {
+      "chainId": 137,
+      "address": "0x636231c14f7FFF83E2663E757c42486E0ADcE55b",
+      "name": "Blackbox Digital Blue Chip Index",
+      "symbol": "BLCH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/BBUSD.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x5b8510a1449ced5e14bc7050a54b945442f5d5b9",
+      "name": "SAGA DeFi Crypto Strategy K2",
+      "symbol": "SAGA2",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/SAGA2_100x100.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x818D2CfD54a834d34177fe265545CE8a884539B5",
+      "name": "Metaverse & Defi Index",
+      "symbol": "MDI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/MDI.jpg"
+    },
+    {
+      "chainId": 137,
+      "address": "0x7E4131aBAeD0d8Fa531659974c99bD55AEAf9591",
+      "name": "ETH Ecosystem Index",
+      "symbol": "ETHLT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/rsz_eth.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xD52CE784f9883FCD45E48ED29248cea262629050",
+      "name": "Harmony Block Invest-A",
+      "symbol": "HBI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/HarmonyBlockInvest.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x96ef559a89C64359B4408048c99e772793268a3d",
+      "name": "BITCOIN HEDGE TOKEN",
+      "symbol": "BBST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/vectorstock_26775583.jpg"
+    },
+    {
+      "chainId": 137,
+      "address": "0x2207eBc98aAbe347E31c6694dE50a0a959881252",
+      "name": "Lopez Capital Crypto Hedge",
+      "symbol": "LCH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/LOGO+LC.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x752d59604d72b6DC44196f4A39A3f07779417407",
+      "name": "ETH Variable Leverage Long",
+      "symbol": "mETHMOON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/beverage-ethpolygon.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x51D6F767Ef7563FA5219c07311970d7A5c54950C",
+      "name": "ETH Variable Leverage Short",
+      "symbol": "mETHDOOM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/beverage-methdoom200x200.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xC4a25b0113FfB29f706f75A188DC6D9a41f10849",
+      "name": "ETHBTC 2x Long",
+      "symbol": "mRATIOMOON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/beverage-mRatiomoon200x200.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x301b36C55A6667A64d73445ed8564aF739Fd4adF",
+      "name": "Baserank DeFi Index",
+      "symbol": "BRDI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/Baserank-DeFi-Index.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x90c87475108c557046ddd4e67b33d0b286c05d96",
+      "name": "Safe Alt Season",
+      "symbol": "SALTS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/salts.jpg"
+    },
+    {
+      "chainId": 137,
+      "address": "0xdD093B2aB11068B087F0b9A2a66cC72570DC27d5",
+      "name": "DeFi Opportunity Fund",
+      "symbol": "DOF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/1.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x4a40e88519a3b47BAB1AE89CA7D838C1c3d35264",
+      "name": "Optimized Revenue Comp",
+      "symbol": "ORC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/adamantlead2.jpg"
+    },
+    {
+      "chainId": 137,
+      "address": "0x19ACe31d191144484ea4433f9503ba47Ba73aD49",
+      "name": "Top 20",
+      "symbol": "TOP20",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/vtp.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x1602c6234416f8275052a893cac4e9f64379b7c3",
+      "name": "idx[a]",
+      "symbol": "IDA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/revcap-polygon-set-icon.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x7F73CE42963fB967dF88d8815f364DCc47F1Ea89",
+      "name": "DeepBalancerV1",
+      "symbol": "DEEPB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/deepbalancer_squared.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x25Ad32265c9354c29e145c902aE876f6B69806F2",
+      "name": "SW DAO Alpha Portfolio",
+      "symbol": "SWAP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/sw-alpha-portfolio.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x2D5811c9b69e34CCDB2C97C012b4Cb19BE45e498",
+      "name": "Acme Crypto Index",
+      "symbol": "ACI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/acme.png"
     }
   ]
 }

@@ -118,6 +118,22 @@
     },
     {
       "chainId": 1,
+      "address": "0x68ab9f9ba8E490D9Dc191f7A90540b5EDCcC92D6",
+      "name": "Crypto Kai Innovation Index",
+      "symbol": "CKI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/cki-set.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xD13bF4acF5d4b2407d785d2528D746fA75CF9778",
+      "name": "Crypto Kai Blue Chip Index",
+      "symbol": "CKB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ckb-set.png"
+    },
+    {
+      "chainId": 1,
       "address": "0xEab53D2Dc181d5c2D316a3370471a028C621EdE7",
       "name": "The BEST Portfolio",
       "symbol": "BEST",
@@ -335,22 +351,6 @@
       "symbol": "PFLTI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/Mamba_Script_Logo_Final-06.png"
-    },
-    {
-      "chainId": 1,
-      "address": "0x68ab9f9ba8E490D9Dc191f7A90540b5EDCcC92D6",
-      "name": "Crypto Kai Innovation Index",
-      "symbol": "CKI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/cki-set.png"
-    },
-    {
-      "chainId": 1,
-      "address": "0xD13bF4acF5d4b2407d785d2528D746fA75CF9778",
-      "name": "Crypto Kai Blue Chip Index",
-      "symbol": "CKB",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ckb-set.png"
     },
     {
       "chainId": 1,

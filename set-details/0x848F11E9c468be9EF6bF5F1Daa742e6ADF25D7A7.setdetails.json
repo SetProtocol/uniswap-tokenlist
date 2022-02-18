@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Network Fee Index",
+    "setSymbol": "NFI",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/networkfeeindex.png",
+    "setDescription": "The NFI combines the ten biggest blockchains compared by revenue in one fund.\n\nThe index is updated once a month based on the 7 Day Avg. Fees.",
+    "website": "http://fund.ac-projects.de",
+    "managerName": "Simon Gee",
+    "managerTwitter": "token_fan",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/networkfeeindex.png",
+    "managerDescription": "Simon Gee, 30y, Germany"
+  },
+  "version": 1
+}

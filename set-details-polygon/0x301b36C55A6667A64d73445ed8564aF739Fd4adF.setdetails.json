@@ -1,0 +1,17 @@
+{
+  "setDetails": {
+  "chainId": 137,
+  "setName": "Baserank DeFi Index",
+  "setSymbol": "BRDI",
+  "setDecimals": 18,
+  "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/Baserank-DeFi-Index.png",
+  "setDescription": "Baserank DeFi Index represents the best DeFi projects on the market. (Investors holding at least 8,000 USD in BRDI are entitled to a free Baserank Standard subscription. Investors holding 30,000 USD in BRDI or more are entitled to a free Baserank Professional subscription. If you meet the condition, please send us a request at support@baserank.io)",
+  "website": "https://baserank.io/",
+  "managerName": "Baserank",
+  "managerTwitter": "baserank1",
+  "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/baserank.png",
+  "managerDescription": "Baserank is a Crypto Asset Research Platform. We build and manage crypto asset index funds based on fundamental analysis and data-driven research."
+  },
+  "version": 1
+  }
+  

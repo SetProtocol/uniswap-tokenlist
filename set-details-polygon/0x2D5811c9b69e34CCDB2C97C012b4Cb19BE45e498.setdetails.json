@@ -1,0 +1,16 @@
+{
+    "setDetails": {
+      "chainId": 137,
+      "setName": "Acme Crypto Index",
+      "setSymbol": "ACI",
+      "setDecimals": 18,
+      "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/acme.png",
+      "setDescription": "Acme Crypto Index",
+      "website": "https://www.linkedin.com/in/cgmello",
+      "managerName": "Claudio Mello",
+      "managerTwitter": "cgmello",
+      "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/well.jpeg",
+      "managerDescription": "Well Done crypto indexes"
+    },
+    "version": 1
+  }

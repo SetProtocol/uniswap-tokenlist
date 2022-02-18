@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+  "chainId": 137,
+  "setName": "Safe Alt Season",
+  "setSymbol": "SALTS",
+  "setDecimals": 18,
+  "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/salts.jpg",
+  "setDescription": "Combination of BTC, Defi index & Metaverse index brings you a safe alt season",
+  "website": "https://coinbookers.crypto",
+  "managerName": "Coinbookers",
+  "managerTwitter": "coinbookers",
+  "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/coinbookers.JPG",
+  "managerDescription": "Coinbookers is a team of professional traders who safety of your trades and investments is more important for them than anything."
+  },
+  "version": 1
+  }

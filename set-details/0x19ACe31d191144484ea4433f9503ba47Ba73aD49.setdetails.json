@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Voyager Value I",
+    "setSymbol": "VOY",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/5aBvPVaM_400x400.jpeg",
+    "setDescription": "Diversified crypto value funds of the future. Own the underlying assets with full transparency on the blockchain.",
+    "website": "https://twitter.com/voyagerfunds",
+    "managerName": "RENROC CAPITAL",
+    "managerTwitter": "voyagerfunds>",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/5aBvPVaM_400x400.jpeg",
+    "managerDescription": ""
+  },
+  "version": 1
+}

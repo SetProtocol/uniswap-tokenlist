@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "Lopez Capital Crypto Hedge",
+    "setSymbol": "LCH",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/LOGO+LC.png",
+    "setDescription": "The Lopez Capital Crypto Hedge is the first Tokenized ETF in Latin America, the idea is to offer the public a differentiated financial product and professional active management to mitigate risk. Lopez Capital Crypto Hedge is also a product that promotes financial inclusion, since it does not require a minimum investment and its commissions are lower than traditional hedge funds",
+    "website": "https://lopezcapital.net/",
+    "managerName": "Lopez Capital",
+    "managerTwitter": "https://twitter.com/lopez_capital?t=36JcEZh0Bfn5i3dsEtWAvw&s=09",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/LOGO+LC.png",
+    "managerDescription": "Lopez Capital is the first investment firm in decentralized assets in the Dominican Republic, apart from being pioneers in our sector, we offer attractive returns that are superior to those of traditional investment funds and any other local financial instrument, this is because we invest in digital and international assets focused on decentralized finance and fintech, which allows us to have lower operating costs, more efficient, safer and more transparent transactions."
+  },
+  "version": 1
+}

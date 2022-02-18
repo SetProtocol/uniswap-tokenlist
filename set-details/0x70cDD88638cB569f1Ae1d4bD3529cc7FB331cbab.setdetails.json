@@ -1,0 +1,16 @@
+{
+    "setDetails": {
+      "chainId": 1,
+      "setName": "LINKETH 2x Long",
+      "setSymbol": "LINKETHMOON",
+      "setDecimals": 18,
+      "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/beverage-linketh.png",
+      "setDescription": "",
+      "website": "https://www.beverage.finance",
+      "managerName": "beverage.finance",
+      "managerTwitter": "BeverageFinance",
+      "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/beverage_logo.jpg",
+      "managerDescription": ""
+    },
+    "version": 2
+  }

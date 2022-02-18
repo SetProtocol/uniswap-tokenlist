@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "Bitcoin Hedge Token",
+    "setSymbol": "BBST",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/vectorstock_26775583.jpg",
+    "setDescription": "The Bitcoin Hedge Token allows you to profit when the price of bitcoin goes up and keep those profits as price falls. It enables token holders to trade between bitcoin and US dollar coin in a professionally managed environment.\n\nOBJECTIVE\nThe Bitcoin Hedge Token makes trading simple. Token holders do not have to worry about:\n\n- Constantly analyzing the market and monitoring their trade positions.\n- Understanding technical analysis, or timing the market.\n- Outperform Bitcoin on an annual basis.\n\nToken Breakdown:\n- Underlying assets: WBTC, USDC\n- Ratio: 95/5\n\nMANAGEMENT/REBALANCING\n- The BBST token is actively managed and reviewed on a daily basis to spot reversals in price action and hedge against downside to minimize risk for token holders.\n- We aim to rebalance/swap underlying assets 10 or more times annually and have a weighed ratio of 95/5.\n- Several technical indicators are used to determine the optimal time to swap between WBTC & USDC.\n- Once specific criteria are met, tokens will be swapped to maximize profits or minimize risk of volatility.\n\nFEES\nThis Bitcoin Hedge Token will have an initial streaming fee of 1.95% (195 basis points). The streaming fee will increase or decrease annually based on previous years performance (please see example). 10% of the revenue generated from the streaming fee will be used to provide liquidity for BBST token (or until sufficient supply is reached).\n\nExample. 1\nAnnual token price - open $1.00, Annual token price - close  $3.30, Growth +230% (230 ÷ 1000 = 0.23), Current streaming fee ((1.95 + 0.23 = 2.18) (218 basis points)), New annual streaming fee increased by +11.79% to 2.18% (218 basis points).\n\nEg. 2\nAnnual token price open $1.00, Annual token price close  $0.76, Growth -24% ÷ 1000 = 0.024, Current streaming fee ((1.95 - 0.024 = 1.93) (193 basis points)), New annual streaming fee decreased by -1.03% to 1.93% (193 basis points).",
+    "website": "",
+    "managerName": "Bitcoin Hedge Token",
+    "managerTwitter": "BBSTtoken",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/vectorstock_26775583",
+    "managerDescription": "Bitcoin Hedge Token takes the hard work out of investing in the crypto space by providing simple solutions to investors that are professionally managed."
+  },
+  "version": 1
+}

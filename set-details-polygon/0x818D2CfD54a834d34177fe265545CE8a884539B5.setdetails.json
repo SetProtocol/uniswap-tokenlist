@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "SAGA DeFi Crypto Strategy K2",
+    "setSymbol": "SAGA2",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/SAGA2_100x100.png",
+    "setDescription": "SAGA2 is our conservative crypto token, representing SAGA DeFi's automated Kelly criterion-based strategy. With an hourly market re-evaluation, token structure is made up of 80% stablecoins and 20% high liquid cryptoassets.",
+    "website": "https://sagadefi.com/",
+    "managerName": "SAGA DeFi",
+    "managerTwitter": "",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/SAGADeFi_100x100.png",
+    "managerDescription": "SAGA DeFi manages algorithmic high performance cryptoassets with fully automated system operations."
+  },
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "Top 20",
+    "setSymbol": "TOP20",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/vtp.png",
+    "setDescription": "The Top 20 set is simply the top-ranked tokens that are available on the Polygon chain. The crypto market is not usually symmetric so the logic is to distribute your fund between the top performing tokens to benefit from asymmetric gains. This also helps to lose less if a single coin crashes. Currently, the set contains five tokens: WBTC, WETH, UNI, LINK, and MATIC. There won't be a meme token on the list ever, they're just nonsense. I suggest using the set to create your own version of it with your desired allocations.",
+    "website": "https://twitter.com/YakhiMaki",
+    "managerName": "Yakhi Makimoto",
+    "managerTwitter": "https://twitter.com/YakhiMaki",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/phi.jpg",
+    "managerDescription": "I am a developer and a crypto enthusiast. My token sets are mostly for my own and my friend's use. You can use them as templates if you like."
+  },
+  "version": 1
+}

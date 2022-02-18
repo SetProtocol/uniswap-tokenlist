@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 10,
+    "setName": "SOL 1X",
+    "setSymbol": "SOL1X",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/sol1x.png",
+    "setDescription": "SOL 1x is leverage perpetual token by Galleon DAO & Beverage Finance that cannot get liquidated whilst acting as a novel ETH-native synth token that is fully composable with the wider DeFi ecosystem.\n\nMethodology\nUnderlying Asset: SOL \nTarget Leverage Ratio: 1.0\nIntegrated Protocol: Perpetual Protocol V2\nStreaming Fee: 1.95%",
+    "website": "https://matic.beverage.finance",
+    "managerName": "Beverage Finance",
+    "managerTwitter": "BeverageFinance",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/beverage_logo.jpg",
+    "managerDescription": "Beverage is a fair launched, community, developer and innovation first DAO aiming to expand the DeFi structured products space with leverage tokens."
+  },
+  "version": 1
+}

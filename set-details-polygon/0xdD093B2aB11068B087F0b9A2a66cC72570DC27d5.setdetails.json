@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "DeFi Opportunity Fund",
+    "setSymbol": "DOF",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/1.png",
+    "setDescription": "Capital appreciation through long-term oriented DeFi token investments",
+    "website": "",
+    "managerName": "Da8",
+    "managerTwitter": "",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/2.jpg",
+    "managerDescription": ""
+  },
+  "version": 1
+}

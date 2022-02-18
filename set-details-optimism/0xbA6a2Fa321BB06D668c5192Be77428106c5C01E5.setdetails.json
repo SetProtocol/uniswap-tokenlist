@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 10,
+    "setName": "SOLUNAVAX Index",
+    "setSymbol": "SOLUNAVAX",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/solunavax.png",
+    "setDescription": "The SOLUNAVAX Index, by Galleon DAO & Beverage Finance, is a structured product built  natively on the Optimism network to enable traders to gain spot exposure to the enormously popular, alternate Layer 1 assets, Solana (SOL), Terra (LUNA) and Avalanche (AVAX) using perpetual products. This is a first in the Set Protocol ecosystem for creating a cross-chain strategy and utilising the new, innovative Perpetual Protocol V2 integration.\n\nThe SOLUNAVAX Index follows a strict methodology prescribed by Galleon DAO & Beverage Finance. It is comprised of three single perpetual 1x positions wrapped in Sets (SOL1X, LUNA1X, AVAX1X), also created by Galleon & Beverage, to give maximum flexibility between gaining exposure to the entire theme or individual components. Our 1x perpetual tokens cannot get liquidated and are a novel ETH-native synth token that can be put in Curve pools, traded on exchanges and bridged.\n\nMethodology\nUnderlying Asset: SOL 1x, LUNA 1x, AVAX 1x\nRebalance Interval: Quarterly\nStreaming Fee: 0.5%",
+    "website": "https://www.galleon.community",
+    "managerName": "Galleon DAO",
+    "managerTwitter": "galleondao",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/galleon-logo.png",
+    "managerDescription": "Galleon DAO is a guild of like-minded strategy methodologists that research, design, and create best-in-class, novel structured products to be distributed through select ecosystem partners and DAO-owned applications (SetSwap)."
+  },
+  "version": 1
+}

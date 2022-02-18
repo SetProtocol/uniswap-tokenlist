@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "DAO&Infrastructure Index",
+    "setSymbol": "DII",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/DII-icoin.jpg",
+    "setDescription": "DII is the index of Ethereum based DAO tokens and Ethereum Infrastructure tokens. DII tokens will have some connections with a DAO we are planning to build called Healthy DAO.\n\nThe DII tokens holders will have some prime rights in Healthy DAO.\n\nHealthy DAO is a DAO making the people in crypto and web3 world healthier.\nWe hope DAO’s work can be easier, so we also create DAO tools and other Ethereum based infrastructure tools.\n\nLet us build and invest our own future!\n\nMethodology\nThe DII is meant to track Ethereum based DAO tokens(4) and Ethereum Infrastructure tokens(2) and Ethereum.\n1. Scope: The index includes the 7 investable assets with real usage and large capitalizations around the theme of Ethereum: Wrapped ETH(WETH), ConstitutionDAO(PEOPLE), Ethereum Name Service(ENS), Bankless DAO(BANK), Immutable X(IMX), Friends With Benefied(FWB), Babylon Finance(BABL).\n2. Weighting: Ethereum 20%, Ethereum based DAO tokens 50%, Ethereum Infrastructure tokens 30%.\n3. Rebalancing: 3 months once (The first Friday).\n\nThe composition is:\n- 20% WETH\n- 15% PEOPLE\n- 15% BANK\n- 10% WFB\n- 10% BABL\n- 15% ENS\n- 15% IMX\n\nThe underlying index is rebalanced after the close of trading on the first Friday of each calendar 3 months. The Fund is rebalanced in accordance with its Underlying Index.\n\nComponent Selection\n\nMarket requirements\n- The components must show signs of heavy usage on Ethereum\n\nInfrastructure.\n- The components must show signs of heavy usage on DAO governance.\n- The assets must have sufficient liquidity for initial inclusion and rebalances.\n\nTechnical requirements\n- Available on Ethereum blockchain\n- Trust-minimized assets\n- The token must not be considered a security by the corresponding authorities across different jurisdictions.\n\nSafety Requirements\n- Any network/protocol must have conducted sufficient security audits and/or security professionals must have reviewed the protocol to determine that security best practices have been followed.\n\nIndex Maintenance\nDII is maintained 3 months once in two phases:\n\nDetermination Phase\nThe determination phase takes place during the fourth week of the month. It is the phase when the changes needed for the next reconstitution are determined.\n\nReconstitution Phase\nFollowing publication of the determination phase outcome, the index composition will change to the new weights on the first friday of the following month. I.e components will be added or removed.",
+    "website": "",
+    "managerName": "wonderparty.eth",
+    "managerTwitter": "JackJia2021",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/ManagerName.png",
+    "managerDescription": "Fund Manager | Crypto trader | FX trader | solidity javascript programmer | lawyer | co-founder of Healthy DAO"
+  },
+  "version": 1
+}
