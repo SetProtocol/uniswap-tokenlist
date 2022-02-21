@@ -4,12 +4,12 @@
     "setName": "Blockschain DeFi Index",
     "setSymbol": "BSCDF",
     "setDecimals": 18,
-    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/BSCDF.png",               // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/asset_name.png
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/BSCDF.png",           
     "setDescription": "The Blockschain DeFi Index is a collection of cryptocurrency projects that encompass all sectors of decentralized finance. \n\nSectors Include:\nMetaverse and Gaming\nLending\nAutomated Market Makers\nDecentralized Exchanges\nStorage\nIndexing\nOracles\nWrapped Tokens\n\nThis index allows you to invest in 15 different DeFi projects through the purchase of a single token. Built on Polygon to make the investment process cheaper and more convenient.\nRebalancing takes place when necessary to maximize potential profit.",
     "website": "",
     "managerName": "Blockschain",
     "managerTwitter": "BlockschainFi",
-    "managerIcon": "// https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/BSC.png",           // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/manager_name.png
+    "managerIcon": "// https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/BSC.png",        
     "managerDescription": "At Blockschain, we create diversified token indexes that easily allow you to invest in decentralized finance convieniently with low fees."
   },
   "version": 1
