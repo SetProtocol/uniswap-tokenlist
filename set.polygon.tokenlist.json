@@ -360,14 +360,6 @@
       "symbol": "ACI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/acme.png"
-    },
-    {
-      "chainId": 137,
-      "address": "0xa1EA9aA32CBba8c203DDC510a144aD1F439d436c",
-      "name": "MetaPortal Gaming Index",
-      "symbol": "GAME",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/GAME.png"
     }
   ]
 }

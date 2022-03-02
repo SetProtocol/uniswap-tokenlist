@@ -1,6 +1,6 @@
 {
   "setDetails": {
-    "chainId": 137,
+    "chainId": 1,
     "setName": "MetaPortal Gaming Index",
     "setSymbol": "GAME",
     "setDecimals": 18,
