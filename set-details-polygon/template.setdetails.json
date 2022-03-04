@@ -6,6 +6,7 @@
     "setDecimals": 18,
     "setIcon": "",               // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/asset_name.png
     "setDescription": "",
+    "website": "",
     "managerName": "",
     "managerIcon": "",           // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/manager_name.png
     "managerDescription": ""
