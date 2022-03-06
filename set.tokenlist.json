@@ -576,6 +576,14 @@
     },
     {
       "chainId": 1,
+      "address": "0xD64DeEA5F24934E3A1aa752912aEe8ffD8300C3F",
+      "name": "WLKR Crypto Innovation Index",
+      "symbol": "WLKR",
+      "decimals": 18,
+      "logoURI": "https://i.ibb.co/vzCBbYH/wlkr-logos.jpg"
+    },
+    {
+      "chainId": 1,
       "address": "0x0FE20E0Fa9C78278702B05c333Cc000034bb69E2",
       "name": "ETH Max Yield Index",
       "symbol": "ETHMAXY",
