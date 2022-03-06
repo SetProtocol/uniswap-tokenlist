@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "MetaPortal Gaming Index",
+    "setSymbol": "GAME",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/GAME.png",
+    "setDescription": "The MetaPortal Gaming Index ($GAME) is designed to provide exposure to the emergent crypto gaming space. Investing across games, virtual worlds and gaming platforms, $GAME is a simple and effective way to express the view that crypto games will capture a greater share of the burgeoning gaming market.\n\nObjective\nThe index aims to provide exposure to a nascent and fast-moving sector through the simplicity of a single token. As with most thematic indices, GAME holders benefit from the following:\n- Always holding the top gaming tokens by market capitalization.\n- Eliminating gas fees associated with rebalancing a portfolio.\n- No need to research tokens or try to pick winners in the sector.\n\nSelection\nSelection of tokens is based on the following basic criteria:\n- Tokens must be ERC20 available on Ethereum mainnet.\n- The protocol must be in one of the following token categories, as defined by MetaPortal Metaverse Categories: Gaming, Virtual Worlds and Platforms.\n- For Platforms and Virtual Worlds, only those focusing on gaming will be considered for inclusion.\n- The token must have reasonable and consistent DEX liquidity on Ethereum.\n- In the event of a security issue the methodologist will work with the project team to understand the issue and any effects to $MVI holdings. The team is expected to provide users of the protocol with a reliable solution and adequate documentation to ensure transparency about the incident.\n\nIndex Weight Calculation\n- Weights are calculated using square root of market capitalization.\n- There will be a 25% maximum allocation cap on single positions.\n- Excess weight for a given token will be redistributed to the remaining components on a weighted basis.\n\nIndex Maintenance\nThe index will rebalance on an ad-hoc basis, but at least quarterly, at the discretion of the methodologist.",
+    "website": "https://www.metaportal.wtf/",
+    "managerName": "MetaPortal",
+    "managerTwitter": "MetaportaI",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/MetaPortal.png",
+    "managerDescription": "We are a community of infinite players in the Metaverse. Fuelled by diverse revenue streams and an intrinsic curiosity, MetaPortal aims to contribute to the development of the open metaverse through its various projects and initiatives."
+  },
+  "version": 1
+}

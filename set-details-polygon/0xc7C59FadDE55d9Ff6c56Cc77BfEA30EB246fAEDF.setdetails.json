@@ -1,0 +1,15 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "Digital Nomad Index Token",
+    "setSymbol": "DNIT",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dniticon.svg",
+    "setDescription": "Digital Nomad is a HODL token for individuals who don't have technological literacy to route in all those crypto-hyped web3 projects, though are keen to be a participant in the digital future with financial independence. DNIT token includes +40 project tokens that focus on Decentralized Finance, Metaverse, Chain-agnostic Data, Major L1-L2 solutions, and a stable coin to Dollar-Cost-Average whole index. Indexing and rebalancing are proven to be the most profitable method for long-term investment.",
+    "website": "https://www.bparlan.com",
+    "managerName": "Barış Parlan",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/bparlanicon.svg",
+    "managerDescription": "Barış Peace Parlan is a social anarchist and activist earthling. He was born and raised in an under-embargo part of an island. His technological expertise guided him to create crypto products adoptable by bankless & stateless, socially aware people. You can find him around a campfire."
+  },
+  "version": 1
+}
