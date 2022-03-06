@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "ETH Max Yield Index",
+    "setSymbol": "ETHMAXY",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ethmaxy.png",
+    "setDescription": "The ETH Max Yield Index ($ETHMAXY) is an ERC-20 structured product built collaboratively by Galleon DAO & Beverage Finance natively on the Ethereum network, enabling traders to gain leveraged exposure on their staked ETH yields via stETH and Aave protocol.\n\nETH Max Yield Index is our first mainnet structured product and the index provides a 3x+ stETH levered position. As a representation if stETH is paying 5% staking APY while borrowing ETH is <1% which means the token would get 13-15% yield on the stETH collateral using this method in one composable, ERC-20 token that can be held, transferred and integrated with other DeFi protocols.\n\nMethodology\nThe Ethereum Max Yield Index follows a strict methodology, it is composed of stETH, deposited as collateral on Aaave, allowing ETH to be borrowed and wrapped into stETH - this process is repeated until the token is 3x+ levered. Aave's current LTV for stETH is 70% and liquidation threshold is 75%, which means stETH can be looped 3.33x - 4.",
+    "website": "https://www.galleon.community",
+    "managerName": "Galleon DAO",
+    "managerTwitter": "galleondao",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/galleon-logo.png",
+    "managerDescription": "Galleon DAO is a guild of asset management methodologists that research, design, and create best-in-class, novel structured products to be distributed through select ecosystem partners and DAO-owned applications (SetSwap)."
+  },
+  "version": 1
+}

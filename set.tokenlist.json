@@ -573,6 +573,14 @@
       "symbol": "GAME",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/GAME.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0FE20E0Fa9C78278702B05c333Cc000034bb69E2",
+      "name": "ETH Max Yield Index",
+      "symbol": "ETHMAXY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ethmaxy.png"
     }
   ],
   "version": {
