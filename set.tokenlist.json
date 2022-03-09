@@ -580,7 +580,7 @@
       "name": "WLKR Crypto Innovation Index",
       "symbol": "WLKR",
       "decimals": 18,
-      "logoURI": "https://i.ibb.co/vzCBbYH/wlkr-logos.jpg"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/wlkrlogo.png"
     },
     {
       "chainId": 1,
