@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "WLKR Crypto Innovation Index",
+    "setSymbol": "WLKR",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/wlkrlogo.png",
+    "setDescription": "The WLKR Crypto Innovation Index (WLKR) is a digital asset index capturing the growth of bleeding-edge products and services.",
+    "managerName": "WLKR Financial",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/wlkrlogo.png",
+    "managerDescription": "A registered RIA firm offering crypto services and more.",
+    "website": "https://www.wlkr.finance",
+    "managerTwitter": "wlkrfinance"
+  },
+  "version": 1
+}
