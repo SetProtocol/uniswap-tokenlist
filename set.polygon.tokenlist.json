@@ -368,6 +368,14 @@
       "symbol": "DNIT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dniticon.svg"
+    },
+    {
+      "chainId": 137,
+      "address": "0xF8365589ca39cD9d65250D8450D16D3bF22262Eb",
+      "name": "Test Set A",
+      "symbol": "TESTA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/demo.png"
     }
   ]
 }
