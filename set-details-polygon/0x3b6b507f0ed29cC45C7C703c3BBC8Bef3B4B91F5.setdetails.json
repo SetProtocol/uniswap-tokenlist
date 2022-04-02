@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "Nomiks Dynamic",
+    "setSymbol": "NOD",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/nomiks.jpg",
+    "setDescription": "Our strategy seeks above-market alpha returns through a discretionary and quantitative investment approach with an AI-assisted risk management system.\n\nThe index is maintained on a fortnightly basis in two ways. The first takes place during the last week of the month, which is to determine any additions or removals of tokens based on the asset filtering and selection policy. During the second phase, additions or deletions determined from the first phase are incorporated into the index and all allocations are re-weighted by our algorithms.\n\nSelection process:\nAnalysis of various on-chain datasets after a pre-selection validating by our internal process, ranging from market pattern and sentiment to fundamental data.\n\nOur trading decisions are based on discretionary signals combined with quantitative model strategies that generate short and long term alpha.\nRisk aversion is automated by a bi-monthly redistribution of capital allocation via a combination of frontier efficiency and liquidity tracking.",
+    "website": "www.nomiks.io",
+    "managerName": "Nomiks",
+    "managerTwitter": "Nomiks7",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/nomiks.jpg",
+    "managerDescription": "Nomiks was developed by crypto experts combining skills from traditional finance, decentralized ecosystem development and financial engineering. At Nomiks Capital, our philosophy is to provide to our clients, the same quality of services as a traditional investment fund, but with the freedoms that decentralization brings. Indeed, we only manage the funds and users retain full control of their invested capital."
+  },
+  "version": 1
+}
