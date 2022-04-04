@@ -597,7 +597,7 @@
       "symbol": "TLO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Token-DAO/uniswap-tokenlist/a40498e1939d3ea3b6358f379152a7005d2484f6/assets/tokens/tlo.png"
-    },
+    }
   ],
   "version": {
     "major": 0,
