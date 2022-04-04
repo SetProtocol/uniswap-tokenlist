@@ -6,6 +6,14 @@
   "tokens": [
     {
       "chainId": 1,
+      "address": "0xeb83b95eBd89555f636624B6396c8e99a379A707",
+      "name": "TokenDAO Layer-1 Quant",
+      "symbol": "TLO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Token-DAO/uniswap-tokenlist/a40498e1939d3ea3b6358f379152a7005d2484f6/assets/tokens/tlo.png"
+    },
+    {
+      "chainId": 1,
       "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
       "name": "DeFi Pulse Index",
       "symbol": "DPI",
