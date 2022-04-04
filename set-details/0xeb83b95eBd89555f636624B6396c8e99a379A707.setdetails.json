@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "TokenDAO Layer-1 Quant",
+    "setSymbol": "TLO",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/Token-DAO/uniswap-tokenlist/a40498e1939d3ea3b6358f379152a7005d2484f6/assets/tokens/tlo.png",
+    "setDescription": "The TokenDAO Layer-1 Quant (TLO) is an optimization-weighted strategy that seeks to provide core exposure to Layer-1 blockchain cryptocurrencies while generating portfolio alpha.\n\nObjective\nThe TokenDAO Layer-1 Quant seeks to track the market performance of Layer-1 blockchain cryptocurrencies plus generate alpha. The strategy seeks to generate alpha using machine learning and portfolio optimization techniques to optimize asset weightings. Layer-1 Quant aims to be a core holding within a diversified cryptocurrency portfolio by holding tokens within the Layer-1 blockchain space. Layer-1 refers to a base network, such as Bitcoin, BNB Chain, or Ethereum, and its underlying infrastructure. Layer-1 blockchains can validate and finalize transactions without the need for another network.\n\nToken Inclusion Criteria\nThe token must be representative of a Layer-1 blockchain or sidechain. The token must have a tradable ERC-20 token representation on the Ethereum blockchain and can be in any form if there exist adequate liquidity available, reasonable transaction costs, and low tracking error. Tokens with low liquidity, high transaction costs, or high tracking error are excluded. The token must not be considered a security by corresponding authorities across different jurisdictions.\n\nRebalancing\nRebalancing is done on a discretionary basis and follows a percent-range rebalancing approach that involves setting rebalancing thresholds or trigger points, stated as a percentage of the portfolio’s value, around target values. Rebalanced weightings are computed using the TokenDAO Layer-1 Quant algorithm.\n\nAlgorithm\nThe TokenDAO Layer-1 Quant algorithm optimizes portfolio weightings by computing every available portfolio optimization method in-sample and averaging the top performing portfolios out-of-sample into one portfolio. Averaging the top performing portfolios is intended to prevent reliance on any single portfolio optimization method and increase strategy diversification. Out-of-sample performance is used to minimize model overfitting. Portfolio optimization methods used include Bayesian models, clustering models, modern portfolio theory, and online portfolio selection. The algorithm developed and maintained using the Python programming language and CoinGecko API as a data source.",
+    "website": "https://twitter.com/token_dao",
+    "managerName": "TokenDAO",
+    "managerTwitter": "token_dao",
+    "managerIcon": "https://raw.githubusercontent.com/Token-DAO/uniswap-tokenlist/main/assets/managers/token_dao.png",
+    "managerDescription": "TokenDAO is a decentralized autonomous organization for the management of smart contracts. The Lead Developer is a Chartered Financial Analyst (CFA) charterholder and has worked as a Portfolio Manager in the financial services industry."
+  },
+  "version": 1
+}
