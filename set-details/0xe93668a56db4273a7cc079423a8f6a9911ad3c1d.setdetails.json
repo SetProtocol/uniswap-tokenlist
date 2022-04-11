@@ -1,0 +1,15 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Coinsturn",
+    "setSymbol": "COVER",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/cover.png",
+    "setDescription": "Coinsturn COVER is a collateralized hybrid token set, that changes its composition to respond to the market conditions. It is the first financial insured token that covers up to 80% of its value while it is in your wallet. Diversify and protect your investment at once.",
+    "website": "https://www.coinsturn.com",
+    "managerName": "Coinsturn",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/coinsturn%402x.png",
+    "managerDescription": "Coinsturn is a hedge fund that powers up the crypto ecosystem by protecting your investment and decreasing your market exposure volatility, through our proprietary algorithms, community & AIs."
+  },
+  "version": 1
+}
