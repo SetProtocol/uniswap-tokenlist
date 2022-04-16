@@ -1,0 +1,15 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "UBQTY Capital Management Fund",
+    "setSymbol": "UBQTY",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/UBQTY_logo-letters-best-inverted.png",               // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/asset_name.png
+    "setDescription": "A fund that invests aggresively within the Ethereum ecosystem managed by UBQTY Capital.",
+    "website": "https://ubqty.capital",
+    "managerName": "UBQTY Capital",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/ubqty-logo.png",           // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/manager_name.png
+    "managerDescription": "Managed fund for the decentralized economy."
+  },
+  "version": 1
+}
