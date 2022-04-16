@@ -605,6 +605,14 @@
       "symbol": "DAOX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/DAOX.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9068F03Df48eAd0C2369744e55F9b66D57EA04Fe",
+      "name": "UBQTY Capital Management Fund",
+      "symbol": "UBQTY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/UBQTY_logo-letters-best-inverted.png"
     }
   ],
   "version": {
