@@ -599,12 +599,20 @@
       "logoURI": "https://raw.githubusercontent.com/Token-DAO/uniswap-tokenlist/a40498e1939d3ea3b6358f379152a7005d2484f6/assets/tokens/tlo.png"
     },
     {
-      "chainId": 1,
-      "address": "0xE00639A1f59B52773b7d39d9F9beF07F6248dbAe",
-      "name": "The DAOX Index",
-      "symbol": "DAOX",
+      "chainId": 137,
+      "address": "0x0765425b334D7DB1f374D03f4261aC191172BEF7",
+      "name": "Carbon Negative BED (Polygon)",
+      "symbol": "CNBED",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/DAOX.svg"
+      "logoURI": "ipfs://QmNRiY2ZKEsnyf4JfmN4Xtor9qQWMa9gJXbRQtr6utByei"
+    },
+    {
+      "chainId": 137,
+      "address": "0x7958E9fa5cf56aEBeDd820df4299E733f7E8e5Dd",
+      "name": "Clean BTC (Polygon)",
+      "symbol": "CBTC",
+      "decimals": 18,
+      "logoURI": "ipfs://QmX3tvQcDnW22kxzm4PirYhDHbQSqvTbDhqpFkCQ6XzQnK"
     }
   ],
   "version": {
