@@ -6,8 +6,8 @@ When submitting a new or existing set details change, make sure you have followe
 - [] If adding brand new token, make sure to add it to the `set.tokenlist.json` or `set.polygon.tokenlist.json` as well following the correct schema from Uniswap: https://github.com/Uniswap/token-lists/blob/master/src/tokenlist.schema.json
 
 ### Updating Existing Set Details
-- [ ] If updating existing set details, update the version number appropriately (see the JSON schema above for version numbering explanation).
-- [ ] When generating a signature, make sure the version signed is for the one reflected in the version details for your entry.
+- [] If updating existing set details, update the version number appropriately (see the JSON schema above for version numbering explanation).
+- [] When generating a signature, make sure the version signed is for the one reflected in the version details for your entry.
 
 ### Signature (Required)
 
