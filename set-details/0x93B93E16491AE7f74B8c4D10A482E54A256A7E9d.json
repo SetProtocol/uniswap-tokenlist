@@ -1,6 +1,6 @@
 {
   "setDetails": {
-    "chainId": "1 = ETHEREUM",
+    "chainId": "1",
     "setName": "The Real Estate Index",
     "setSymbol": "REI",
     "setDecimals": 18,
@@ -8,9 +8,9 @@
     "setDescription": "The Real Estate Index aims to capture the entire trend of the real estate industry coming over to the block chain. \nThe real estate industry has around $300 trillion locked into it and with the creation of cryptocurrency that wealth will undoubtedly be transferred over to the tokens held inside of this index. Making the Real Estate index nothing more than a sure bet. \nWe have a long way to go and have set the starting price at the same as the DEFI Pulse starting price. Along with Non-Fungible Tokens - NFT’s and Decentralised Exchanges - DEX’s one of the best possible uses of the blockchain technology is the use for proof of identification or ownership of something for example being such as ownership of a property. This trend that will undoubtedly grow overtime that we are already seeing beginning to take place will be captured by the Real Estate Index – Rei by investing into the (REi) you will capture the entire trend and will not miss out. By using blockchain technology for property ownership the process of buying and selling a property is also made much more efficient. You cut out the need for any middlemen and therefore speed up the process. By cutting out middlemen you also save money on the purchase of your new desired property another major plus in favour of the Real Estate index. Plus the whole process is much more transparent as all data is recorded on the pubic blockchain for everyone to see. The REi is weighted in proportion to the market cap the cryptocurrency token has on the ERC-20 blockchain with no singular token having more than 56% on the share of the index and no less than 1% share of the index. The Index will be rebalanced on a monthly basis.  ",
     "website": "https://www.randomlists.com/urls",
     "managerName": "anonymous57",
-    "managerTwitter": "@rei_index",
+    "managerTwitter": "rei_index",
     "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/IMAGE_FILE_NAME_FROM_STEP_4.extension",
-    "managerDescription": "YOUR MANAGER DESCRIPTION"
+    "managerDescription": "We provide Real Estate Index"
   },
   "version": 1
 }
