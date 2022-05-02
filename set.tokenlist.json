@@ -592,6 +592,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x93B93E16491AE7f74B8c4D10A482E54A256A7E9d",
+      "name": "The Real Estate Index",
+      "symbol": "REI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/REI.png"
+    },
+    {
+      "chainId": 1,
       "address": "0xeb83b95eBd89555f636624B6396c8e99a379A707",
       "name": "TokenDAO Layer-1 Quant",
       "symbol": "TLO",
