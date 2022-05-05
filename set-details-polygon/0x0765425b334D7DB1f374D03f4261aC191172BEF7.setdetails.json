@@ -8,9 +8,9 @@
     "website": "https://koywe.com",
     "managerName": "Koywe",
     "managerTwitter": "koywe_eco",
-    "managerIcon": "https://app.koywe.com/icon/koywenft.png",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/koywe.png",
     "managerDescription": "Koywe, web3 investments to fight climate change.",
-    "setIcon": "ipfs://QmbPSJ6bP8hNMLiDqyNpS3MDr8fjcBaLuGv9qo2rRBUPPc"
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/CNBED_logo.png"
   },
   "version": 1
 }
