@@ -1,6 +1,6 @@
 {
   "setDetails": {
-    "chainId": "1",
+    "chainId": 1,
     "setName": "The Real Estate Index",
     "setSymbol": "REI",
     "setDecimals": 18,
