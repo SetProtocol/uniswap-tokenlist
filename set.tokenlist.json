@@ -596,7 +596,7 @@
       "name": "The Real Estate Index",
       "symbol": "REI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/REI.png"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/REI-token.png"
     },
     {
       "chainId": 1,
