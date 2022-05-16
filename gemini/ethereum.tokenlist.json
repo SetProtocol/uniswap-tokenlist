@@ -239,6 +239,14 @@
       "logoURI": "https://gemini.com/images/currencies/icons/default/usdc.svg"
     },
     {
+      "name": "USDC.e",
+      "chainId": 1,
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/usdc.svg"
+    },
+    {
       "name": "Wrapped Bitcoin",
       "chainId": 1,
       "symbol": "WBTC",
