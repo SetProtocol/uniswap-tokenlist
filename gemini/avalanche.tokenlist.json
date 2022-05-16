@@ -15,6 +15,22 @@
   "timestamp": "2021-10-29T14:15:22+0000",
   "tokens": [
     {
+      "name": "Avalanche",
+      "chainId": 43114,
+      "symbol": "AVAX",
+      "decimals": 18,
+      "address": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "logoURI": "https://cryptologos.cc/logos/avalanche-avax-logo.svg"
+    },
+    {
+      "name": "Wrapped Avalanche",
+      "chainId": 43114,
+      "symbol": "WAVAX",
+      "decimals": 18,
+      "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+      "logoURI": "https://cryptologos.cc/logos/avalanche-avax-logo.svg"
+    },
+    {
       "name": "0xProtocol",
       "chainId": 43114,
       "symbol": "ZRX",
