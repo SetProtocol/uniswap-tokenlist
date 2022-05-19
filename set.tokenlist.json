@@ -6,46 +6,6 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
-      "name": "DeFi Pulse Index",
-      "symbol": "DPI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/dpi.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0xfDC4a3FC36df16a78edCAf1B837d3ACAaeDB2CB4",
-      "name": "SciFi Index",
-      "symbol": "SCIFI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/scifi_index.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x7b18913D945242A9c313573E6c99064cd940c6aF",
-      "name": "Sushi DAO House",
-      "symbol": "sushiHOUSE",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/sushi_house.png"
-    },
-    {
-      "chainId": 1,
-      "address": "0x7277a44D1325D81Ac58893002a1B40a41bea43fe",
-      "name": "FAANG Index",
-      "symbol": "FAANG",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/FAANG_1.png"
-    },
-    {
-      "chainId": 1,
-      "address": "0x430a35bAa51dDEACcf89092a5EDBDA47aAAE78e4",
-      "name": "The Quant",
-      "symbol": "EBTCQ",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/quant_logo.png"
-    },
-    {
-      "chainId": 1,
       "address": "0xF059aFA5239eD6463a00FC06a447c14Fe26406e1",
       "name": "ETH WBTC Yield Farm",
       "symbol": "WBTCAPY",
@@ -70,14 +30,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xAdA0A1202462085999652Dc5310a7A9e2BF3eD42",
-      "name": "CoinShares Gold and Cryptoassets Index",
-      "symbol": "CGI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/coinshares_gold.png"
-    },
-    {
-      "chainId": 1,
       "address": "0xD83dfE003E7c42077186D690DD3D24a0c965ca4e",
       "name": "Yam DAO House",
       "symbol": "yamHOUSE",
@@ -86,27 +38,11 @@
     },
     {
       "chainId": 1,
-      "address": "0x2aF1dF3AB0ab157e1E2Ad8F88A7D04fbea0c7dc6",
-      "name": "Bankless BED Index",
-      "symbol": "BED",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/bankless_bed.png"
-    },
-    {
-      "chainId": 1,
       "address": "0xe5feeaC09D36B18b3FA757E5Cf3F8dA6B8e27F4C",
       "name": "NFT INDEX",
       "symbol": "NFTI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/nfti.svg"
-    },
-    {
-      "chainId": 1,
-      "address": "0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD",
-      "name": "ETH 2x Flexible Leverage Index",
-      "symbol": "ETH2X-FLI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/eth2xfli.svg"
     },
     {
       "chainId": 1,
@@ -147,14 +83,6 @@
       "symbol": "MUG",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/mug.png"
-    },
-    {
-      "chainId": 1,
-      "address": "0xB1F66BC5867A329cFd0465A506c4ad96e6Be1aDC",
-      "name": "Metaverse Index",
-      "symbol": "HUUB",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/huub.png"
     },
     {
       "chainId": 1,
@@ -409,13 +337,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1",
-      "name": "Web3 Data Economy Index",
-      "symbol": "DATA",
-      "decimals": 18
-    },
-    {
-      "chainId": 1,
       "address": "0x53eDde8799cE25af881007441740fcC4cD4683F8",
       "name": "CANVAS Digital Gold Index",
       "symbol": "CNVDG",
@@ -581,14 +502,6 @@
       "symbol": "WLKR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/wlkrlogo.png"
-    },
-    {
-      "chainId": 1,
-      "address": "0x0FE20E0Fa9C78278702B05c333Cc000034bb69E2",
-      "name": "ETH Max Yield Index",
-      "symbol": "ETHMAXY",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ethmaxy.png"
     },
     {
       "chainId": 1,
