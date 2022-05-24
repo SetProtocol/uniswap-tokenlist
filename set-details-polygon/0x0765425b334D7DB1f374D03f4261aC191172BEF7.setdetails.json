@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "Carbon Negative BED (Polygon)",
+    "setSymbol": "CNBED",
+    "setDecimals": 18,
+    "setDescription": "The best crypto assets, carbon neutral! Get exposure to Bitcoin, Ether, and DeFi Pulse, plus 1% Nature Carbon Tonne, by Toucan Protocol.",
+    "website": "https://koywe.com",
+    "managerName": "Koywe",
+    "managerTwitter": "koywe_eco",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/koywe.png",
+    "managerDescription": "Koywe, web3 investments to fight climate change.",
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/CNBED_logo.png"
+  },
+  "version": 1
+}

@@ -607,12 +607,12 @@
       "logoURI": "https://raw.githubusercontent.com/Token-DAO/uniswap-tokenlist/a40498e1939d3ea3b6358f379152a7005d2484f6/assets/tokens/tlo.png"
     },
     {
-      "chainId": 1,
-      "address": "0xE00639A1f59B52773b7d39d9F9beF07F6248dbAe",
-      "name": "The DAOX Index",
-      "symbol": "DAOX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/DAOX.svg"
+       "chainId": 1,
+       "address": "0xE00639A1f59B52773b7d39d9F9beF07F6248dbAe",
+       "name": "The DAOX Index",
+       "symbol": "DAOX",
+       "decimals": 18,
+       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/DAOX.svg"
     },
     {
       "chainId": 1,
