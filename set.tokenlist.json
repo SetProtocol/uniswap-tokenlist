@@ -410,7 +410,7 @@
     {
       "chainId": 1,
       "address": "0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1",
-      "name": "Data Economy Index",
+      "name": "Web3 Data Economy Index",
       "symbol": "DATA",
       "decimals": 18
     },
@@ -592,6 +592,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x93B93E16491AE7f74B8c4D10A482E54A256A7E9d",
+      "name": "The Real Estate Index",
+      "symbol": "REI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/REI-token.png"
+    },
+    {
+      "chainId": 1,
       "address": "0xeb83b95eBd89555f636624B6396c8e99a379A707",
       "name": "TokenDAO Layer-1 Quant",
       "symbol": "TLO",
@@ -606,6 +614,14 @@
        "decimals": 18,
        "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/DAOX.svg"
     },
+    {
+      "chainId": 1,
+      "address": "0x9068F03Df48eAd0C2369744e55F9b66D57EA04Fe",
+      "name": "UBQTY Capital Management Fund",
+      "symbol": "UBQTY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/UBQTY_logo-letters-best-inverted.png"
+    }
   ],
   "version": {
     "major": 0,

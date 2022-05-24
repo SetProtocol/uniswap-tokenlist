@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "The Real Estate Index",
+    "setSymbol": "REI",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/REI-token.png",
+    "setDescription": "Objective\nThe Real Estate Index aims to capture the entire trend of the real estate industry coming over on to the blockchain. The real estate industry has around $300 trillion locked into it and with the creation of cryptocurrency that wealth will undoubtedly be transferred over to the tokens that specialise in this industry and that are held inside of this index. Making the ‘Real Estate Index – REi’, token nothing more than a sure bet. We have a long way to go and have set the starting price at the same price as the DEFI Pulse starting price. As we believe this token will follow this well know token.\n\nAlong with Non-Fungible Tokens - NFT’s and Decentralised Exchanges - DEX’s one of the best possible uses of the blockchain technology is the use for proof of identification or ownership of an item or asset for example, such as ownership of a property. This trend will undoubtedly grow overtime and we are already seeing it beginning to take place. This trend will be captured by the Real Estate Index – REi token and by investing into the (REi) you will capture the entire trend and you will not miss out.\n\nBy using blockchain technology for property ownership the process of buying and selling a property is made much more efficient. You cut out the need for any middlemen and therefore speed up the process. By cutting out middlemen you also save money on the purchase of your new desired property another major plus in favour of the Real Estate index - REi. To add the whole process is also much more transparent as all the data is recorded on the pubic blockchain for everyone to see. With over $300 trillion locked into real estate it will of course at some point need to transfers over to the blockchain and the REi captures this trend completely.\n\nWeighting\nThe Real Estate Index - REi is weighted in proportion to the market cap that the individual cryptocurrency token has on the ERC-20 blockchain with no singular token having more than 56% of the share of the index and no less than 1% share of the index.\n\nRebalance\nThe Index will be rebalanced on a monthly to six weekly basis.\n\nManager Description\nThe manager of the Real Estate Index - REi comes from an Investment Banking background and has been in Bitcoin since 2015.",
+    "website": "https://www.randomlists.com/urls",
+    "managerName": "The Real Estate Index",
+    "managerTwitter": "rei_index",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/REI-token.png",
+    "managerDescription": "We provide Real Estate Index"
+  },
+  "version": 1
+}
