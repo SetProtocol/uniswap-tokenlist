@@ -1,0 +1,170 @@
+{
+  "name": "Gemini Token List w/ WETH, WBTC, USDC, and Tether",
+  "version": {
+    "major": 0,
+    "minor": 2,
+    "patch": 0
+  },
+  "keywords": [
+    "gemini",
+    "tokens",
+    "trusted",
+    "avalanche"
+  ],
+  "logoURI": "https://gemini.com/static/images/loader.png",
+  "timestamp": "2021-10-29T14:15:22+0000",
+  "tokens": [
+    {
+      "name": "Wrapped Avalanche",
+      "chainId": 43114,
+      "symbol": "WAVAX",
+      "decimals": 18,
+      "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+      "logoURI": "https://cryptologos.cc/logos/avalanche-avax-logo.svg"
+    },
+    {
+      "name": "0xProtocol",
+      "chainId": 43114,
+      "symbol": "ZRX",
+      "decimals": 18,
+      "address": "0x596fa47043f99a4e0f122243b841e55375cde0d2",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/zrx.svg"
+    },
+    {
+      "name": "1Inch",
+      "chainId": 43114,
+      "symbol": "1INCH",
+      "decimals": 18,
+      "address": "0xd501281565bf7789224523144fe5d98e8b28f267",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/1inch.svg"
+    },
+    {
+      "name": "AaveToken",
+      "chainId": 43114,
+      "symbol": "AAVE",
+      "decimals": 18,
+      "address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/aave.svg"
+    },
+    {
+      "name": "Chainlink",
+      "chainId": 43114,
+      "symbol": "LINK",
+      "decimals": 18,
+      "address": "0x5947bb275c521040051d82396192181b413227a3",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/link.svg"
+    },
+    {
+      "name": "Compound",
+      "chainId": 43114,
+      "symbol": "COMP",
+      "decimals": 18,
+      "address": "0xc3048e19e76cb9a3aa9d77d8c03c29fc906e2437",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/comp.svg"
+    },
+    {
+      "name": "DaiStablecoin",
+      "chainId": 43114,
+      "symbol": "DAI",
+      "decimals": 18,
+      "address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/dai.svg"
+    },
+    {
+      "name": "KyberNetwork",
+      "chainId": 43114,
+      "symbol": "KNC",
+      "decimals": 18,
+      "address": "0x39fc9e94caeacb435842fadedecb783589f50f5f",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/knc.svg"
+    },
+    {
+      "name": "Maker",
+      "chainId": 43114,
+      "symbol": "MKR",
+      "decimals": 18,
+      "address": "0x88128fd4b259552a9a1d457f435a6527aab72d42",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/mkr.svg"
+    },
+    {
+      "name": "Synthetix",
+      "chainId": 43114,
+      "symbol": "SNX",
+      "decimals": 18,
+      "address": "0xbec243c995409e6520d7c41e404da5deba4b209b",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/snx.svg"
+    },
+    {
+      "name": "Tether",
+      "chainId": 43114,
+      "symbol": "USDT",
+      "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+      "decimals": 6,
+      "logoURI": "https://gemini.com/images/currencies/icons/default/usdt.svg"
+    },
+    {
+      "name": "The Graph",
+      "chainId": 43114,
+      "symbol": "GRT",
+      "decimals": 18,
+      "address": "0x8a0cac13c7da965a312f08ea4229c37869e85cb9",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/grt.svg"
+    },
+    {
+      "name": "UMAVotingTokenv1",
+      "chainId": 43114,
+      "symbol": "UMA",
+      "decimals": 18,
+      "address": "0x3bd2b1c7ed8d396dbb98ded3aebb41350a5b2339",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/uma.svg"
+    },
+    {
+      "name": "Uniswap",
+      "chainId": 43114,
+      "symbol": "UNI",
+      "decimals": 18,
+      "address": "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/uni.svg"
+    },
+    {
+      "name": "USDC.e",
+      "chainId": 43114,
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/usdc.svg"
+    },
+    {
+      "name": "USDC",
+      "chainId": 43114,
+      "symbol": "USDC",
+      "decimals": 6,
+      "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/usdc.svg"
+    },
+    {
+      "name": "Wrapped Bitcoin",
+      "chainId": 43114,
+      "symbol": "WBTC",
+      "decimals": 18,
+      "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/btc.svg"
+    },
+    {
+      "name": "Wrapped Eth",
+      "chainId": 43114,
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/eth.svg"
+    },
+    {
+      "name": "yearn.finance",
+      "chainId": 43114,
+      "symbol": "YFI",
+      "decimals": 18,
+      "address": "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc",
+      "logoURI": "https://gemini.com/images/currencies/icons/default/yfi.svg"
+    }
+  ]
+}
