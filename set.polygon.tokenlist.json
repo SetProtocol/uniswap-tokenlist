@@ -384,6 +384,14 @@
       "symbol": "CBTC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/CBTC_logo.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x444eadec4580532074d4c8bbe2e834900eedc066",
+      "name": "BetterThanHold BTC",
+      "symbol": "BTTR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/betterthanhold.png"
     }
   ]
 }

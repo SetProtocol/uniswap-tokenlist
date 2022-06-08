@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "BetterThanHold BTC",
+    "setSymbol": "BTTR",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/betterthanhold.png",
+    "setDescription": "BetterThanHold is a long-only strategy that seeks a better management of your Bitcoin exposure than a plain “Buy&Hold” investment.\n\nIt maximizes the long-term risk/reward ratio of a Bitcoin investment by converting to a USD stablecoin (USDT, USDC, DAI) during big price drops and letting you be exposed to Bitcoin during the big uptrends. A strategy we designed to manage our own Bitcoin and now available for you.\n\n\n- The Process\n\nBetterThanHold has not been designed as a “Bitcoin tailored” strategy, but as a strategy that fits all major trending markets. It’s been developed focusing on market fundamentals and mass psychology. Past Bitcoin data has been used only as the last check to validate its performance.\n\nThis design process ensures the strategy works in many market conditions and not only the ones we can backtest using past data. This makes it more likely that the equity curve remains steadily growing.\n\nThe strategy was first designed in 2017, validated in the upcoming years and publicly released in 2020 with outstanding results, publicly auditable at betterthanhold.com.\n\n\n- The System\n\nBetterThanHold is a proprietary strategy that uses a combination of Price Action algorithms to detect market momentum, trend strength and price bias. Along with a smart money management algorithm adjusted to market volatility.\n\nUsing a combination of 4H candles and higher timeframes trend detection, it allows the strategy to act peacefully, averaging 1 trade a week in the long run. Filtering out a huge amount of price noise from lower timeframes, yet positioning you fast enough in the direction of the mathematically strong side of the market.\n\n\n- The Goal\n\nBetterThanHold is designed as a tool to maximize the returns of a Bitcoin investment, while minimizing the FUD, money-management difficulty, and avoid 24/7 price monitoring. This is a strategy designed to allow you a peaceful ride in this volatile market.",
+    "website": "www.betterthanhold.com",
+    "managerName": "BetterThanHold",
+    "managerTwitter": "betterthanhold",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/betterthanhold.png",
+    "managerDescription": "We are developers looking for a better management of our own crypto exposure."
+  },
+  "version": 1
+}
