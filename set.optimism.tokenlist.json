@@ -6,6 +6,14 @@
   "tokens": [
     {
       "chainId": 10,
+      "address": "0x927Eb0dBC5c3FD172Fdfa72D563f71612eCB6122",
+      "name": "Basis Yield ETH Index",
+      "symbol": "BYE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/BYE.png"
+    },
+    {
+      "chainId": 10,
       "address": "0xbA6a2Fa321BB06D668c5192Be77428106c5C01E5",
       "name": "SOLUNAVAX Index",
       "symbol": "SOLUNAVAX",

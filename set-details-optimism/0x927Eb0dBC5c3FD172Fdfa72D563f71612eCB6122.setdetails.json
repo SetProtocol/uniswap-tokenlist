@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 10,
+    "setName": "Basis Yield ETH Index",
+    "setSymbol": "BYE",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/BYE.png",
+    "setDescription": "The Basis Yield ETH Index from Galleon automates a perpetual basis trading strategy that returns a price-neutral, levered high yield index to those that hold the token. Built using Set’s integration with Perpetual Protocol on Optimism, BYE contains a fully hedged 2x ETH position, with equivalent spot exposure and short exposure via perps. Holders of BYE will earn a USDC-denominated yield when the funding rate is positive while removing exposure to the price volatility of the underlying asset.\n'+'\n'+'Key Features:\n'+'Automated Strategy: Management of underlying spot and perp positions are fully managed, token holders require no interaction.\n'+'Compounding Yield: The yield BYE generates accrues to the token value over time and is compounded weekly.\n'+'Composability: BYE can be integrated, issued, redeemed, and exchanged across DeFi due to being an ERC20 compliant token.\n'+'Ease of Access: Abstracts a sophisticated trading strategy into a single token, simply swap in and out of the strategy.\n'+'\n'+'Fees:\n'+'There is a transparent 20% performance fee associated with this product - Galleon as an organisation only accrues profit whilst holders are generating positive yield.",
+    "website": "https://galleon.community",
+    "managerName": "Galleon",
+    "managerTwitter": "galleondao",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/galleon.png",
+    "managerDescription": "Galleon is a guild of investment product methodologists that research, design, and create best-in-class, novel structured products."
+  },
+  "version": 1
+}
