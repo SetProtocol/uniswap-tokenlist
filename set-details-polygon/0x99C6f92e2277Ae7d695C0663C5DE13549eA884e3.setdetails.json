@@ -9,7 +9,7 @@
     "website": "",
     "managerName": "Blockschain",
     "managerTwitter": "BlockschainFi",
-    "managerIcon": "// https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/BSC.png",        
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/BSC.png",        
     "managerDescription": "At Blockschain, we create diversified token indexes that easily allow you to invest in decentralized finance convieniently with low fees."
   },
   "version": 1
