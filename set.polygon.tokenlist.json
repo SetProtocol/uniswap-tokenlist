@@ -370,6 +370,7 @@
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/BSCDF.png"
     },
     {
+      "chainId": 137,
       "address": "0xc7C59FadDE55d9Ff6c56Cc77BfEA30EB246fAEDF",
       "name": "Digital Nomad Index Token",
       "symbol": "DNIT",
