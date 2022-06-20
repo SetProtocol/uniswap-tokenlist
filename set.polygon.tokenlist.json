@@ -347,6 +347,14 @@
     },
     {
       "chainId": 137,
+      "address": "0x99C6f92e2277Ae7d695C0663C5DE13549eA884e3",
+      "name": "Blockschain DeFi Index",
+      "symbol": "BSCDF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/BSCDF.png"
+    },
+    {
+      "chainId": 137,
       "address": "0xc7C59FadDE55d9Ff6c56Cc77BfEA30EB246fAEDF",
       "name": "Digital Nomad Index Token",
       "symbol": "DNIT",
