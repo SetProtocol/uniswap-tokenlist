@@ -331,14 +331,6 @@
     },
     {
       "chainId": 137,
-      "address": "0x7F73CE42963fB967dF88d8815f364DCc47F1Ea89",
-      "name": "DeepBalancerV1",
-      "symbol": "DEEPB",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/deepbalancer_squared.png"
-    },
-    {
-      "chainId": 137,
       "address": "0x25Ad32265c9354c29e145c902aE876f6B69806F2",
       "name": "SW DAO Alpha Portfolio",
       "symbol": "SWAP",
