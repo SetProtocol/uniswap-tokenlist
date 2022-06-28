@@ -534,6 +534,14 @@
       "symbol": "UBQTY",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/UBQTY_logo-letters-best-inverted.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x45d3D9E4F23B5374d0989dde0a673Ea57a4CC11D",
+      "name": "Supercash Active Fund",
+      "symbol": "SCASH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/supercash.png"
     }
   ],
   "version": {
