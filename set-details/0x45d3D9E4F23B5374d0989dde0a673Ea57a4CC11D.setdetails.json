@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Supercash Active Fund",
+    "setSymbol": "SCASH",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/supercash.png",
+    "setDescription": "The Supercash Active Fund (SCASH) is a medium-term focused DeFi fund that exposes investors to the market on uptrends and protects on downtrends. It uses a trading/signaling strategy to buy or sell assets account to an optimized trend following algorithmm, which tries to keep the fund allocated on a set of cryptoassets (e.g. ETH, BNB, BTC, ...) during all the uptrend, as well as realocating the fund to dollar (e.g USDC) to protect the fund during downtrends.",
+    "website": "https://www.super.cash/funds/scash",
+    "managerName": "Supercash",
+    "managerTwitter": "supercashbrasil",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/supercash.png",
+    "managerDescription": ""
+  },
+  "version": 1
+}
