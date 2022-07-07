@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "TokenDAO Core Portfolio",
+    "setSymbol": "TCOR",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/Token-DAO/uniswap-tokenlist/main/assets/tokens/TCOR_ticker_01_400x400.jpg",
+    "setDescription": "The TokenDAO Core Portfolio (TCOR) is a strategy providing long-term core exposure to the performance of the Layer-1 (base network) cryptocurrency market.\n\nObjective\nThe TokenDAO Core Portfolio is a strategy designed to track the overall performance of the Layer-1 (base network) cryptocurrency market. The portfolio is weighted based on a combination of capitalization weighting, equal weighting, and portfolio optimization algorithms. The TokenDAO Core Portfolio aims to be a core holding within any diversified cryptocurrency portfolio.\n\nToken Inclusion Criteria\nThe token must be representative of a Layer-1 blockchain or sidechain. The token must have a tradable ERC-20 token representation on the Ethereum blockchain and can be in any form if there exist adequate liquidity available, reasonable transaction costs, and low tracking error. Tokens with low liquidity, high transaction costs, or high tracking error are excluded. The token must not be considered a security by corresponding authorities across different jurisdictions.\n\nRebalancing\nRebalancing follows a percent-range rebalancing approach that involves setting rebalancing thresholds or trigger points, stated as a percentage of the portfolio’s value, around target values. This approach is intended to keep turnover and network fees low. Rebalanced weightings are computed using a combination of capitalization weighting, equal weighting, and portfolio optimization algorithms.",
+    "website": "https://www.tokendao.us",
+    "managerName": "TokenDAO",
+    "managerTwitter": "token_dao",
+    "managerIcon": "https://raw.githubusercontent.com/Token-DAO/uniswap-tokenlist/main/assets/managers/TOKENDAO_icon01_400x400.jpg",
+    "managerDescription": "TokenDAO is a decentralized autonomous organization for the management of smart contracts. TokenDAO’s mission is the prudent management of smart contracts with a focus on investment management."
+  },
+  "version": 1
+}
