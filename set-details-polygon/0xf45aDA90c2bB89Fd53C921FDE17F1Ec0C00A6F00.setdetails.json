@@ -1,6 +1,6 @@
 {
   "setDetails": {
-    "chainId": 1,
+    "chainId": 137,
     "setName": "TokenDAO Core Polygon Portfolio",
     "setSymbol": "TCORP",
     "setDecimals": 18,
