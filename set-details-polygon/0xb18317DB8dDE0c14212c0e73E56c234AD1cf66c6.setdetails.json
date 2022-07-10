@@ -1,0 +1,14 @@
+{
+    "setDetails": {
+      "chainId": 137,
+      "setName": "AyDx DeFi Index",
+      "setSymbol": "AYDX",
+      "setDecimals": 18,
+      "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/SET-Logo.jpg",
+      "setDescription": "AyDx SET strategy is defined it´s manager´s idiosyncratic decision",
+      "managerName": "AYDX Advisors ",
+      "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/Manager-logo.jpg",
+      "managerDescription": "idiosyncratic asset manager deploying fundamental and data analytics based trading strategies"
+    },
+    "version": 1
+  }
