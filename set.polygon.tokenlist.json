@@ -392,6 +392,14 @@
       "symbol": "BTTR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/betterthanhold.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xf45aDA90c2bB89Fd53C921FDE17F1Ec0C00A6F00",
+      "name": "TokenDAO Core Polygon Portfolio",
+      "symbol": "TCORP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Token-DAO/uniswap-tokenlist/main/assets/tokens/TCORP_ticker_01_100x100.jpg"
     }
   ]
 }
