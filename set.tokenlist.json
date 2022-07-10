@@ -550,6 +550,14 @@
       "symbol": "TCOR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Token-DAO/uniswap-tokenlist/main/assets/tokens/TCOR_ticker_01_100x100.jpg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x345059db2f948472A1FAFFE695a4C76a36088b0E",
+      "name": "TokenDAO Stablecoin Yield Index",
+      "symbol": "TYLD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Token-DAO/uniswap-tokenlist/main/assets/tokens/TYLD_ticker_01_100x100.jpg"
     }
   ],
   "version": {
