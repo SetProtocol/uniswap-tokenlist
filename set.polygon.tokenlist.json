@@ -392,6 +392,14 @@
       "symbol": "BTTR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/betterthanhold.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x2bAea9f494a510c5dEad98DD16070356FbC8198a",
+      "name": "Supercash Active Fund",
+      "symbol": "SCASH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/supercash.png"
     }
   ]
 }
