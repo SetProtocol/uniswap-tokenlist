@@ -1,0 +1,14 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "GREEN INFRASTRUCTURE INDEX",
+    "setSymbol": "GII",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/green-indexes-GII.png",
+    "setDescription": "",
+    "managerName": "GREEN Group",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/green-group.png",
+    "managerDescription": ""
+  },
+  "version": 1
+}
