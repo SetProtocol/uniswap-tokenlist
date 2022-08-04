@@ -14,6 +14,14 @@
     },
     {
       "chainId": 1,
+      "address": "0xf4DD747f81eb3A67997a117d41abb155F9cc8227",
+      "name": "BTC Smart Hold",
+      "symbol": "EMBTC",
+      "decimals": 18, 
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/EMBTC_color.svg"
+    },
+    {
+      "chainId": 1,
       "address": "0x23687D9d40F9Ecc86E7666DDdB820e700F954526",
       "name": "ETH USD Yield Farm",
       "symbol": "USDAPY",
@@ -558,6 +566,14 @@
       "symbol": "TYLD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Token-DAO/uniswap-tokenlist/main/assets/tokens/TYLD_ticker_01_100x100.jpg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x69d1ea48b91cb934fec02c562d9e9b55211eda63",
+      "name": "GREEN INFRASTRUCTURE INDEX",
+      "symbol": "GII",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/green-indexes-GII.png"
     }
   ],
   "version": {
