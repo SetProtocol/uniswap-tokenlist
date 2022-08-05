@@ -6,6 +6,14 @@
   "tokens": [
     {
       "chainId": 1,
+      "address": "0xc3F03342514EB8362C9b6314A6974cFE698d8c98",
+      "name": "Emergence BTC Strategy",
+      "symbol": "BTCEM",
+      "decimals": 18, 
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/BTCEM_white.svg" 
+    },
+    {
+      "chainId": 1,
       "address": "0xF059aFA5239eD6463a00FC06a447c14Fe26406e1",
       "name": "ETH WBTC Yield Farm",
       "symbol": "WBTCAPY",
