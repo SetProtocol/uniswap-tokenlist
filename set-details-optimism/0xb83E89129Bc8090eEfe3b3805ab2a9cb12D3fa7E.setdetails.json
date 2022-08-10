@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 10,
+    "setName": "Spartan Index",
+    "setSymbol": "SPI",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/SPI.png",
+    "setDescription": "The Spartan Index is part of Galleon's thematic Portfolios suite allowing holders of $SPI to capture the upside in the popular narrative surrounding the rise of synthetix ecosystem based projects on the growing Optimism Layer 2 network.",
+    "website": "https://galleon.community",
+    "managerName": "Galleon",
+    "managerTwitter": "galleondao",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/galleon.png",
+    "managerDescription": "Galleon is a guild of investment product methodologists that research, design, and create best-in-class, novel structured products."
+  },
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "veToken Index",
+    "setSymbol": "VOTE",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/veTOKEN.png",
+    "setDescription": "The veToken Index is part of Galleon's thematic Portfolios suite allowing holders of $VOTE to capture the upside in the popular narrative surrounding the rise of voting escrow tokens that direct emissions within the decentralized finance (DeFi) ecosystem.",
+    "website": "https://galleon.community",
+    "managerName": "Galleon",
+    "managerTwitter": "galleondao",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/galleon.png",
+    "managerDescription": "Galleon is a guild of investment product methodologists that research, design, and create best-in-class, novel structured products."
+  },
+  "version": 1
+}

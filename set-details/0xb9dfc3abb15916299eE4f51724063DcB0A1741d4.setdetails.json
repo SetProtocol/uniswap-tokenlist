@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Crypto Fees Index",
+    "setSymbol": "FEES",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/FEES.png",
+    "setDescription": "The Crypto Fees Index is part of Galleon's thematic Portfolios suite allowing holders of $FEES to capture the upside in the popular narrative surrounding investing in protocols and networks that are generating significant fees on a relative basis across the ecosystem",
+    "website": "https://galleon.community",
+    "managerName": "Galleon",
+    "managerTwitter": "galleondao",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/galleon.png",
+    "managerDescription": "Galleon is a guild of investment product methodologists that research, design, and create best-in-class, novel structured products."
+  },
+  "version": 1
+}

@@ -14,11 +14,11 @@
     },
     {
       "chainId": 10,
-      "address": "0xbA6a2Fa321BB06D668c5192Be77428106c5C01E5",
-      "name": "SOLUNAVAX Index",
-      "symbol": "SOLUNAVAX",
+      "address": "0xb83E89129Bc8090eEfe3b3805ab2a9cb12D3fa7E",
+      "name": "Spartan Index",
+      "symbol": "SPI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/solunavax.png"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/SPI.png"
     },
     {
       "chainId": 10,
