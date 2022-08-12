@@ -6,6 +6,14 @@
   "tokens": [
     {
       "chainId": 1,
+      "address": "0xc3F03342514EB8362C9b6314A6974cFE698d8c98",
+      "name": "Emergence BTC Strategy",
+      "symbol": "BTCEM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/BTCEM_white.svg"
+    },
+    {
+      "chainId": 1,
       "address": "0xF059aFA5239eD6463a00FC06a447c14Fe26406e1",
       "name": "ETH WBTC Yield Farm",
       "symbol": "WBTCAPY",
@@ -17,7 +25,7 @@
       "address": "0xf4DD747f81eb3A67997a117d41abb155F9cc8227",
       "name": "BTC Smart Hold",
       "symbol": "EMBTC",
-      "decimals": 18, 
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/EMBTC_color.svg"
     },
     {
@@ -59,6 +67,30 @@
       "symbol": "BTC2X-FLI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/btc2x-fli.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xCf99D5465D39695162CA65bC59190fD92fa8e218",
+      "name": "Merge Index",
+      "symbol": "MERGE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/MERGE.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xb9dfc3abb15916299eE4f51724063DcB0A1741d4",
+      "name": "Crypto Fees Index",
+      "symbol": "FEES",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/FEES.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x4F3e7F98aA70A3B879101B23b46dB1C422f85F52",
+      "name": "veToken Index",
+      "symbol": "VOTE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/VOTE.png"
     },
     {
       "chainId": 1,
@@ -528,12 +560,12 @@
       "logoURI": "https://raw.githubusercontent.com/Token-DAO/uniswap-tokenlist/a40498e1939d3ea3b6358f379152a7005d2484f6/assets/tokens/tlo.png"
     },
     {
-       "chainId": 1,
-       "address": "0xE00639A1f59B52773b7d39d9F9beF07F6248dbAe",
-       "name": "The DAOX Index",
-       "symbol": "DAOX",
-       "decimals": 18,
-       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/DAOX.svg"
+      "chainId": 1,
+      "address": "0xE00639A1f59B52773b7d39d9F9beF07F6248dbAe",
+      "name": "The DAOX Index",
+      "symbol": "DAOX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/DAOX.svg"
     },
     {
       "chainId": 1,

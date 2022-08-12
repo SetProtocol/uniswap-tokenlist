@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Merge Index",
+    "setSymbol": "MERGE",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/MERGE.png",
+    "setDescription": "The Merge Index is part of Galleon's thematic Portfolios suite allowing holders of $MERGE to capture the upside in the highly anticipated event surrounding the upcoming merge on Ethereum, moving the entire network to Proof of Stake (PoS).",
+    "website": "https://galleon.community",
+    "managerName": "Galleon",
+    "managerTwitter": "galleondao",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/galleon.png",
+    "managerDescription": "Galleon is a guild of investment product methodologists that research, design, and create best-in-class, novel structured products."
+  },
+  "version": 1
+}
