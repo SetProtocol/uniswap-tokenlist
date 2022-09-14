@@ -5,7 +5,7 @@
     "setSymbol": "SAGA2",
     "setDecimals": 18,
     "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/SAGA2_100x100.png",
-    "setDescription": "SAGA2 is our conservative crypto token, representing SAGA DeFi's automated Kelly criterion-based strategy. With an hourly market re-evaluation, token structure is made up of 80% stablecoins and 20% high liquid cryptoassets.",
+    "setDescription": "SAGA2 is our current flagship cryptoasset representing SAGA DeFi's automated Kelly criterion-based strategy, which in our case is based on expectations for WBTC (Bitcoin) / WETH (Ethereum) returns and covariance over the medium term. We perform the algorithmic strategy, evaluation, and trading processes every hour, based on market conditions, so these processes may cause underlying cryptoassets to be traded in accordance with the strategy that aims for the highest theoretical likelihood of profit. To reduce volatility, we maintain a specific target amount of DAI stablecoins as a component of the token by applying regular rebalancing. Performance charts and more information can be found on our website.",
     "website": "https://sagadefi.com/",
     "managerName": "SAGA DeFi",
     "managerTwitter": "",
