@@ -1,7 +1,11 @@
 {
   "name": "Set",
   "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/set-logo.svg",
-  "keywords": ["set", "tokensets", "defi"],
+  "keywords": [
+    "set",
+    "tokensets",
+    "defi"
+  ],
   "timestamp": "2020-10-19T12:32:17.000+00:00",
   "tokens": [
     {
@@ -390,7 +394,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/FV-LOGO.png"
     },
-
     {
       "chainId": 1,
       "address": "0xBbA8120b355bC70E771F28e151a141A126843CdF",
@@ -606,9 +609,8 @@
       "symbol": "GII",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/green-indexes-GII.png"
-    }
-  ],
-  {
+    },
+    {
       "chainId": 1,
       "address": "0x69d1ea48b91cb934fec02c562d9e9b55211eda63",
       "name": "BASIC ISLAND INDEX",
@@ -616,7 +618,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/blob/main/assets/tokens/logo%20on%20dark.jpg"
     },
-{
+    {
       "chainId": 1,
       "address": "0x69d1ea48b91cb934fec02c562d9e9b55211eda63",
       "name": "BASIC ISLAND METAVERSE",
@@ -624,6 +626,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/blob/main/assets/tokens/logo%20on%20dark.jpg"
     }
+  ],
   "version": {
     "major": 0,
     "minor": 5,
