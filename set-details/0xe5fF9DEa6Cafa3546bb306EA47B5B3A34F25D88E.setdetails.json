@@ -1,0 +1,16 @@
+{
+ "setDetails": {
+    "chainId": 1,
+    "setName": "EBEL 2X INDEX",
+    "setSymbol": "EBINX",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/blob/main/assets/tokens/Ebel2x-Index.png",              
+    "setDescription": "\tv Fund Description\n○ This is an actively managed token that aims to maximize participants’ returns by partially investing in WBTC and the ETH 2x Flexible Leverage Index developed on Ethereum.\n○ Our goal is to offer our investors the opportunity to invest in the two largest cryptocurrencies and increase their returns by adding a leveraged exposure to them. Since our intention is to maximize returns, we will take immediate action by timing the highs and lows of the market over the coming years. We will increase or decrease our leveraged positions depending on the liquidity on the DEX. Our goal is macro market timing so that participants don't have to suffer the downside in a bear market. Regular updates on strategy or changes in portfolio composition are communicated on our Twitter account. Investors will also receive this information via our monthly newsletter.",
+    "website": "https://ebel2x.com/",
+    "managerName": "Manu House",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/blob/main/assets/managers/Ebel2x-Index.png",          
+    "managerTwitter": "https://twitter.com/ebel2x",
+    "managerDescription": " Manu House is an entrepreneur and YouTuber. He has developed his strategies over the past few years by consistently analyzing the crypto market. His strategy for timing the market cycle tops and bottoms depend on various indicators. Together with Kevin Söll, also a crypto entrepreneur, we created this fund in order to deploy our strategies and investment ideas in a structured manner."
+  },
+  "version": 1
+}
