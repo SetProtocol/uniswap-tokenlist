@@ -633,7 +633,7 @@
       "symbol": "EBINX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/blob/main/assets/tokens/Ebel2x-Index.png"
-    },
+    }
   ],
   "version": {
     "major": 0,
