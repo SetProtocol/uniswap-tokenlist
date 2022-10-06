@@ -625,7 +625,15 @@
       "symbol": "BMETA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/blob/main/assets/tokens/logo%20on%20dark.jpg"
-    }
+    },
+    {
+      "chainId": 1,
+      "address": "0xe5fF9DEa6Cafa3546bb306EA47B5B3A34F25D88E",
+      "name": "EBEL 2X INDEX",
+      "symbol": "EBINX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/blob/main/assets/tokens/Ebel2x-Index.png"
+    },
   ],
   "version": {
     "major": 0,
