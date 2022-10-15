@@ -625,14 +625,6 @@
       "symbol": "BMETA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/blob/main/assets/tokens/logo%20on%20dark.jpg"
-    },
-    {
-      "chainId": 1,
-      "address": "0x2315AE29E4073cEd78A94BFFaAe36E1241557CB5",
-      "name": "Shuts Crypto",
-      "symbol": "SHUTS",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/crypto_icon.png"
     }
   ],
   "version": {
