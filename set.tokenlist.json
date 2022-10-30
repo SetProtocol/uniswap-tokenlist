@@ -625,7 +625,7 @@
       "symbol": "BMETA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/blob/main/assets/tokens/logo%20on%20dark.jpg"
-    }
+    },
     {
      "chainId": 1,
       "address": "0xfe79ec0c0c325e7b1a6bcc5db1925b84049b30f3",
