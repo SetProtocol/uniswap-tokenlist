@@ -1,0 +1,15 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "Shuts Wave",
+    "setSymbol": "SWAVE",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/crypto_icon.png",               // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/asset_name.png
+    "setDescription": "This token is a representaiton of shuts Crypto Strategy. The objective of this strategy is to deliver long-term capital growth while being 100% invested in the cryptocurrency asset class. The strategy is designed to keep the investor invested in winning crypto trends, and to offload losing crypto assets, therefore enhancing riskreturn measure.",
+    "website": "https://www.shutswealth.com/crypto/",
+    "managerName": "Shuts Wealth Inc",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/crypto_icon.png",           // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/manager_name.png
+    "managerDescription": "Shuts Wealth designs strategies to help you navigate the complex decision-making that comes with investing in cryptocurrencies. It uses the same principles as other established momentum-based strategies used by stock market investors."
+  },
+  "version": 1
+}
