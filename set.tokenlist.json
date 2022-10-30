@@ -675,13 +675,21 @@
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/LCF-logo-100-01.png"
     },
     {
+      "chainId": 1,
+      "address": "0x1639F1bF333970f2f0c1EdA3c72e9eA87295D875",
+      "name": "LunaCapital CEX on the Beach",
+      "symbol": "CEX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/LCF-logo-100-01.png"
+    },
+    {
       "chainId": 1
       "address": "0x1aB294Ed435b695Ff9407b98fE6a5A3aCaAFc837",
       "name": "LunaCapital Dogz of DeFi",
       "symbol": "DOGZ",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/LCF-logo-100-01.png"
-    },
+    }
   ],
   "version": {
     "major": 0,
