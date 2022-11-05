@@ -424,6 +424,6 @@
       "symbol": "KETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/keth.jpg"
-    },
+    }
   ]
 }
