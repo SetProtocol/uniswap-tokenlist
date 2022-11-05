@@ -416,6 +416,14 @@
       "symbol": "SWAVE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/crypto_icon.png"
-    }
+    },
+    {
+      "chainId": 137,
+      "address": "0xB686bf528C77124cbfB65FB4CFC1EED9794F2D74",
+      "name": "Kelly ETH",
+      "symbol": "KETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/keth.jpg"
+    },
   ]
 }

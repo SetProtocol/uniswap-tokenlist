@@ -1,0 +1,14 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "Kelly ETH",
+    "setSymbol": "KETH",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/keth.jpg",
+    "setDescription": "A levered Set Token using the calculated Kelly Criterion fraction based on the historical price history of ETH",
+    "managerName": "shankinson",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/shankinson.jpg",
+    "managerDescription": "Stephen Hankinson"
+  },
+  "version": 1
+}
