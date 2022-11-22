@@ -408,6 +408,22 @@
       "symbol": "TCORP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Token-DAO/uniswap-tokenlist/main/assets/tokens/TCORP_ticker_01_100x100.jpg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xD14D1e501b2b52D6134dB1aD0857Aa91f9BFe2dd",
+      "name": "Shuts Wave",
+      "symbol": "SWAVE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/crypto_icon.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xB686bf528C77124cbfB65FB4CFC1EED9794F2D74",
+      "name": "Kelly ETH",
+      "symbol": "KETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/keth.jpg"
     }
   ]
 }
