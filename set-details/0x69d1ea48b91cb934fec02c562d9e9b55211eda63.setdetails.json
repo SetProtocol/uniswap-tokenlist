@@ -6,9 +6,10 @@
     "setDecimals": 18,
     "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/green-indexes-GII.png",
     "setDescription": "GREEN INFRASTRUCTURE INDEX (GII) — root‐cap weighted index fund that tracks the dynamics of decentralized economy infrastructure projects (protocols, bridges, oracles, lending/borrowing, etc.)\n\nYou can find a detailed description and methodology of the index at: https://daogreen.io",
+    "website": "https://daogreen.io",
     "managerName": "GREEN Group",
     "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/green-group.png",
     "managerDescription": "The Green Group team consists of financiers and managers, analysts and methodologists from all over the world.\n\nWe have teamed up to apply our experience in traditional finance to DeFi and Web3."
   },
-  "version": 1
+  "version": 2
 }
