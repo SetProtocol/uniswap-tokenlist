@@ -1,0 +1,15 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "GREEN EXCHANGES INDEX",
+    "setSymbol": "GEX",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/green-indexes-GEX.png",
+    "setDescription": "GREEN EXCHANGES INDEX (GEX) - root‐cap weighted index fund that tracks the dynamics of centralized (CEX) and decentralized (DEX) exchanges.\n\nYou can find a detailed description and methodology of the index at: https://daogreen.io",
+    "website": "https://daogreen.io",
+    "managerName": "GREEN Group",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/green-group.png",
+    "managerDescription": "The Green Group team consists of financiers and managers, analysts and methodologists from all over the world.\n\nWe have teamed up to apply our experience in traditional finance to DeFi and Web3."
+  },
+  "version": 1
+}

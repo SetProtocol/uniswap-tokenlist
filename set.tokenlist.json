@@ -625,6 +625,30 @@
       "symbol": "BMETA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/blob/main/assets/tokens/logo%20on%20dark.jpg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe5fF9DEa6Cafa3546bb306EA47B5B3A34F25D88E",
+      "name": "EBEL 2X INDEX",
+      "symbol": "EBINX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/blob/main/assets/tokens/Ebel2x-Index.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x69d1ea48b91cb934fec02c562d9e9b55211eda63",
+      "name": "GREEN EXCHANGES INDEX",
+      "symbol": "GEX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/green-indexes-GEX.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x69d1ea48b91cb934fec02c562d9e9b55211eda63",
+      "name": "GREEN METAVERSE INDEX",
+      "symbol": "GMI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/green-indexes-GMI.png"
     }
   ],
   "version": {
