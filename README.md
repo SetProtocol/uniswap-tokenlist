@@ -9,11 +9,11 @@ Not sure how to submit a pull request with the changes outlined below? Use our C
 In order to add your own custom details for your Set, please follow these steps:
 
 1. Get started by forking this repository
-2. Add a new file into the `set-details` folder that is named: `[insert-your-set-address].setdetails.json` (i.e. 0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b.setdetails.json). A template can be found at `set-details/template.setdetails.json`
+2. Add a new file into the `set-details` folder that is named: `[insert-your-set-address].setdetails.json` (i.e. 0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b.setdetails.json). A template can be found at `set-details/template.setdetails.json`. THIS MUST BE THE CHECKSUMMED ADDRESS.
 4. Be sure to include any required media such as token or manager icons in the `/assets` directory under their respective folders
 5. Verify that the details match the required schema [here](https://github.com/SetProtocol/uniswap-tokenlist/blob/main/set-details.schema.json) by pasting the entire entry into this [schema validator](https://www.jsonschemavalidator.net) and see if your input JSON matches properly. See below if you need multi line descriptions
 6. Create a pull request against the master branch and follow the pull request template to submit the proper signature (signed current version number [i.e. 1] via TokenSets UI)
-7. Join our [Discord](https://discord.gg/p7cHp9CG) and ping a team member to review your submission  
+7. Join our [Discord](https://discord.gg/p7cHp9CG) and ping a team member to review your submission
 
 #### 🦄&nbsp;&nbsp;Uniswap TokenList Details (Optional)
 To add your Set details to our Uniswap Tokenlist, add an entry to the details in the `set.tokenlist.json` file, follow other submissions
