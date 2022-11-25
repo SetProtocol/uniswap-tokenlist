@@ -636,7 +636,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x69d1ea48b91cb934fec02c562d9e9b55211eda63",
+      "address": "0x74fdeb5e873b1b1dc2639fef3f2456e9763e1881",
       "name": "GREEN EXCHANGES INDEX",
       "symbol": "GEX",
       "decimals": 18,
@@ -644,7 +644,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x69d1ea48b91cb934fec02c562d9e9b55211eda63",
+      "address": "0x96b4d8d907bdd419e9c0c702b1ce6c84f43f2a80",
       "name": "GREEN METAVERSE INDEX",
       "symbol": "GMI",
       "decimals": 18,
