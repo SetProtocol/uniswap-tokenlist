@@ -604,7 +604,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x69d1ea48b91cb934fec02c562d9e9b55211eda63",
+      "address": "0x69D1EA48b91cB934fec02c562d9E9b55211EdA63",
       "name": "GREEN INFRASTRUCTURE INDEX",
       "symbol": "GII",
       "decimals": 18,
