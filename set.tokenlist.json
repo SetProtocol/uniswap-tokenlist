@@ -649,6 +649,22 @@
       "symbol": "GMI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/green-indexes-GMI.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1bE6f037ee5653529C6E7c66A193eD4374CbC739",
+      "name": "EMILY DAO TOKEN",
+      "symbol": "EMILY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/Emily-DAO-logo.jpg"
+    },
+    {
+      "chainId": 1,
+      "address":"0x9538e139eDda2Be40c03f585C90160E67597D7AF",
+      "name": "MAYA MYID TOKEN",
+      "symbol": "MAYA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/Maya-logo.jpg"
     }
   ],
   "version": {
