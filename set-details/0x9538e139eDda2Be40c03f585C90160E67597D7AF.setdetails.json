@@ -1,0 +1,16 @@
+{
+    "setDetails": {
+      "chainId": 1,
+      "setName": "MAYA MYID TOKEN",
+      "setSymbol": "MAYA",
+      "setDecimals": 18,
+      "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/Maya-logo.jpg",
+      "setDescription": "Passive exposure to the building blocks of maintaining Web 3.0 identity - Civic, LTO, ENS, Handshake & the Ocean Protocol",
+      "website": "https://boudicea.io",
+      "managerName": "Boudicea",
+      "managerTwitter":"Etrusca43951998",
+      "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/SmallSquareLogoJpg.jpg",
+      "managerDescription": "Boudicea is a crypto investor platform and a Set advocate. Boudicea offers an easy entry into the crypto world with core income-generating coins and fully-collateralized thematics"
+    },
+    "version": 1
+  }
