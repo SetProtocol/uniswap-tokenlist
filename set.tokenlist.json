@@ -649,6 +649,14 @@
       "symbol": "GMI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/green-indexes-GMI.png"
+    },
+     {
+      "chainId": 1,
+      "address": "0xb7470Fd67e997b73f55F85A6AF0DeB2c96194885",
+      "name": "Bullran index",
+      "symbol": "BUL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Soul3644/uniswap-tokenlist/main/assets/tokens/BUL.svg"
     }
   ],
   "version": {
