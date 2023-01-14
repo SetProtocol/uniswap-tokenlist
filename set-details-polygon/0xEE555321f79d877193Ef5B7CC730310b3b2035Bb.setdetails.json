@@ -1,0 +1,14 @@
+{
+    "setDetails": {
+      "chainId": 137,
+      "setName": "Normalno Whales Futures Index",
+      "setSymbol": "NoWFI",
+      "setDecimals": 18,
+      "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/nowfi.svg",
+      "setDescription": "",
+      "website": "https://normalno.io",
+      "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/normalno.png",
+      "managerDescription": "Normalno Portfolio Construction :: Mind The Risk"
+    },
+    "version": 1
+}
