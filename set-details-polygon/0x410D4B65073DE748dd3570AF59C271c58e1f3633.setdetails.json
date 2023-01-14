@@ -1,7 +1,7 @@
 {
     "setDetails": {
       "chainId": 137,
-      "setName": "L1 vs L2 Dominance Index",
+      "setName": "L1xL2 Dominance Index",
       "setSymbol": "L1L2",
       "setDecimals": 18,
       "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/l1l2.svg",
