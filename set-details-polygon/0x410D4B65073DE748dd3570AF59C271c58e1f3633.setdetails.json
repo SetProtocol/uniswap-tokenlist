@@ -1,0 +1,14 @@
+{
+    "setDetails": {
+      "chainId": 137,
+      "setName": "L1 vs L2 Dominance Index",
+      "setSymbol": "L1L2",
+      "setDecimals": 18,
+      "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/l1l2.svg",
+      "setDescription": "",
+      "website": "https://normalno.io",
+      "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/normalno.png",
+      "managerDescription": "Normalno is an application for Portfolio Construction using financial mathematic and AI-based approaches"
+    },
+    "version": 1
+}
