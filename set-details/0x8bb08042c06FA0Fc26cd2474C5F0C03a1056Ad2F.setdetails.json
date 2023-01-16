@@ -1,6 +1,6 @@
 {
   "setDetails": {
-    "chainId": "1",
+    "chainId": 1,
     "setName": "Consumer Price Index",
     "setSymbol": "CPI",
     "setDecimals": 18,
