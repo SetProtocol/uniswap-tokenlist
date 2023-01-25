@@ -1,8 +1,8 @@
-The Normalno L1xL2 Dominance Index is a weighted index that tracks the transactions activity and addresses growth inside Layer-1, Layer-2 networks and sidechains.
+L1 x L2 Index is a weighted index that tracks the transactions activity and addresses growth inside Layer-1, Layer-2 networks and sidechains.
 
 Objectives ----
 
-The Normalno L1xL2 Dominance Index is reflected both for transactions activity and addresses growth inside concrete network to determine its dominance. That dominance represents manager’s estimates for optimization using Black–Litterman model.
+L1 x L2 Index is reflected for transactions activity and addresses growth inside the concrete network to determine its dominance. That dominance represents the manager’s estimates for optimization using the Black–Litterman model.
 
 Terms ----
 
@@ -20,10 +20,9 @@ Token Inclusion Criteria ----
 Assets (tokens) must meet the following criteria:
 
 - Market capitalization must be over $100m, at least 6 months of price and liquidity history,
-- Excluding underdeveloped clones/fork,
+- Excluding underdeveloped clones/forks,
 - Rolling 3-month correlation with Ethereum less than 0.8,
-- Must not be consider 
-- Must not be considered a security by the corresponding authorities across different jurisdiction.
+- Must not be considered a security by the corresponding authorities across different jurisdictions.
 
 Index Weight Calculation ----
 
@@ -34,8 +33,8 @@ Index Weight Calculation ----
 2. Set up investment objectives and constrains
    - Optimization strategy: maximize Sharpe ratio
   - Range of assets weight: 1…49%
-2. Taking into account the manager’s estimation, investment objectives and constrains, optimize the portfolio using Black-Litterman model.
-3. Get assets allocation from optimized model.
+1. Taking into account the manager’s estimation, investment objectives and constrains, optimize the portfolio using Black-Litterman model.
+2. Get assets allocation from optimized model.
 
 Index Maintenance ----
 
