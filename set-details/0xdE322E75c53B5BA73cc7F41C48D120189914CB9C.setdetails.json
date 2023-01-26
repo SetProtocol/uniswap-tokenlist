@@ -1,13 +1,14 @@
- "setDetails": {
+{
+  "setDetails": {
     "chainId": 1,
     "setName": "Darien Crypto Fund",
     "setSymbol": "VNB",
     "setDecimals": 18,
-    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/blob/main/assets/tokens/Darien%CF.jpg",              
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/Darien_CF.jpg",
     "setDescription": "\tv Fund Description\n○ This is an actively managed fund which objective is to try to maximize the returns of the participants by investing across all different crypto sectors that are being developed on Ethereum.\n○ There are few rules that will govern this fund, as the intention is to maximize the returns by taking an opportunistic approach to market conditions. Main rules are:\n§ Token should be available on the Ethereum blockchain\n§ Any token subject to being included should be listed at least in one major DEX and/or CEX\n§ If any token weighting increases up to 50% it will be rebalanced to 40% within the following month after the occurrence of the event\n§ There will never be less than 3 tokens in the portfolio nor more than 5\n§ No sector will be excluded from the fund. Any of them could be included at any point in time (i.e. DeFi, Gaming, Metaverse...)\nRegular updates on the strategy or any change in the portfolio composition will be communicated through the Twitter account",
     "managerName": "Darien AM",
-    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/blob/main/assets/managers/Darien%CF.jpg",          
-    "managerTwitter": "https://twitter.com/CryptoDarien"
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/Darien_CF.jpg",
+    "managerTwitter": "https://twitter.com/CryptoDarien",
     "managerDescription": "Darien AM is formed by people with financial background that are currently working within the banking sector, which are fascinated by the crypto space and thus, have created this fund in order to deploy our strategies and investment ideas in a structured manner."
   },
   "version": 1

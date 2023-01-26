@@ -616,7 +616,7 @@
       "name": "BASIC ISLAND INDEX",
       "symbol": "BASIC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/blob/main/assets/tokens/logo%20on%20dark.jpg"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/logo%20on%20dark.jpg"
     },
     {
       "chainId": 1,
@@ -624,7 +624,7 @@
       "name": "BASIC ISLAND METAVERSE",
       "symbol": "BMETA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/blob/main/assets/tokens/logo%20on%20dark.jpg"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/logo%20on%20dark.jpg"
     },
     {
      "chainId": 1,
@@ -632,7 +632,7 @@
       "name": "Darien Crypto Fund",
       "symbol": "VNB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/blob/main/assets/tokens/Darien%CF.jpg"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/Darien%CF.jpg"
     },
     {
       "chainId": 1,
@@ -640,7 +640,7 @@
       "name": "EBEL 2X INDEX",
       "symbol": "EBINX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/blob/main/assets/tokens/Ebel2x-Index.png"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/Ebel2x-Index.png"
     },
     {
       "chainId": 1,
