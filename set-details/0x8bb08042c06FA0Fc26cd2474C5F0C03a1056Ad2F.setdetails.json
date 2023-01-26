@@ -8,7 +8,7 @@
     "setDescription": "The Consumer Price Index (CPI) token is designed to track US price inflation. CPI contains a basket of tokens which track the US consumer price index as well as interest-bearing stablecoins.",
     "website": "CPI_token",
     "managerName": "MoonRock Finance",
-    "managerTwitter": "@MoonRockFi",
+    "managerTwitter": "MoonRockFi",
     "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/MoonRock_logo.png",
     "managerDescription": "MoonRock Finance was founded with the mission of helping users invest passively in cryptocurrency so they can relax and enjoy their financial freedom."
   },
