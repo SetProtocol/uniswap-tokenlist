@@ -627,6 +627,14 @@
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/blob/main/assets/tokens/logo%20on%20dark.jpg"
     },
     {
+     "chainId": 1,
+      "address": "0xdE322E75c53B5BA73cc7F41C48D120189914CB9C",
+      "name": "Darien Crypto Fund",
+      "symbol": "VNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/blob/main/assets/tokens/Darien%CF.jpg"
+    },
+    {
       "chainId": 1,
       "address": "0xe5fF9DEa6Cafa3546bb306EA47B5B3A34F25D88E",
       "name": "EBEL 2X INDEX",
