@@ -94,7 +94,7 @@
       "name": "veToken Index",
       "symbol": "VOTE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/VOTE.png"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/veTOKEN.png"
     },
     {
       "chainId": 1,
