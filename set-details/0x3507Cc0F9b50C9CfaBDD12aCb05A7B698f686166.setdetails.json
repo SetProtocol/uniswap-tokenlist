@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": "1",
+    "setName": "LunaCapital AdTech",
+    "setSymbol": "LIKE",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/LCF-logo-100-01.png",
+    "setDescription": "AdTech consists of tokens trying to give privacy back to Web3 users. Several are also structuring projects so Web3 users own their data and get paid when they want to share with advertisers. Flipping the model!",
+    "website": "https://lunacapital.fund",
+    "managerName": "LunaCapital",
+    "managerTwitter": "CapitalLuna",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/LCF-01.png",
+    "managerDescription": "LunaCapital.fund manages memorable, diversified tokensets on behalf of web3 and crypto investors everywhere. Decentralized, diversified, and simple. We scour the best data and communities to find great portfolios of tokens and altcoins. DYOR."
+  },
+  "version": 1
+}

@@ -211,14 +211,6 @@
     },
     {
       "chainId": 137,
-      "address": "0x5b8510a1449ced5e14bc7050a54b945442f5d5b9",
-      "name": "SAGA DeFi Crypto Strategy K2",
-      "symbol": "SAGA2",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/SAGA2_100x100.png"
-    },
-    {
-      "chainId": 137,
       "address": "0x818D2CfD54a834d34177fe265545CE8a884539B5",
       "name": "Metaverse & Defi Index",
       "symbol": "MDI",
