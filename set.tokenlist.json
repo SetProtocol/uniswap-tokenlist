@@ -660,7 +660,7 @@
     },
     {
     "chainId": 1,
-    "address": "0xfa6b451b054e4a4b19f2a7ac137e67e5c91480a4",
+    "address": "0xfa6B451B054E4A4B19f2A7ac137E67E5c91480A4",
     "name": "LunaCapital Whale Bait",
     "symbol": "KRILL",
     "decimals": 18,
@@ -684,22 +684,22 @@
     },
     {
     "chainId": 1,
-    "address": "0x3507cc0f9b50c9cfabdd12acb05a7b698f686166",
+    "address": "0x3507Cc0F9b50C9CfaBDD12aCb05A7B698f686166",
     "name": "LunaCapital AdTech",
     "symbol": "LIKE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/LCF-logo-100-01.png"
     },
     {
-    "chainId": 1
-    "address": "0xc9448ffb619b3ec10c9e9349c4a3ab9d8fcfc913",
+    "chainId": 1,
+    "address": "0xC9448FFb619b3EC10c9E9349C4a3AB9d8FCfC913",
     "name": "LunaCapital Web3 Picks & Shovels",
     "symbol": "TOOLS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/LCF-logo-100-01.png"
     },
     {
-    "chainId": 1
+    "chainId": 1,
     "address": "0x1aB294Ed435b695Ff9407b98fE6a5A3aCaAFc837",
     "name": "LunaCapital Dogz of DeFi",
     "symbol": "DOGZ",
@@ -708,7 +708,7 @@
     },
     {
     "chainId": 1,
-    "address": "0xd09c07a97eea2db9962aa4f95b6437a43e657858",
+    "address": "0xD09C07A97eEA2Db9962aA4F95B6437a43E657858",
     "name": "LunaCapital Metaverse Games",
     "symbol": "OASIS",
     "decimals": 18,
