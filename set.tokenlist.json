@@ -604,7 +604,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x69d1ea48b91cb934fec02c562d9e9b55211eda63",
+      "address": "0x69D1EA48b91cB934fec02c562d9E9b55211EdA63",
       "name": "GREEN INFRASTRUCTURE INDEX",
       "symbol": "GII",
       "decimals": 18,
@@ -612,7 +612,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x69d1ea48b91cb934fec02c562d9e9b55211eda63",
+      "address": "0xfe79ec0c0c325e7b1a6bcc5db1925b84049b30f3",
       "name": "BASIC ISLAND INDEX",
       "symbol": "BASIC",
       "decimals": 18,
@@ -620,7 +620,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x69d1ea48b91cb934fec02c562d9e9b55211eda63",
+      "address": "0xfbd9cf45268c249b6e8e235a94030b3e17050b73",
       "name": "BASIC ISLAND METAVERSE",
       "symbol": "BMETA",
       "decimals": 18,
@@ -633,6 +633,30 @@
       "symbol": "VNB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/blob/main/assets/tokens/Darien%CF.jpg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe5fF9DEa6Cafa3546bb306EA47B5B3A34F25D88E",
+      "name": "EBEL 2X INDEX",
+      "symbol": "EBINX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/blob/main/assets/tokens/Ebel2x-Index.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x74fDEB5e873B1B1DC2639FEF3f2456E9763e1881",
+      "name": "GREEN EXCHANGES INDEX",
+      "symbol": "GEX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/green-indexes-GEX.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x96B4d8D907bdD419e9C0c702B1Ce6C84F43f2a80",
+      "name": "GREEN METAVERSE INDEX",
+      "symbol": "GMI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/green-indexes-GMI.png"
     }
   ],
   "version": {

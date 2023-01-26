@@ -211,14 +211,6 @@
     },
     {
       "chainId": 137,
-      "address": "0x5b8510a1449ced5e14bc7050a54b945442f5d5b9",
-      "name": "SAGA DeFi Crypto Strategy K2",
-      "symbol": "SAGA2",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/SAGA2_100x100.png"
-    },
-    {
-      "chainId": 137,
       "address": "0x818D2CfD54a834d34177fe265545CE8a884539B5",
       "name": "Metaverse & Defi Index",
       "symbol": "MDI",
@@ -408,6 +400,22 @@
       "symbol": "TCORP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Token-DAO/uniswap-tokenlist/main/assets/tokens/TCORP_ticker_01_100x100.jpg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xD14D1e501b2b52D6134dB1aD0857Aa91f9BFe2dd",
+      "name": "Shuts Wave",
+      "symbol": "SWAVE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/crypto_icon.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xB686bf528C77124cbfB65FB4CFC1EED9794F2D74",
+      "name": "Kelly ETH",
+      "symbol": "KETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/keth.jpg"
     }
   ]
 }
