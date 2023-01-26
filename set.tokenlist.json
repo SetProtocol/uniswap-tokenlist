@@ -745,6 +745,14 @@
       "symbol": "CEX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/LCF-logo-100-01.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8bb08042c06FA0Fc26cd2474C5F0C03a1056Ad2F",
+      "name": "Consumer Price Index",
+      "symbol": "CPI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/CPI_logo_200x200.png"
     }
   ],
   "version": {
