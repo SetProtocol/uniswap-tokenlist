@@ -657,6 +657,70 @@
       "symbol": "GMI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/green-indexes-GMI.png"
+    },
+    {
+    "chainId": 1,
+    "address": "0xfa6b451b054e4a4b19f2a7ac137e67e5c91480a4",
+    "name": "LunaCapital Whale Bait",
+    "symbol": "KRILL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/LCF-logo-100-01.png"
+    },
+    {
+    "chainId": 1,
+    "address": "0xe115982E245E7536b6164CDE424de2e7C49735F9",
+    "name": "LunaCapital Dominating DEXs",
+    "symbol": "SWAP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/LCF-logo-100-01.png"
+    },
+    {
+    "chainId": 1,
+    "address": "0xE7a8A15A081F64496db6D62895ED8b28e79242E5",
+    "name": "LunaCapital Oh So Social",
+    "symbol": "WAGMI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/LCF-logo-100-01.png"
+    },
+    {
+    "chainId": 1,
+    "address": "0x3507cc0f9b50c9cfabdd12acb05a7b698f686166",
+    "name": "LunaCapital AdTech",
+    "symbol": "LIKE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/LCF-logo-100-01.png"
+    },
+    {
+    "chainId": 1
+    "address": "0xc9448ffb619b3ec10c9e9349c4a3ab9d8fcfc913",
+    "name": "LunaCapital Web3 Picks & Shovels",
+    "symbol": "TOOLS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/LCF-logo-100-01.png"
+    },
+    {
+    "chainId": 1
+    "address": "0x1aB294Ed435b695Ff9407b98fE6a5A3aCaAFc837",
+    "name": "LunaCapital Dogz of DeFi",
+    "symbol": "DOGZ",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/LCF-logo-100-01.png"
+    },
+    {
+    "chainId": 1,
+    "address": "0xd09c07a97eea2db9962aa4f95b6437a43e657858",
+    "name": "LunaCapital Metaverse Games",
+    "symbol": "OASIS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/LCF-logo-100-01.png"
+    },
+    {
+    "chainId": 1,
+    "address": "0x1639F1bF333970f2f0c1EdA3c72e9eA87295D875",
+    "name": "LunaCapital CEX on the Beach",
+    "symbol": "CEX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/LCF-logo-100-01.png"
     }
   ],
   "version": {

@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": "1",
+    "setName": "LunaCapital Web3 Picks & Shovels",
+    "setSymbol": "TOOLS",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/LCF-logo-100-01.png",
+    "setDescription": "Web3 Picks & Shovels is clearly for the BUIDLers, the devs, and the projects that can only focus on utility. In every gold rush there are teams that figure out what the picks and shovels are going to be and start selling them. This tokenset has some of the great projects that are making DeFi, NFTs, DEX, CEX, air drops, naming, and other cool Web3 utilities work. They are also the first to tackle recurring revenue streams.",
+    "website": "https://lunacapital.fund",
+    "managerName": "LunaCapital",
+    "managerTwitter": "CapitalLuna",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/LCF-01.png",
+    "managerDescription": "LunaCapital.fund manages memorable, diversified tokensets on behalf of web3 and crypto investors everywhere. Decentralized, diversified, and simple. We scour the best data and communities to find great portfolios of tokens and altcoins. DYOR."
+  },
+  "version": 1
+}
