@@ -1,0 +1,14 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Simple Crypto Index 1",
+    "setSymbol": "SCI1",
+    "setDecimals": 18,
+    "setIcon": "",               // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/asset_name.png
+    "setDescription": "Индексная стратегия на рынке криптовалют",
+    "managerName": "EVG1",
+    "managerIcon": "",           // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/manager_name.png
+    "managerDescription": ""
+  },
+  "version": 1
+}
