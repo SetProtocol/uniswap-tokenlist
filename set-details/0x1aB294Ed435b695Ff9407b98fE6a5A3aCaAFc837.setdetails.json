@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": "1",
+    "setName": "LunaCapital Dogz of DeFi",
+    "setSymbol": "DOGZ",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/LCF-logo-100-01.png",
+    "setDescription": "Dogz of DeFi focuses on the strongest communities. We have selected Doge Chain, which is the EVM-compatible version of Doge Coin. More than $300 million of DOGE is bridged to Doge Chain (DC). Also included are Shiba Inu, Dogelon Mars, and Hoge. The tokens are weighted by social engagement, which is a derivative of interest. You will rarely find more passionate communities.",
+    "website": "https://lunacapital.fund",
+    "managerName": "LunaCapital",
+    "managerTwitter": "CapitalLuna",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/LCF-01.png",
+    "managerDescription": "LunaCapital.fund manages memorable, diversified tokensets on behalf of web3 and crypto investors everyhwere. Decentralized, diversified, and simple. We scour the best data and communities to find great portfolios of tokens and altcoins. DYOR."
+  },
+  "version": 1
+}
