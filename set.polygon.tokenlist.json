@@ -420,10 +420,10 @@
     {
       "chainId": 137,
       "address": "0xEE555321f79d877193Ef5B7CC730310b3b2035Bb",
-      "name": "Normalno Whales Futures Index",
-      "symbol": "NoWFI",
+      "name": "Crypto Whales Index",
+      "symbol": "CWI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/nowfi.svg"
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/cwi.svg"
     }
   ]
 }
