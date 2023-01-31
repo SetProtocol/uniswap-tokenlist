@@ -1,0 +1,15 @@
+{
+  "setDetails": {
+    "chainId": 137,
+    "setName": "Pluto",
+    "setSymbol": "PLUTO",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/pluto_icon.png",               // 
+    "setDescription": "The Pluto Tokenset is based on two distinct strategies:\n\n1. Fundamental assessment of DeFi/Web3 Assets\n2. Algorithmic trading signal\n\nFundamental bucket:\nAssets with a strong standing and/or great potential within their sector are selected and scored to three different levels of conviction (low, medium, high). These conviction levels are re-evaluated weekly by the Pluto Team. The target allocation for each asset is calculated based on the conviction levels, with rebalancing to the target allocation taking place weekly. The periodic rebalancing along with the expert selection of assets are intended to be a source of alpha.\n\nAlgorithmic bucket:\nMore than 4 years of research went into the development of individual trading signals based on alternative data (onchain & sentiment). An overarching algorithm condensates all individual signals to a single aggregated signal. This signal is used to gain long exposure on BTC and ETH and adjust the exposure on a daily basis. All individual signals have been selected to outperform BTC or ETH with regards to risk adjusted returns and represent the intended source of alpha.",
+       // "website": "",
+    "managerName": "Pluto Team",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/pluto_manager_icon.png",           // 
+    "managerDescription": "The Pluto Tokenset is managed collectively by a group of people with track record in Web3 Development, Institutional as well as proprietary Crypto Investment, Algorithmic Trading, Traditional Investment Banking and Corporate Finance. For now, the group chose to remain anonymous.",
+  },
+  "version": 1
+}

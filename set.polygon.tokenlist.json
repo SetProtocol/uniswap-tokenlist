@@ -416,6 +416,14 @@
       "symbol": "KETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/keth.jpg"
+    },
+    {
+      "chainId": 137,
+      "address": "0x4Fe78842412a6C797873362ffCb60588F0F1673C",
+      "name": "Pluto",
+      "symbol": "PLUTO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/pluto_icon.png"
     }
   ]
 }
