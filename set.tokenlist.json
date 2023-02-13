@@ -660,6 +660,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x32dA117F2c4950705921069007A2C495C719854d",
+      "name": "SoulMate Index",
+      "symbol": "SMI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Soul3644/uniswap-tokenlist/main/assets/tokens/SMI.png"
+    },
+    {
+      "chainId": 1,
       "address": "0xb7470Fd67e997b73f55F85A6AF0DeB2c96194885",
       "name": "SoulMate Index",
       "symbol": "SMI",
