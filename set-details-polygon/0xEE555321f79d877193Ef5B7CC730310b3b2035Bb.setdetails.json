@@ -1,0 +1,14 @@
+{
+    "setDetails": {
+      "chainId": 137,
+      "setName": "Crypto Whales Index",
+      "setSymbol": "CWI",
+      "setDecimals": 18,
+      "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/cwi.svg",
+      "setDescription": "Crypto Whales Index is a futures-weighted portfolio that tracks the performance of crypto assets in the most valuable crypto projects.\n\nThe portfolio is reflected Market Cap and Futures Open Interest for a priori estimates of assets weights that optimized using the Black–Litterman model.\n\nNOT FINANCIAL ADVICE. PORTFOLIO IS THE PERSONAL RESEARCH OF OWNER(S). THE RISK OF INVESTING IN CRYPTOCURRENCIES OR CRYPTO RELATED ASSETS IS SUBSTANTIAL AND CAN RESULT IN A COMPLETE LOSS OF FUNDS. PAST PERFORMANCE IS NOT INDICATIVE OF FUTURE RESULTS.",
+      "website": "https://normalno.io",
+      "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/normalno.png",
+      "managerDescription": "Normalno is an application for Portfolio Construction using financial mathematic and AI-based approaches"
+    },
+    "version": 1
+}
