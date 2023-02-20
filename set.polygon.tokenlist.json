@@ -432,6 +432,14 @@
       "symbol": "CWI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/cwi.svg"
+    },
+    {
+      "chainId": 137,
+      "address": "0x410D4B65073DE748dd3570AF59C271c58e1f3633",
+      "name": "L2 x L1 Index",
+      "symbol": "LXL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/lxl.svg"
     }
   ]
 }
