@@ -661,10 +661,10 @@
     {
       "chainId": 1,
       "address": "0xb7470Fd67e997b73f55F85A6AF0DeB2c96194885",
-      "name": "SoulMate Index",
-      "symbol": "SMI",
+      "name": "Bullran Index",
+      "symbol": "BUI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Soul3644/uniswap-tokenlist/main/assets/tokens/SMI.png"
+      "logoURI": "https://raw.githubusercontent.com/Soul3644/uniswap-tokenlist/main/assets/tokens/BUI.png"
     },
     {
       "chainId": 1,
