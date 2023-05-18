@@ -1,0 +1,248 @@
+{
+  "name": "Set",
+  "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/set-logo.svg",
+  "keywords": [
+    "set",
+    "tokensets",
+    "defi"
+  ],
+  "timestamp": "2022-04-01T12:32:17.000+00:00",
+  "tokens": [
+    {
+      "chainId": 10,
+      "address": "0x927Eb0dBC5c3FD172Fdfa72D563f71612eCB6122",
+      "name": "Basis Yield ETH Index",
+      "symbol": "BYE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/BYE.png",
+      "type": "basis_trading",
+      "managerAddress": "0x9fCf0ace77eEAE65eB2fCfb07aD01fC0aBD0B953",
+      "managerName": "GalleonDAOOptimism"
+    },
+    {
+      "chainId": 10,
+      "address": "0x0Be27c140f9Bdad3474bEaFf0A413EC7e19e9B93",
+      "name": "Market Neutral Yield ETH Index",
+      "symbol": "MNYe",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25387/large/MNY-E-token-logo.png?1651644528",
+      "type": "basis_trading",
+      "managerAddress": "0xA047F6900FeE0b6195088a49009eA65365f7DD68",
+      "managerName": "IndexCoopOptimism"
+    },
+    {
+      "chainId": 1,
+      "address": "0x02e7Ac540409D32C90BfB51114003a9E1fF0249c",
+      "name": "JPG NFT Index",
+      "symbol": "JPG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25071/small/JPG-token-logo-01.png?1650242041",
+      "type": "index",
+      "managerAddress": "0x9595eeAF82907cE461842E533427336d27484A0A",
+      "managerName": "MoonRock"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7C07F7aBe10CE8e33DC6C5aD68FE033085256A84",
+      "name": "Interest Compounding ETH Index",
+      "symbol": "icETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24483/large/icETH-token-logo.png?1647826356",
+      "type": "index_yield",
+      "managerAddress": "0x6904110f17feD2162a11B5FA66B188d801443Ea4",
+      "managerName": "IndexCoop"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0fe20e0fa9c78278702b05c333cc000034bb69e2",
+      "name": "ETH Max Yield Index",
+      "symbol": "ETHMAXY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/ethmaxy.png",
+      "type": "index_yield",
+      "managerAddress": "0xBC47077e7c59fc4284922B1C8264ce0bA91d8faD",
+      "managerName": "GalleonDAO"
+    },
+    {
+      "chainId": 137,
+      "address": "0x130cE4E4F76c2265f94a961D70618562de0bb8d2",
+      "name": "Inverse BTC Flexible Leverage Index",
+      "symbol": "iBTC-FLI-P",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24177/large/iBTC-FLI-P_pulse_red.png",
+      "type": "flexible_leverage",
+      "managerAddress": "0x3059AEa6011d83bfDf2Da7B4299Da5D00d0F1237",
+      "managerName": "DeFi_Pulse_Polygon"
+    },
+    {
+      "chainId": 137,
+      "address": "0xd6cA869a4EC9eD2C7E618062Cdc45306d8dBBc14",
+      "name": "BTC 2x Flexible Leverage Index",
+      "symbol": "BTC2x-FLI-P",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24179/large/Copy_of_BTC2x-FLI_token_logo.png",
+      "type": "flexible_leverage",
+      "managerAddress": "0x3059AEa6011d83bfDf2Da7B4299Da5D00d0F1237",
+      "managerName": "DeFi_Pulse_Polygon"
+    },
+    {
+      "chainId": 137,
+      "address": "0x340f412860dA7b7823df372a2b59Ff78b7ae6abc",
+      "name": "Inverse MATIC Flexible Leverage Index",
+      "symbol": "iMATIC-FLI-P",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23424/large/iMATIC-FLI-P-512_%28pulse_red%29.png?1644203917",
+      "type": "flexible_leverage",
+      "managerAddress": "0x3059AEa6011d83bfDf2Da7B4299Da5D00d0F1237",
+      "managerName": "DeFi_Pulse_Polygon"
+    },
+    {
+      "chainId": 137,
+      "address": "0xf287D97B6345bad3D88856b26Fb7c0ab3F2C7976",
+      "name": "MATIC 2x Flexible Leverage Index",
+      "symbol": "MATIC2x-FLI-P",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23388/large/MATIC2x-FLI.png?1644061428",
+      "type": "flexible_leverage",
+      "managerAddress": "0x3059AEa6011d83bfDf2Da7B4299Da5D00d0F1237",
+      "managerName": "DeFi_Pulse_Polygon"
+    },
+    {
+      "chainId": 137,
+      "address": "0x4f025829C4B13dF652f38Abd2AB901185fF1e609",
+      "name": "Inverse ETH Flexible Leverage Index",
+      "symbol": "iETH-FLI-P",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23388/large/MATIC2x-FLI.png?1644061428",
+      "type": "flexible_leverage",
+      "managerAddress": "0x3059AEa6011d83bfDf2Da7B4299Da5D00d0F1237",
+      "managerName": "DeFi_Pulse_Polygon"
+    },
+    {
+      "chainId": 1,
+      "address": "0x47110d43175f7f2C2425E7d15792acC5817EB44f",
+      "name": "Bankless DeFi Innovation Index",
+      "symbol": "GMI",
+      "decimals": 18,
+      "logoURI": "https://set-core.s3.amazonaws.com/img/set-icons/gmi_logo.svg",
+      "type": "rebalancing_index",
+      "managerAddress": "0xf26d1Bb347a59F6C283C53156519cC1B1ABacA51",
+      "managerName": "Bankless"
+    },
+    {
+      "chainId": 137,
+      "address": "0x3Ad707dA309f3845cd602059901E39C4dcd66473",
+      "name": "ETH 2x Flexible Leverage Index",
+      "symbol": "ETH2x-FLI-P",
+      "decimals": 18,
+      "logoURI": "https://set-core.s3.amazonaws.com/img/portfolios/eth2x_fli.svg",
+      "type": "flexible_leverage",
+      "managerAddress": "0x3059AEa6011d83bfDf2Da7B4299Da5D00d0F1237",
+      "managerName": "DeFi_Pulse_Polygon"
+    },
+    {
+      "chainId": 1,
+      "address": "0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1",
+      "name": "Web3 Data Economy Index",
+      "symbol": "DATA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/data_economy_index.jpg",
+      "type": "rebalancing_index",
+      "managerAddress": "0xD2A39911e256da78a4759F992BDF55fbF89809F4",
+      "managerName": "D4_DATA"
+    },
+    {
+      "chainId": 1,
+      "address": "0xfDC4a3FC36df16a78edCAf1B837d3ACAaeDB2CB4",
+      "name": "SCIFI Index",
+      "symbol": "SCIFI",
+      "decimals": 18,
+      "logoURI": "https://set-core.s3.amazonaws.com/img/portfolios/scifi_index.svg",
+      "type": "index",
+      "managerAddress": "0xE9b9446c77bBb2E637E51E446e089070D8f95BB1",
+      "managerName": "SPICE_DAO"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2aF1dF3AB0ab157e1E2Ad8F88A7D04fbea0c7dc6",
+      "name": "Bankless BED Index",
+      "symbol": "BED",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/bankless_bed.png",
+      "type": "rebalancing_index",
+      "managerAddress": "0xf26d1Bb347a59F6C283C53156519cC1B1ABacA51",
+      "managerName": "Bankless"
+    },
+    {
+      "chainId": 1,
+      "address": "0x7b18913D945242A9c313573E6c99064cd940c6aF",
+      "name": "Sushi DAO House",
+      "symbol": "sushiHOUSE",
+      "decimals": 18,
+      "logoURI": "https://set-core.s3.amazonaws.com/img/portfolios/sushi_house.png",
+      "type": "index",
+      "managerAddress": "0xe7481861d4855a4515fbcbEfd2a59EFF601D6d6E",
+      "managerName": "Yam"
+    },
+    {
+      "chainId": 1,
+      "address": "0x0B498ff89709d3838a063f1dFA463091F9801c2b",
+      "name": "BTC 2x Flexible Leverage Index",
+      "symbol": "BTC2x-FLI",
+      "decimals": 18,
+      "logoURI": "https://set-core.s3.amazonaws.com/img/portfolios/fli_btc.svg",
+      "type": "flexible_leverage",
+      "managerAddress": "0x673d140Eed36385cb784e279f8759f495C97cF03",
+      "managerName": "DeFi_Pulse"
+    },
+    {
+      "chainId": 1,
+      "address": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7",
+      "name": "Metaverse Index",
+      "symbol": "MVI",
+      "decimals": 18,
+      "logoURI": "https://set-core.s3.amazonaws.com/img/portfolios/mvi.svg",
+      "type": "rebalancing_index",
+      "managerAddress": "0x700F20b8DA01ac35c697a48D97DcE60e5AA967A1",
+      "managerName": "MetaPortal"
+    },
+    {
+      "chainId": 1,
+      "address": "0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD",
+      "name": "ETH 2x Flexible Leverage Index",
+      "symbol": "ETH2x-FLI",
+      "decimals": 18,
+      "logoURI": "https://set-core.s3.amazonaws.com/img/portfolios/eth2x_fli.svg",
+      "type": "flexible_leverage",
+      "managerAddress": "0x673d140Eed36385cb784e279f8759f495C97cF03",
+      "managerName": "DeFi_Pulse"
+    },
+    {
+      "chainId": 1,
+      "address": "0xAdA0A1202462085999652Dc5310a7A9e2BF3eD42",
+      "name": "CoinShares Gold and Cryptoassets Index Lite",
+      "symbol": "CGI",
+      "decimals": 18,
+      "logoURI": "https://set-core.s3.amazonaws.com/img/portfolios/coinshares_gold.png",
+      "type": "index",
+      "managerAddress": "0x33C330bb162291897faf1CbcA0BEC815d9c31FB6",
+      "managerName": "CoinShares"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
+      "name": "DeFi Pulse Index",
+      "symbol": "DPI",
+      "decimals": 18,
+      "logoURI": "https://set-core.s3.amazonaws.com/img/social_trader_set_icons/defi_pulse_index_set.svg",
+      "type": "rebalancing_index",
+      "managerAddress": "0x673d140Eed36385cb784e279f8759f495C97cF03",
+      "managerName": "DeFi_Pulse"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
