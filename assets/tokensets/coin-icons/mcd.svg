@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>DAI</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-14.1666667%" x2="50%" y2="110.5%" id="linearGradient-1">
+            <stop stop-color="#F9A606" offset="0%"></stop>
+            <stop stop-color="#FBCC5F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="DAI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Badge_Dai" fill-rule="nonzero">
+            <circle id="Oval" fill="url(#linearGradient-1)" cx="12" cy="12" r="12"></circle>
+            <path d="M19.116,10.02 L17.692,10.02 C16.908,7.844 14.8,6.352 12.02,6.352 L7.448,6.352 L7.448,10.02 L5.86,10.02 L5.86,11.336 L7.448,11.336 L7.448,12.716 L5.86,12.716 L5.86,14.032 L7.448,14.032 L7.448,17.656 L12.02,17.656 C14.768,17.656 16.86,16.176 17.664,14.032 L19.116,14.032 L19.116,12.716 L17.984,12.716 C18.012,12.484 18.028,12.244 18.028,12.004 L18.028,11.972 C18.028,11.756 18.016,11.544 17.996,11.336 L19.12,11.336 L19.12,10.02 L19.116,10.02 Z M8.728,7.524 L12.02,7.524 C14.06,7.524 15.576,8.528 16.276,10.016 L8.728,10.016 L8.728,7.524 L8.728,7.524 Z M12.02,16.472 L8.728,16.472 L8.728,14.028 L16.268,14.028 C15.564,15.492 14.052,16.472 12.02,16.472 Z M16.704,12.032 C16.704,12.264 16.688,12.492 16.656,12.712 L8.728,12.712 L8.728,11.332 L16.66,11.332 C16.688,11.548 16.704,11.772 16.704,12 L16.704,12.032 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
