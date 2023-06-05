@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="44px" viewBox="0 0 45 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#2D66F9" offset="0%"></stop>
+            <stop stop-color="#134CDD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="⚖️-V1.5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Choose-your-wallet---Fortmatic" transform="translate(-618.000000, -324.000000)">
+            <g id="Buy-Modal" transform="translate(389.000000, 150.000000)">
+                <g id="Group-3" transform="translate(1.000000, 0.375000)">
+                    <g id="Set-Selectors" transform="translate(22.000000, 117.250000)">
+                        <g id="Group-8-Copy" transform="translate(0.000000, 0.625000)">
+                            <g id="fortmatic-icon" transform="translate(25.386719, 24.000000)">
+                                <g id="Group-2" transform="translate(181.113281, 31.750000)">
+                                    <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="44" height="44" rx="8"></rect>
+                                    <circle id="Oval" fill="#FFFFFF" cx="22" cy="22" r="14"></circle>
+                                    <rect id="Rectangle" fill="#1F57E9" x="17.5" y="17.5" width="9" height="9" rx="1"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

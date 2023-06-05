@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="36px" viewBox="0 0 35 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>portfolio-creator</title>
+    <defs>
+        <circle id="path-1" cx="16.75" cy="16.75" r="16.75"></circle>
+    </defs>
+    <g id="💠-V5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Set-Landing---Custom-Set-1" transform="translate(-128.000000, -186.000000)">
+            <g id="portfolio-creator" transform="translate(145.250000, 203.750000) rotate(-180.000000) translate(-145.250000, -203.750000) translate(128.250000, 186.250000)">
+                <g id="Oval" transform="translate(0.000000, 1.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <circle fill="#E1E1EF" mask="url(#mask-2)" cx="16.75" cy="22.3333333" r="5.58333333"></circle>
+                    <circle fill="#E1E1EF" mask="url(#mask-2)" cx="16.75" cy="3.72222222" r="11.1666667"></circle>
+                </g>
+                <path d="M17,0.75 C26.3888407,0.75 34,8.36115925 34,17.75 C34,27.1388407 26.3888407,34.75 17,34.75 C7.61115925,34.75 -2.4158453e-13,27.1388407 -2.4158453e-13,17.75 C-2.4158453e-13,8.36115925 7.61115925,0.75 17,0.75 Z M17,1.75 C8.163444,1.75 1,8.913444 1,17.75 C1,26.586556 8.163444,33.75 17,33.75 C25.836556,33.75 33,26.586556 33,17.75 C33,8.913444 25.836556,1.75 17,1.75 Z" id="Oval" fill="#E1E1EF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

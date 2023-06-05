@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>green-check</title>
+    <desc>Created with Sketch.</desc>
+    <g id="green-check" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, 0.000000)">
+            <circle id="Oval-2" fill="#2BB160" cx="12" cy="12" r="12"></circle>
+            <path d="M7.37280292,11.6250584 C6.94837819,11.1974361 6.25765762,11.194844 5.83003535,11.6192688 C5.40241308,12.0436935 5.39982096,12.734414 5.82424569,13.1620363 L10.5432508,17.9165936 L18.5670211,7.71748516 C18.9395463,7.24396411 18.8576729,6.55810817 18.3841518,6.18558304 C17.9106308,5.81305791 17.2247748,5.89493128 16.8522497,6.36845234 L10.3538851,14.6285996 L7.37280292,11.6250584 Z" id="Path-23" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

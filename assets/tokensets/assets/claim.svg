@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>claim</title>
+    <desc>Created with Sketch.</desc>
+    <g id="claim" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SetIcon" transform="translate(0.500000, 15.500000)">
+            <ellipse id="Oval-2-Copy" fill="#525C67" fill-rule="nonzero" cx="23.2469775" cy="19.2125758" rx="22.9245516" ry="9.43952123"></ellipse>
+            <polygon id="Rectangle" fill="#525C67" fill-rule="nonzero" points="0.322425917 11.4071806 46.171529 11.4071806 46.171529 19.1129996 0.322425917 19.1129996"></polygon>
+            <path d="M23.2469775,28.652097 C35.9078577,28.652097 46.171529,24.4258794 46.171529,19.2125758 C46.171529,13.9992722 35.9078577,9.77305459 23.2469775,9.77305459 C23.2469775,9.77305459 23.2469775,28.652097 23.2469775,28.652097 Z" id="Oval-2-Copy-2" fill="#6E7D8D" fill-rule="nonzero"></path>
+            <ellipse id="Oval-2" fill="#E1EAF3" fill-rule="nonzero" cx="23.2469775" cy="11.1215576" rx="22.9245516" ry="9.43952123"></ellipse>
+            <ellipse id="Oval-9" fill="#FFFFFF" fill-rule="nonzero" cx="46.9373488" cy="11.4037503" rx="11.2375253" ry="11.2088032"></ellipse>
+            <ellipse id="Oval-9-Copy" fill="#2BB160" fill-rule="nonzero" cx="46.8919438" cy="11.3676524" rx="9.710435" ry="9.68561599"></ellipse>
+            <polygon id="+" fill="#FFFFFF" points="45.6899477 16.2027207 45.6899477 12.0438696 41.8510083 12.0438696 41.8510083 9.71917854 45.6899477 9.71917854 45.6899477 5.5603275 48.2065858 5.5603275 48.2065858 9.71917854 52.0455252 9.71917854 52.0455252 12.0438696 48.2065858 12.0438696 48.2065858 16.2027207"></polygon>
+        </g>
+    </g>
+</svg>

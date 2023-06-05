@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="45px" viewBox="0 0 45 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>sms copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="sms-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#2BB160" x="0" y="0" width="45" height="45" rx="8"></rect>
+        <g id="Group-2" transform="translate(5.319052, 8.068550)" fill="#FFFFFF">
+            <ellipse id="Oval" cx="17.7973229" cy="12.9871166" rx="16.2267882" ry="12.9871166"></ellipse>
+            <path d="M5.62313954,19.2666022 C5.15768619,23.9211358 3.29587277,26.7822331 0.0376992955,27.8498941 C0.0376992955,27.8498941 -0.244615239,28.3577573 0.735879326,28.3429426 C3.60716261,28.2995594 10.5103998,27.6447626 15.39766,20.1699138 C19.394299,14.0572307 16.1361255,13.7561269 5.62313954,19.2666022 Z" id="Path-26"></path>
+        </g>
+    </g>
+</svg>
